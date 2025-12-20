@@ -4,11 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>今日なにする？</title>
-    <!-- LIFF SDK -->
-    <script charset="utf-8" src="https://static.line-scdn.net/liff/edge/2/sdk.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700;800;900&family=RocknRoll+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -18,7 +16,7 @@
         }
 
         body {
-            font-family: 'M PLUS Rounded 1c', sans-serif;
+            font-family: 'Noto Sans JP', sans-serif;
             background: #F49070;
             min-height: 100vh;
             position: fixed;
@@ -44,34 +42,8 @@
             -webkit-overflow-scrolling: touch;
         }
 
-        /* Close & Loading */
-        .close-button {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            width: 44px;
-            height: 44px;
-            border-radius: 50%;
-            border: 3px solid white;
-            background: rgba(255, 255, 255, 0.3);
-            color: white;
-            font-size: 1.25rem;
-            font-weight: 700;
-            cursor: pointer;
-            display: none;
-            align-items: center;
-            justify-content: center;
-            transition: all 0.3s ease;
-            z-index: 1001;
-        }
-
-        .close-button:hover {
-            background: white;
-            color: #F49070;
-            transform: scale(1.1);
-        }
-
-        .liff-loading {
+        /* Loading */
+        .loading-screen {
             position: fixed;
             top: 0;
             left: 0;
@@ -85,7 +57,7 @@
             z-index: 9999;
         }
 
-        .liff-loading.hidden {
+        .loading-screen.hidden {
             display: none;
         }
 
@@ -102,25 +74,24 @@
             to { transform: rotate(360deg); }
         }
 
-        .liff-loading-text {
+        .loading-text {
             margin-top: 20px;
             color: white;
             font-weight: 600;
             font-size: 1.0625rem;
         }
 
+        .loading-subtext {
+            margin-top: 8px;
+            color: rgba(255, 255, 255, 0.8);
+            font-weight: 500;
+            font-size: 0.875rem;
+        }
+
         /* Header */
         header {
             text-align: center;
-            margin-bottom: 12px;
-        }
-
-        .user-greeting {
-            font-size: 1rem;
-            font-weight: 500;
-            color: white;
-            margin-bottom: 8px;
-            display: none;
+            margin-bottom: 20px;
         }
 
         .title-container {
@@ -128,7 +99,7 @@
             align-items: center;
             justify-content: center;
             gap: 12px;
-            margin-bottom: 8px;
+            margin-bottom: 16px;
             flex-wrap: wrap;
         }
 
@@ -140,7 +111,7 @@
         }
 
         .title-highlight {
-            font-family: 'RocknRoll One', 'M PLUS Rounded 1c', sans-serif;
+            font-family: 'Noto Sans JP', sans-serif;
             font-size: 2rem;
             font-weight: 900;
             color: #1A1A1A;
@@ -155,6 +126,7 @@
             font-size: 0.9375rem;
             font-weight: 600;
             color: #1A1A1A;
+            margin-bottom: 4px;
         }
 
         /* Card */
@@ -166,7 +138,8 @@
         .card {
             position: relative;
             width: 100%;
-            min-height: 500px;
+            min-height: calc(100vh - 180px);
+            max-height: calc(100vh - 180px);
             transform-style: preserve-3d;
             transition: transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
         }
@@ -175,15 +148,51 @@
             transform: rotateY(180deg);
         }
 
+        /* パーティクルエフェクト */
+        .card.flipped::before,
+        .card.flipped::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 10px;
+            height: 10px;
+            background: #F0927E;
+            border-radius: 50%;
+            opacity: 0;
+            animation: particle 1s ease-out;
+        }
+
+        .card.flipped::before {
+            animation-delay: 0.2s;
+            background: #E88B77;
+        }
+
+        @keyframes particle {
+            0% {
+                opacity: 1;
+                transform: translate(-50%, -50%) scale(0);
+            }
+            50% {
+                opacity: 1;
+            }
+            100% {
+                opacity: 0;
+                transform: translate(calc(-50% + 100px), calc(-50% - 100px)) scale(3);
+            }
+        }
+
         .card-face {
             position: absolute;
             width: 100%;
-            min-height: 500px;
+            min-height: calc(100vh - 180px);
+            max-height: calc(100vh - 180px);
             background: #F5F0EB;
             border-radius: 32px;
             padding: 28px 24px 36px 24px;
             backface-visibility: hidden;
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            overflow-y: auto;
         }
 
         .card-back {
@@ -209,7 +218,7 @@
             border: 2px solid #E88B77;
             border-radius: 20px;
             font-size: 1rem;
-            font-family: 'M PLUS Rounded 1c', sans-serif;
+            font-family: 'Noto Sans JP', sans-serif;
             font-weight: 500;
             color: #1A1A1A;
             background: white;
@@ -237,7 +246,7 @@
             color: white;
             font-size: 1.25rem;
             font-weight: 800;
-            font-family: 'M PLUS Rounded 1c', sans-serif;
+            font-family: 'Noto Sans JP', sans-serif;
             cursor: pointer;
             margin-top: 8px;
             margin-bottom: 8px;
@@ -270,6 +279,21 @@
             margin-bottom: 16px;
             text-align: center;
             line-height: 1.2;
+            animation: titleReveal 1s cubic-bezier(0.68, -0.55, 0.265, 1.55) both;
+        }
+
+        @keyframes titleReveal {
+            0% {
+                opacity: 0;
+                transform: scale(0.3) rotate(-15deg);
+            }
+            50% {
+                transform: scale(1.1) rotate(5deg);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1) rotate(0deg);
+            }
         }
 
         .result-location {
@@ -278,6 +302,18 @@
             color: #1A1A1A;
             text-align: center;
             margin-bottom: 32px;
+            animation: fadeInUp 0.8s ease-out 0.3s both;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         .result-section {
@@ -286,6 +322,27 @@
             padding: 24px;
             margin-bottom: 20px;
             border: 2px solid #E88B77;
+            animation: slideInLeft 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55) both;
+            animation-delay: calc(0.5s + var(--delay, 0s));
+        }
+
+        .result-section:nth-of-type(1) {
+            --delay: 0s;
+        }
+
+        .result-section:nth-of-type(2) {
+            --delay: 0.15s;
+        }
+
+        @keyframes slideInLeft {
+            from {
+                opacity: 0;
+                transform: translateX(-50px) scale(0.9);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0) scale(1);
+            }
         }
 
         .result-section-title {
@@ -293,6 +350,17 @@
             font-weight: 800;
             color: #E88B77;
             margin-bottom: 12px;
+            animation: fadeIn 0.5s ease-out both;
+            animation-delay: calc(0.6s + var(--delay, 0s));
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
         }
 
         .result-section-content {
@@ -300,6 +368,8 @@
             line-height: 1.7;
             color: #1A1A1A;
             font-weight: 500;
+            animation: fadeIn 0.5s ease-out both;
+            animation-delay: calc(0.7s + var(--delay, 0s));
         }
 
         .tags {
@@ -319,6 +389,26 @@
             color: #E88B77;
             border: 2px solid #E88B77;
             transition: all 0.3s ease;
+            animation: popIn 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55) both;
+            animation-delay: calc(0.8s + var(--tag-delay, 0s));
+        }
+
+        .tag:nth-child(1) { --tag-delay: 0s; }
+        .tag:nth-child(2) { --tag-delay: 0.1s; }
+        .tag:nth-child(3) { --tag-delay: 0.2s; }
+
+        @keyframes popIn {
+            0% {
+                opacity: 0;
+                transform: scale(0) rotate(-180deg);
+            }
+            50% {
+                transform: scale(1.2) rotate(10deg);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1) rotate(0deg);
+            }
         }
 
         .tag:hover {
@@ -327,44 +417,62 @@
             transform: translateY(-2px);
         }
 
-        /* Share & Reset Buttons */
-        .share-button,
-        .reset-button {
+        /* Action Buttons */
+        .reset-button,
+        .ai-search-button {
             width: 100%;
             padding: 20px;
             border-radius: 20px;
             font-size: 1.125rem;
             font-weight: 800;
-            font-family: 'M PLUS Rounded 1c', sans-serif;
+            font-family: 'Noto Sans JP', sans-serif;
             cursor: pointer;
             transition: all 0.3s ease;
             margin-top: 16px;
-        }
-
-        .share-button {
-            background: #F0927E;
-            border: none;
-            color: white;
-            display: none;
-            box-shadow: 0 6px 24px rgba(240, 146, 126, 0.4);
-        }
-
-        .share-button:hover {
-            background: #E88B77;
-            transform: translateY(-2px);
-            box-shadow: 0 8px 32px rgba(240, 146, 126, 0.5);
         }
 
         .reset-button {
             background: white;
             border: 2px solid #E88B77;
             color: #E88B77;
+            animation: bounceIn 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55) 1.2s both;
         }
 
         .reset-button:hover {
             background: #E88B77;
             color: white;
             transform: translateY(-2px);
+        }
+
+        .ai-search-button {
+            background: #F0927E;
+            border: none;
+            color: white;
+            box-shadow: 0 6px 24px rgba(240, 146, 126, 0.4);
+            animation: bounceIn 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55) 1.4s both;
+        }
+
+        @keyframes bounceIn {
+            0% {
+                opacity: 0;
+                transform: scale(0.3) translateY(50px);
+            }
+            50% {
+                transform: scale(1.05) translateY(-10px);
+            }
+            70% {
+                transform: scale(0.95) translateY(5px);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1) translateY(0);
+            }
+        }
+
+        .ai-search-button:hover {
+            background: #E88B77;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 32px rgba(240, 146, 126, 0.5);
         }
 
         /* Responsive */
@@ -376,11 +484,13 @@
             
             .card-face {
                 padding: 24px 20px 32px 20px;
-                min-height: 480px;
+                min-height: calc(100vh - 160px);
+                max-height: calc(100vh - 160px);
             }
 
             .card {
-                min-height: 480px;
+                min-height: calc(100vh - 160px);
+                max-height: calc(100vh - 160px);
             }
             
             .result-title {
@@ -411,8 +521,12 @@
                 padding: 16px 20px 16px 20px;
             }
 
-            .header {
-                margin-bottom: 10px;
+            header {
+                margin-bottom: 16px;
+            }
+
+            .title-container {
+                margin-bottom: 12px;
             }
         }
 
@@ -438,17 +552,14 @@
 </head>
 <body>
     <!-- Loading -->
-    <div class="liff-loading" id="liff-loading">
+    <div class="loading-screen" id="loading-screen">
         <div class="loading"></div>
-        <div class="liff-loading-text">LINE連携中...</div>
+        <div class="loading-text">読み込み中...</div>
+        <div class="loading-subtext">アクティビティデータを準備しています</div>
     </div>
-
-    <!-- Close Button -->
-    <button class="close-button" id="close-btn">✕</button>
 
     <div class="container">
         <header>
-            <div class="user-greeting" id="user-greeting"></div>
             <div class="title-container">
                 <span class="title-text">今日、</span>
                 <span class="title-highlight">なに</span>
@@ -525,19 +636,19 @@
 
                     <div class="tags" id="result-tags"></div>
 
-                    <button class="share-button" id="share-btn">LINEでシェア</button>
                     <button class="reset-button" id="reset-btn">もう一度選ぶ</button>
+                    <button class="ai-search-button" id="ai-search-btn">AIで詳しく調べる</button>
                 </div>
             </div>
         </div>
     </div>
 
     <script>
-        // LIFF設定
-        const LIFF_ID = '2008621315-WjyqJ7mQ';
+        // アクティビティデータベース（非同期読み込み）
+        let activities = [];
 
-        // アクティビティデータベース（簡略版）
-        const activities = [
+        // デフォルトデータ（JSONファイルが読み込めない場合のフォールバック）
+        const defaultActivities = [
             { location: "東京", place: "皇居東御苑", activity: "江戸城の歴史を感じながら散策", time: "2時間", point: "無料で入れる日本庭園の美しさ", season: "通年", people: "1人" },
             { location: "東京", place: "代々木公園", activity: "ピクニック", time: "半日", point: "都会のオアシスで自然を満喫", season: "春", people: "2人" },
             { location: "神奈川", place: "鎌倉", activity: "寺社巡り", time: "1日", point: "歴史と自然が融合した古都", season: "通年", people: "2人" },
@@ -555,14 +666,29 @@
             { location: "神奈川", place: "箱根", activity: "美術館巡りと温泉", time: "1日", point: "アートと自然の融合", season: "通年", people: "2人" }
         ];
 
+        // データ読み込み関数
+        async function loadActivities() {
+            try {
+                const response = await fetch('./activities.json');
+                if (response.ok) {
+                    const data = await response.json();
+                    activities = data;
+                    console.log(`✅ ${activities.length}件のアクティビティを読み込みました`);
+                } else {
+                    throw new Error('JSONファイルが見つかりません');
+                }
+            } catch (error) {
+                console.log('ℹ️  activities.jsonが見つからないため、デフォルトデータを使用します');
+                activities = defaultActivities;
+            }
+        }
+
         // DOM要素
         const decideBtn = document.getElementById('decide-btn');
         const mainCard = document.getElementById('main-card');
         const resetBtn = document.getElementById('reset-btn');
-        const shareBtn = document.getElementById('share-btn');
-        const closeBtn = document.getElementById('close-btn');
-        const liffLoading = document.getElementById('liff-loading');
-        const userGreeting = document.getElementById('user-greeting');
+        const aiSearchBtn = document.getElementById('ai-search-btn');
+        const loadingScreen = document.getElementById('loading-screen');
 
         const timeFilter = document.getElementById('time-filter');
         const peopleFilter = document.getElementById('people-filter');
@@ -577,51 +703,20 @@
 
         let currentResult = null;
 
-        // LIFF初期化
-        async function initializeLiff() {
-            try {
-                await liff.init({ liffId: LIFF_ID });
-                liffLoading.classList.add('hidden');
-
-                if (!liff.isLoggedIn()) {
-                    liff.login();
-                    return;
-                }
-
-                if (!liff.isInClient()) {
-                    closeBtn.style.display = 'flex';
-                }
-
-                const profile = await liff.getProfile();
-                userGreeting.textContent = `${profile.displayName}さん、こんにちは`;
-                userGreeting.style.display = 'block';
-
-                shareBtn.style.display = 'block';
-            } catch (error) {
-                console.error('LIFF初期化エラー:', error);
-                liffLoading.classList.add('hidden');
-            }
+        // 初期化
+        async function initialize() {
+            await loadActivities();
+            loadingScreen.classList.add('hidden');
         }
 
-        // 閉じるボタン
-        closeBtn.addEventListener('click', () => {
-            liff.closeWindow();
-        });
-
-        // シェアボタン
-        shareBtn.addEventListener('click', () => {
+        // Perplexity検索ボタン
+        aiSearchBtn.addEventListener('click', () => {
             if (!currentResult) return;
 
-            const shareMessage = {
-                type: 'text',
-                text: `🎯 今日のおすすめ\n\n📍 ${currentResult.place}（${currentResult.location}）\n${currentResult.activity}\n\n💡 ${currentResult.point}\n\n⏱️ ${currentResult.time} | 👥 ${currentResult.people} | 🌸 ${currentResult.season}`
-            };
-
-            if (liff.isApiAvailable('shareTargetPicker')) {
-                liff.shareTargetPicker([shareMessage])
-                    .then(() => console.log('シェア成功'))
-                    .catch((error) => console.error('シェアエラー:', error));
-            }
+            const searchQuery = `${currentResult.place}（${currentResult.location}）のアクセス方法とおすすめポイント`;
+            const perplexityUrl = `https://www.perplexity.ai/search?q=${encodeURIComponent(searchQuery)}`;
+            
+            window.open(perplexityUrl, '_blank');
         });
 
         // 決めるボタン
@@ -633,26 +728,54 @@
                 season: seasonFilter.value
             };
 
-            // フィルタリング
+            console.log('🔍 検索条件:', filters);
+            console.log('📊 総データ数:', activities.length);
+
+            // ステップ1: すべての条件で完全一致
             let filtered = activities.filter(activity => {
                 return (!filters.time || activity.time === filters.time) &&
                        (!filters.people || activity.people === filters.people) &&
                        (!filters.location || activity.location === filters.location) &&
                        (!filters.season || activity.season === filters.season);
             });
+            console.log('✅ ステップ1 (全条件一致):', filtered.length, '件');
 
-            if (filtered.length === 0) {
-                filtered = activities.filter(activity => 
-                    !filters.location || activity.location === filters.location
-                );
+            // ステップ2: 場所 + 人数 + 季節（時間を除外）
+            if (filtered.length === 0 && filters.time) {
+                filtered = activities.filter(activity => {
+                    return (!filters.people || activity.people === filters.people) &&
+                           (!filters.location || activity.location === filters.location) &&
+                           (!filters.season || activity.season === filters.season);
+                });
+                console.log('⏱️ ステップ2 (時間を除外):', filtered.length, '件');
             }
 
+            // ステップ3: 場所 + 人数（季節を除外）
+            if (filtered.length === 0 && filters.season) {
+                filtered = activities.filter(activity => {
+                    return (!filters.people || activity.people === filters.people) &&
+                           (!filters.location || activity.location === filters.location);
+                });
+                console.log('🌸 ステップ3 (季節を除外):', filtered.length, '件');
+            }
+
+            // ステップ4: 場所のみ
+            if (filtered.length === 0 && filters.location) {
+                filtered = activities.filter(activity => 
+                    activity.location === filters.location
+                );
+                console.log('📍 ステップ4 (場所のみ):', filtered.length, '件');
+            }
+
+            // ステップ5: すべてから選択
             if (filtered.length === 0) {
                 filtered = activities;
+                console.log('🎲 ステップ5 (全データ):', filtered.length, '件');
             }
 
             // ランダム選択
             const selected = filtered[Math.floor(Math.random() * filtered.length)];
+            console.log('🎯 選択結果:', selected.place, `(${selected.location})`);
             displayResult(selected);
 
             // カードフリップ
@@ -687,8 +810,8 @@
             mainCard.classList.remove('flipped');
         });
 
-        // 初期化
-        initializeLiff();
+        // 初期化実行
+        initialize();
     </script>
 </body>
 </html>
