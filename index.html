@@ -4,6 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>今日なにする？</title>
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZCM130H3XQ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-ZCM130H3XQ');
+    </script>
+    
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -716,6 +726,15 @@
             const searchQuery = `${currentResult.place}（${currentResult.location}）のアクセス方法とおすすめポイント`;
             const perplexityUrl = `https://www.perplexity.ai/search?q=${encodeURIComponent(searchQuery)}`;
             
+            // GA4イベント: AI検索クリック
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'ai_search_click', {
+                    spot_name: currentResult.place,
+                    location: currentResult.location,
+                    search_query: searchQuery
+                });
+            }
+            
             window.open(perplexityUrl, '_blank');
         });
 
@@ -727,6 +746,16 @@
                 location: locationFilter.value,
                 season: seasonFilter.value
             };
+
+            // GA4イベント: 検索実行
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'search_activity', {
+                    time_filter: filters.time || '指定なし',
+                    people_filter: filters.people || '指定なし',
+                    location_filter: filters.location || '指定なし',
+                    season_filter: filters.season || '指定なし'
+                });
+            }
 
             console.log('🔍 検索条件:', filters);
             console.log('📊 総データ数:', activities.length);
@@ -776,6 +805,19 @@
             // ランダム選択
             const selected = filtered[Math.floor(Math.random() * filtered.length)];
             console.log('🎯 選択結果:', selected.place, `(${selected.location})`);
+            
+            // GA4イベント: スポット選択
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'spot_selected', {
+                    spot_name: selected.place,
+                    location: selected.location,
+                    activity: selected.activity,
+                    time: selected.time,
+                    people: selected.people,
+                    season: selected.season
+                });
+            }
+            
             displayResult(selected);
 
             // カードフリップ
@@ -807,6 +849,13 @@
 
         // リセット
         resetBtn.addEventListener('click', () => {
+            // GA4イベント: もう一度選ぶ
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'reset_click', {
+                    previous_spot: currentResult ? currentResult.place : 'unknown'
+                });
+            }
+            
             mainCard.classList.remove('flipped');
         });
 
