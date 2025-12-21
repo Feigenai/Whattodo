@@ -1628,4 +1628,2083 @@
     "season": "春",
     "people": "2人"
   }
+  {
+    "location": "東京",
+    "place": "小石川植物園",
+    "activity": "多様な植物の観察と散策",
+    "time": "2時間",
+    "point": "日本最古の植物園で歴史的価値が高い",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "和田倉噴水公園",
+    "activity": "噴水のライトアップ鑑賞",
+    "time": "1時間",
+    "point": "皇居外苑にある静かで幻想的な空間",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "旧芝離宮恩賜庭園",
+    "activity": "名石を眺めながらの散策",
+    "time": "1時間",
+    "point": "ビル群に囲まれた江戸初期の大名庭園",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "殿ヶ谷戸庭園",
+    "activity": "湧水と崖線の景観を楽しむ",
+    "time": "1時間",
+    "point": "国分寺の自然地形を生かした回遊式庭園",
+    "season": "秋",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "江戸東京たてもの園",
+    "activity": "歴史的建造物の見学",
+    "time": "3時間",
+    "point": "ジブリ映画のインスピレーション源とも言われる",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "奥多摩湖",
+    "activity": "湖畔のドライブとハイキング",
+    "time": "半日",
+    "point": "都内とは思えない雄大な自然",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "御岳山",
+    "activity": "ロックガーデンでのハイキング",
+    "time": "1日",
+    "point": "パワースポットとしても知られる霊山",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "高畑不動尊",
+    "activity": "五重塔の拝観と散策",
+    "time": "1時間",
+    "point": "新選組・土方歳三ゆかりの寺院",
+    "season": "初夏",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "葛西臨海公園",
+    "activity": "大観覧車からの景色鑑賞",
+    "time": "2時間",
+    "point": "東京湾を一望できる広大な都立公園",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "上野東照宮",
+    "activity": "黄金の社殿の拝観",
+    "time": "1時間",
+    "point": "戦災を免れた貴重な江戸初期の建築",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "柴又帝釈天",
+    "activity": "参道の食べ歩きと彫刻見学",
+    "time": "2時間",
+    "point": "映画「男はつらいよ」の舞台",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "矢切の渡し",
+    "activity": "木造船での江戸川渡り体験",
+    "time": "30分",
+    "point": "都内唯一残る江戸時代の渡し舟",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "東京都写真美術館",
+    "activity": "写真と映像のアート鑑賞",
+    "time": "2時間",
+    "point": "恵比寿にある日本初の写真専門美術館",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "国立科学博物館",
+    "activity": "恐竜の骨格標本見学",
+    "time": "3時間",
+    "point": "日本最大級の総合科学博物館",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "湯島聖堂",
+    "activity": "孔子廟の参拝",
+    "time": "1時間",
+    "point": "徳川綱吉によって建てられた儒教の殿堂",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "神田明神",
+    "activity": "勝負事の祈願",
+    "time": "1時間",
+    "point": "江戸の総鎮守として親しまれる神社",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "旧岩崎邸庭園",
+    "activity": "洋館と和館の見学",
+    "time": "1.5時間",
+    "point": "三菱財閥の豪華絢爛な邸宅",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "雑司ヶ谷 鬼子母神堂",
+    "activity": "安産祈願と駄菓子屋巡り",
+    "time": "1時間",
+    "point": "境内に日本最古の駄菓子屋がある",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "目黒寄生虫館",
+    "activity": "珍しい標本の見学",
+    "time": "1時間",
+    "point": "世界でも珍しい寄生虫専門の博物館",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "三鷹の森ジブリ美術館",
+    "activity": "アニメの世界に浸る",
+    "time": "3時間",
+    "point": "スタジオジブリの独自の世界観を体験",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "世田谷線散策",
+    "activity": "路面電車でのんびり旅",
+    "time": "半日",
+    "point": "豪徳寺の招き猫など見どころ満載",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "池上本門寺",
+    "activity": "五重塔見学と階段登り",
+    "time": "1.5時間",
+    "point": "日蓮聖人入滅の霊場",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "夢の島熱帯植物館",
+    "activity": "熱帯植物の鑑賞",
+    "time": "1.5時間",
+    "point": "ゴミ焼却の余熱を利用した植物園",
+    "season": "冬",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "アーティゾン美術館",
+    "activity": "印象派から現代のアート鑑賞",
+    "time": "2時間",
+    "point": "最新設備を備えた洗練された美術館",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "東京ジャーミイ",
+    "activity": "モスクの建築美を見学",
+    "time": "1時間",
+    "point": "日本最大級の美しいイスラム寺院",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "向島百花園",
+    "activity": "草花を眺めながらの散策",
+    "time": "1時間",
+    "point": "江戸時代からの趣を残す花園",
+    "season": "初秋",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "国立西洋美術館",
+    "activity": "ロダンの彫刻鑑賞",
+    "time": "2時間",
+    "point": "世界文化遺産に登録された建築",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "日比谷公園",
+    "activity": "噴水広場での休息",
+    "time": "1時間",
+    "point": "日本初の近代式洋風公園",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "赤坂離宮",
+    "activity": "迎賓館の参観",
+    "time": "1.5時間",
+    "point": "日本唯一のネオ・バロック様式の宮殿建築",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "靖国神社",
+    "activity": "遊就館での歴史学習",
+    "time": "2時間",
+    "point": "日本の近代史を感じる場所",
+    "season": "春",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "水天宮",
+    "activity": "安産・子授け祈願",
+    "time": "1時間",
+    "point": "近代的な社殿が特徴的な神社",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "増上寺",
+    "activity": "徳川将軍家霊廟の拝観",
+    "time": "1時間",
+    "point": "東京タワーとのコラボレーションが絶景",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "谷中霊園",
+    "activity": "著名人の墓所巡りと散策",
+    "time": "1.5時間",
+    "point": "桜の名所としても有名な情緒ある墓地",
+    "season": "春",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "鳩山会館",
+    "activity": "ステンドグラスとバラの鑑賞",
+    "time": "1時間",
+    "point": "音羽御殿と呼ばれた政治家の邸宅",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "竹の塚・生物園",
+    "activity": "蝶や小動物とのふれあい",
+    "time": "2時間",
+    "point": "巨大な温室で蝶が舞う姿は圧巻",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "多摩六都科学館",
+    "activity": "プラネタリウム鑑賞",
+    "time": "2時間",
+    "point": "世界一に認定されたプラネタリウム",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "羽村取水堰",
+    "activity": "玉川上水の源流散策",
+    "time": "1時間",
+    "point": "江戸の水道を支えた歴史的遺構",
+    "season": "春",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "秋葉原電気街",
+    "activity": "家電・アニメショップ巡り",
+    "time": "半日",
+    "point": "世界に誇るポップカルチャーの聖地",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "築地本願寺",
+    "activity": "異国情緒漂う寺院参拝",
+    "time": "1時間",
+    "point": "インド様式の外観とパイプオルガン",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "世田谷美術館",
+    "activity": "緑に囲まれた中でのアート鑑賞",
+    "time": "2時間",
+    "point": "砧公園内にある落ち着いた美術館",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "旧古河庭園",
+    "activity": "バラと洋館、日本庭園の鑑賞",
+    "time": "1.5時間",
+    "point": "ジョサイア・コンドル設計の美しい洋館",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "府中市郷土の森博物館",
+    "activity": "古民家見学とプラネタリウム",
+    "time": "半日",
+    "point": "広大な敷地に江戸から昭和の建物が点在",
+    "season": "初春",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "サンリオピューロランド",
+    "activity": "キャラクターとの交流",
+    "time": "1日",
+    "point": "完全屋内型のサンリオテーマパーク",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "井の頭自然文化園",
+    "activity": "モルモットとのふれあい",
+    "time": "2時間",
+    "point": "リスの小径でリスを間近に観察できる",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "東京都現代美術館",
+    "activity": "現代美術の最前線を体験",
+    "time": "2.5時間",
+    "point": "大規模なインスタレーション展示が多い",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "マクセル アクアパーク品川",
+    "activity": "イルカパフォーマンス鑑賞",
+    "time": "2時間",
+    "point": "音・光・映像が融合した次世代水族館",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "東京おもちゃ美術館",
+    "activity": "木のおもちゃで遊ぶ",
+    "time": "2時間",
+    "point": "廃校を利用した体験型ミュージアム",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "神田古書店街",
+    "activity": "掘り出し物の本探し",
+    "time": "2時間",
+    "point": "世界最大級の古書店街",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "東京国立博物館",
+    "activity": "国宝や重要文化財の鑑賞",
+    "time": "3時間",
+    "point": "日本最古かつ最大の博物館",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "神奈川",
+    "place": "長谷寺",
+    "activity": "鎌倉の海を眺めながら参拝",
+    "time": "1.5時間",
+    "point": "十一面観音とあじさいの名所",
+    "season": "初夏",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "川崎大師",
+    "activity": "護摩祈祷と仲見世通り散策",
+    "time": "1.5時間",
+    "point": "厄除け大師として全国的に有名",
+    "season": "冬",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "藤子・F・不二雄ミュージアム",
+    "activity": "ドラえもんの世界を体験",
+    "time": "3時間",
+    "point": "作品の原画展示やオリジナル短編映画",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "さがみ湖リゾート プレジャーフォレスト",
+    "activity": "アスレチックとイルミネーション",
+    "time": "1日",
+    "point": "関東最大級のイルミリオンが話題",
+    "season": "冬",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "小田原城",
+    "activity": "天守閣からの眺望",
+    "time": "2時間",
+    "point": "北条氏の拠点だった難攻不落の城",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "万葉公園",
+    "activity": "滝を眺めながらの足湯",
+    "time": "1.5時間",
+    "point": "湯河原温泉にある癒しの公園",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "ポーラ美術館",
+    "activity": "森の中でのアート鑑賞",
+    "time": "2.5時間",
+    "point": "印象派のコレクションが充実",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "横浜イングリッシュガーデン",
+    "activity": "多様なバラの鑑賞",
+    "time": "1.5時間",
+    "point": "横浜の気候に合ったバラが咲き誇る",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "寒川神社",
+    "activity": "八方除けの祈願",
+    "time": "1時間",
+    "point": "全国唯一の八方除の守護神",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "神奈川",
+    "place": "大山阿夫利神社",
+    "activity": "ケーブルカーでの参拝",
+    "time": "半日",
+    "point": "ミシュラン・グリーンガイド2つ星の絶景",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "生田緑地",
+    "activity": "プラネタリウムと古民家見学",
+    "time": "半日",
+    "point": "川崎市最大の緑豊かな公園",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "ソレイユの丘",
+    "activity": "動物とのふれあいとキャンプ",
+    "time": "1日",
+    "point": "三浦半島の自然を満喫できる農園パーク",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "箱根ラリック美術館",
+    "activity": "ジュエリーとガラスのアート鑑賞",
+    "time": "2時間",
+    "point": "オリエント急行の車両でティータイム",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "由比ヶ浜",
+    "activity": "海辺の散歩",
+    "time": "1時間",
+    "point": "鎌倉を代表する開放的なビーチ",
+    "season": "夏",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "七里ヶ浜",
+    "activity": "絶景カフェでパンケーキ",
+    "time": "2時間",
+    "point": "江ノ島と富士山を望むオーシャンビュー",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "銭洗弁財天宇賀福神社",
+    "activity": "霊水でお金を洗う",
+    "time": "1時間",
+    "point": "金運アップのパワースポット",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "横浜ハンマーヘッド",
+    "activity": "海が見えるレストランで食事",
+    "time": "2時間",
+    "point": "食をテーマにした商業施設と客船ターミナル",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "元町ショッピングストリート",
+    "activity": "老舗ブランドショップ巡り",
+    "time": "2時間",
+    "point": "横浜らしいハイカラな雰囲気の商店街",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "外交官の家",
+    "activity": "洋館の見学とティータイム",
+    "time": "1時間",
+    "point": "山手の丘に立つ重要文化財の洋館",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "県立三ツ池公園",
+    "activity": "桜並木の散策",
+    "time": "2時間",
+    "point": "日本さくら名所100選の一つ",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "宮ヶ瀬ダム",
+    "activity": "迫力の放流見学",
+    "time": "2時間",
+    "point": "巨大な重力式コンクリートダム",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "仙石原すすき草原",
+    "activity": "黄金色の草原を歩く",
+    "time": "1時間",
+    "point": "秋の箱根を代表する絶景スポット",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "箱根関所",
+    "activity": "江戸時代の関所を体感",
+    "time": "1時間",
+    "point": "当時の姿を忠実に復元した歴史施設",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "恩賜箱根公園",
+    "activity": "芦ノ湖と富士山の絶景鑑賞",
+    "time": "1.5時間",
+    "point": "旧箱根離宮跡地に広がる見事な庭園",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "油壺温泉",
+    "activity": "富士山を望む露天風呂",
+    "time": "2時間",
+    "point": "相模湾に沈む夕日が美しい温泉地",
+    "season": "冬",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "観音崎公園",
+    "activity": "日本最古の洋式灯台見学",
+    "time": "2時間",
+    "point": "浦賀水道を行き交う船を眺める",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "くりはま花の国",
+    "activity": "ゴジラの滑り台と季節の花々",
+    "time": "2時間",
+    "point": "ポピーやコスモスが斜面を埋め尽くす",
+    "season": "秋",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "ペリー公園",
+    "activity": "歴史的な開国記念館見学",
+    "time": "1時間",
+    "point": "ペリーが上陸した場所にある公園",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "神奈川",
+    "place": "県立四季の森公園",
+    "activity": "里山の風景を楽しむ",
+    "time": "2時間",
+    "point": "横浜市内とは思えない豊かな自然",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "カップヌードルミュージアム 横浜",
+    "activity": "オリジナルカップヌードル作り",
+    "time": "2時間",
+    "point": "創造的思考を学べる体験型ミュージアム",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "三菱みなとみらい技術館",
+    "activity": "最新の航空・宇宙技術体験",
+    "time": "2時間",
+    "point": "宇宙開発や深海探索を学べる",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "横浜人形の家",
+    "activity": "世界中の人形を見学",
+    "time": "1.5時間",
+    "point": "140カ国以上の人形が集まる",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "ブリキのおもちゃ博物館",
+    "activity": "懐かしいおもちゃの鑑賞",
+    "time": "1時間",
+    "point": "北原照久氏の膨大なコレクション",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "横浜市電保存館",
+    "activity": "レトロな路面電車の見学",
+    "time": "1.5時間",
+    "point": "かつて横浜を走っていた市電が並ぶ",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "大磯ロングビーチ",
+    "activity": "巨大プールでのレジャー",
+    "time": "1日",
+    "point": "相模湾を望むリゾート感満載のプール",
+    "season": "夏",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "旧吉田茂邸",
+    "activity": "昭和の名宰相の邸宅見学",
+    "time": "1.5時間",
+    "point": "美しい庭園と重厚な和風建築",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "氷川丸",
+    "activity": "戦前の豪華客船の船内見学",
+    "time": "1時間",
+    "point": "山下公園に係留された国の重要文化財",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "等々力緑地",
+    "activity": "釣り場やミュージアム巡り",
+    "time": "半日",
+    "point": "川崎市の複合的なレジャースポット",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "東名高速 海老名SA",
+    "activity": "話題のメロンパンを堪能",
+    "time": "1時間",
+    "point": "日本一の利用者数を誇るサービスエリア",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "逗子マリーナ",
+    "activity": "リゾート気分の散策",
+    "time": "1.5時間",
+    "point": "ヤシの木が並ぶ海外のような風景",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "立石公園",
+    "activity": "奇岩と海の景色鑑賞",
+    "time": "1時間",
+    "point": "富士山を望む夕景の撮影スポット",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "浄妙寺",
+    "activity": "鎌倉五山の寺院で抹茶",
+    "time": "1時間",
+    "point": "歴史ある洋館でのカフェも併設",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "建長寺",
+    "activity": "本格的な禅寺を参拝",
+    "time": "1.5時間",
+    "point": "日本最初の禅寺とされる格式高い寺院",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "円覚寺",
+    "activity": "国宝の舎利殿を拝観",
+    "time": "1.5時間",
+    "point": "北鎌倉駅の目の前にある静寂な空間",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "神奈川県立近代美術館 葉山",
+    "activity": "海を見ながらアートに浸る",
+    "time": "2時間",
+    "point": "一色海岸に隣接した開放的な美術館",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "神奈川",
+    "place": "横須賀中央 どぶ板通り",
+    "activity": "スカジャン探しとネイビーバーガー",
+    "time": "2時間",
+    "point": "アメリカと日本の文化が混ざり合う街",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "三浦海岸",
+    "activity": "早咲きの河津桜鑑賞",
+    "time": "2時間",
+    "point": "2月に桜と菜の花の共演が楽しめる",
+    "season": "初春",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "大山阿夫利神社 下社",
+    "activity": "神社の湧水を頂く",
+    "time": "1時間",
+    "point": "ケーブルカーで気軽に行ける絶景ポイント",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "箱根小涌園ユネッサン",
+    "activity": "ユニークな温泉プール体験",
+    "time": "半日",
+    "point": "ワイン風呂やコーヒー風呂が人気",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "香取神宮",
+    "activity": "黒漆塗りの本殿を参拝",
+    "time": "1.5時間",
+    "point": "東国三社の一つで勝負運の神様",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "千葉市科学館",
+    "activity": "体験型展示で科学を学ぶ",
+    "time": "2時間",
+    "point": "最新のプラネタリウムも備える",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "稲毛海浜公園",
+    "activity": "人工ビーチでのんびり",
+    "time": "2時間",
+    "point": "日本初の人工海浜がある広い公園",
+    "season": "夏",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "地球の丸く見える丘展望館",
+    "activity": "360度の地平線鑑賞",
+    "time": "1時間",
+    "point": "水平線が弧を描き地球の丸さを実感",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "屏風ケ浦",
+    "activity": "東洋のドーバーを眺める",
+    "time": "1時間",
+    "point": "延々と続く断崖絶壁の景勝地",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "国立歴史民俗博物館",
+    "activity": "日本の歴史と文化を学ぶ",
+    "time": "3時間",
+    "point": "佐倉城址公園内にある巨大な博物館",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "千葉",
+    "place": "佐倉城址公園",
+    "activity": "名城跡の散策",
+    "time": "1.5時間",
+    "point": "四季折々の自然と土塁が残る",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "ふなばしアンデルセン公園",
+    "activity": "風車を背景にアスレチック",
+    "time": "1日",
+    "point": "世界的に評価の高いテーマパーク",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "サッポロビール 千葉工場",
+    "activity": "ビール工場の見学",
+    "time": "1.5時間",
+    "point": "海を眺めながらの出来立てビール",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "航空科学博物館",
+    "activity": "実物機体の見学",
+    "time": "2時間",
+    "point": "成田空港のすぐそばで飛行機を体感",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "成田空港見学コース",
+    "activity": "展望デッキからの離着陸鑑賞",
+    "time": "1.5時間",
+    "point": "世界中の飛行機が見られる日本最大の空の玄関口",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "野島埼灯台",
+    "activity": "房総最南端からの眺望",
+    "time": "1時間",
+    "point": "白い灯台と青い海のコントラスト",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "城山公園（館山）",
+    "activity": "館山城見学と富士山鑑賞",
+    "time": "1.5時間",
+    "point": "鏡ヶ浦を一望できる絶景スポット",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "沖ノ島公園",
+    "activity": "砂州を歩いて無人島へ",
+    "time": "2時間",
+    "point": "シュノーケリングも楽しめる澄んだ海",
+    "season": "夏",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "鴨川温泉",
+    "activity": "オーシャンビューの露天風呂",
+    "time": "2時間",
+    "point": "太平洋の波音を聞きながらリラックス",
+    "season": "冬",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "仁右衛門島",
+    "activity": "手漕ぎ舟で島へ渡る",
+    "time": "1.5時間",
+    "point": "千葉県指定の名勝である個人所有の島",
+    "season": "初夏",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "誕生寺",
+    "activity": "日蓮聖人の誕生の地を参拝",
+    "time": "1時間",
+    "point": "鯛の浦の遊覧船乗り場も近い",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "鯛の浦遊覧船",
+    "activity": "泳ぐ鯛の群れを鑑賞",
+    "time": "1時間",
+    "point": "国の特別天然記念物である神秘的な鯛",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "勝浦朝市",
+    "activity": "新鮮な魚介類の買い出し",
+    "time": "1時間",
+    "point": "400年以上続く日本三大朝市の一つ",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "かつうら海中公園",
+    "activity": "海中展望塔から魚を観察",
+    "time": "1時間",
+    "point": "濡れずに海底の世界を楽しめる",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "月の沙漠記念館",
+    "activity": "御宿の海岸を散策",
+    "time": "1時間",
+    "point": "ラクダの像があるロマンチックな砂浜",
+    "season": "夏",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "太海フラワー磯釣りセンター",
+    "activity": "釣り体験と花鑑賞",
+    "time": "2時間",
+    "point": "家族で楽しめる海沿いのレジャースポット",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "九十九里ハーブガーデン",
+    "activity": "ハーブティー作り体験",
+    "time": "2時間",
+    "point": "多種多様なハーブが咲く癒しの庭",
+    "season": "初夏",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "蓮沼ウォーターガーデン",
+    "activity": "巨大スライダーで遊ぶ",
+    "time": "1日",
+    "point": "千葉県最大級のプール施設",
+    "season": "夏",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "白子温泉",
+    "activity": "ヨウ素を多く含む温泉で美肌に",
+    "time": "2時間",
+    "point": "テニスコートが多いスポーツ拠点",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "富津公園",
+    "activity": "展望塔からの絶景鑑賞",
+    "time": "1.5時間",
+    "point": "東京湾に突き出た岬にある公園",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "マザー牧場 オートキャンプ場",
+    "activity": "自然の中でのキャンプ",
+    "time": "1泊2日",
+    "point": "動物の鳴き声で目覚める贅沢",
+    "season": "秋",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "市原ぞうの国",
+    "activity": "象の背中に乗る体験",
+    "time": "3時間",
+    "point": "日本最多の象を飼育する動物園",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "濃溝の滝",
+    "activity": "幻想的な光の差し込みを撮影",
+    "time": "1時間",
+    "point": "SNSで話題になったハート型の光",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "ホキ美術館",
+    "activity": "写実絵画の鑑賞",
+    "time": "2時間",
+    "point": "世界初の写実絵画専門美術館",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "千葉",
+    "place": "千葉県立美術館",
+    "activity": "千葉ゆかりのアート鑑賞",
+    "time": "1.5時間",
+    "point": "千葉ポートパーク内にある落ち着いた施設",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "千葉",
+    "place": "木更津 かんらんしゃパーク",
+    "activity": "観覧車から富士山を眺める",
+    "time": "1時間",
+    "point": "アウトレットの隣にある遊園地",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "中の島大橋",
+    "activity": "日本一高い歩道橋を渡る",
+    "time": "30分",
+    "point": "夕日の名所として知られる恋人の聖地",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "袖ケ浦海浜公園",
+    "activity": "千葉フォルニアでの撮影",
+    "time": "1時間",
+    "point": "ヤシの木が並ぶアメリカ西海岸のような景色",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "道の駅 保田小学校",
+    "activity": "懐かしの給食を食べる",
+    "time": "2時間",
+    "point": "小学校の校舎を再利用したユニークな道の駅",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "館山ファミリーパーク",
+    "activity": "ポピー摘み体験",
+    "time": "1.5時間",
+    "point": "一面のポピー畑が春を告げる",
+    "season": "初春",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "アロハガーデンたてやま",
+    "activity": "南国の花々と動物に出会う",
+    "time": "2時間",
+    "point": "千葉県最大級の動植物園",
+    "season": "夏",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "ポピーの里 館山クヒオ通り",
+    "activity": "海沿いのドライブ",
+    "time": "1時間",
+    "point": "温暖な南房総を感じるルート",
+    "season": "初春",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "茂原公園",
+    "activity": "弁天湖を囲む桜鑑賞",
+    "time": "1.5時間",
+    "point": "日本さくら名所100選に選ばれた名所",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "我孫子市鳥の博物館",
+    "activity": "世界中の鳥の標本を見学",
+    "time": "1.5時間",
+    "point": "日本唯一の鳥類専門博物館",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "千葉",
+    "place": "あけぼの山農業公園",
+    "activity": "チューリップと風車の鑑賞",
+    "time": "1.5時間",
+    "point": "まるでオランダのような風景",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "本土寺",
+    "activity": "あじさいと紅葉の鑑賞",
+    "time": "1.5時間",
+    "point": "あじさい寺として松戸市で有名",
+    "season": "初夏",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "戸定邸",
+    "activity": "徳川家最後の邸宅見学",
+    "time": "1時間",
+    "point": "水戸藩最後の藩主・徳川昭武の別邸",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "小岩井農場（千葉）",
+    "activity": "乗馬体験と濃厚ソフトクリーム",
+    "time": "2時間",
+    "point": "のんびりとした時間が流れる牧場",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "酒々井まがり家",
+    "activity": "地酒の試飲とお買い物",
+    "time": "1時間",
+    "point": "老舗酒蔵の飯沼本家が運営する交流の場",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "印沼公園",
+    "activity": "広大な湿原の散策",
+    "time": "1.5時間",
+    "point": "多くの野鳥や水生植物が観察できる",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "千葉",
+    "place": "ふれあい坂田ヶ池総合公園",
+    "activity": "長大な滑り台とキャンプ",
+    "time": "半日",
+    "point": "成田市にある家族連れに人気の公園",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "千葉県立房総のむら",
+    "activity": "商家や武家屋敷の体験",
+    "time": "2時間",
+    "point": "江戸時代の街並みで伝統工芸体験",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "武蔵一宮 氷川神社",
+    "activity": "長い参道の散策と参拝",
+    "time": "1.5時間",
+    "point": "関東にある氷川神社の総本社",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "吉見百穴",
+    "activity": "古代の集合墳墓見学",
+    "time": "1時間",
+    "point": "219個の穴が並ぶ不思議な遺跡",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "古代蓮の里",
+    "activity": "蓮の花鑑賞と田んぼアート",
+    "time": "1.5時間",
+    "point": "世界最大の田んぼアートが有名",
+    "season": "夏",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "忍城址",
+    "activity": "復元された御三階櫓を見学",
+    "time": "1時間",
+    "point": "映画「のぼうの城」の舞台",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "メッツァビレッジ",
+    "activity": "北欧雑貨のショッピング",
+    "time": "2時間",
+    "point": "湖畔で北欧のライフスタイルを体験",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "トーベ・ヤンソンあけぼの子どもの森公園",
+    "activity": "ムーミンの世界のような建築散策",
+    "time": "1.5時間",
+    "point": "遊び心あふれる独特なデザインの公園",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "東秩父村 和紙の里",
+    "activity": "手漉き和紙体験",
+    "time": "1.5時間",
+    "point": "1300年の歴史を持つ和紙作りを学べる",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "喜多院",
+    "activity": "五百羅漢の表情を観察",
+    "time": "1時間",
+    "point": "川越を代表する名刹で徳川家ゆかりの寺",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "川越城 本丸御殿",
+    "activity": "本丸御殿の内部見学",
+    "time": "1時間",
+    "point": "東日本で唯一現存する本丸御殿",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "埼玉",
+    "place": "蔵づくり資料館",
+    "activity": "蔵の中の構造を見学",
+    "time": "45分",
+    "point": "明治時代の蔵の知恵を知ることができる",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "さいたま市宇宙劇場",
+    "activity": "迫力のプラネタリウム鑑賞",
+    "time": "1.5時間",
+    "point": "名誉館長は宇宙飛行士の若田光一氏",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "造幣さいたま博物館",
+    "activity": "貨幣の製造工程見学",
+    "time": "1.5時間",
+    "point": "勲章や貴重な硬貨の展示が充実",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "彩の国さいたま芸術劇場",
+    "activity": "演劇や音楽鑑賞",
+    "time": "3時間",
+    "point": "蜷川幸雄氏が芸術監督を務めた劇場",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "埼玉",
+    "place": "巾着田",
+    "activity": "曼珠沙華の鑑賞",
+    "time": "1.5時間",
+    "point": "500万本の彼岸花が咲く日本最大級の群生地",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "サイボク",
+    "activity": "ブランド豚のグルメを堪能",
+    "time": "2時間",
+    "point": "温泉やアスレチックもある豚のテーマパーク",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "西武秩父駅前温泉 祭の湯",
+    "activity": "駅直結の温泉でリラックス",
+    "time": "2時間",
+    "point": "秩父の名物料理も楽しめる複合施設",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "宝登山神社",
+    "activity": "ミシュラン1つ星の社殿参拝",
+    "time": "1時間",
+    "point": "秩父三社の一つで火災除けの神様",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "秩父今宮神社",
+    "activity": "龍神が宿る大ケヤキを拝む",
+    "time": "1時間",
+    "point": "縁結びのパワースポットとして人気",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "和銅遺跡",
+    "activity": "日本最古の通貨ゆかりの地を巡る",
+    "time": "1時間",
+    "point": "和同開珎の巨大なモニュメントがある",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "美の山公園",
+    "activity": "雲海と夜景の鑑賞",
+    "time": "1時間",
+    "point": "秩父盆地を一望できる絶景公園",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "あしがくぼの氷柱",
+    "activity": "幻想的な巨大な氷の柱を鑑賞",
+    "time": "1時間",
+    "point": "冬の秩父を代表する芸術的な氷柱",
+    "season": "冬",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "三十槌の氷柱",
+    "activity": "天然の氷柱ライトアップ鑑賞",
+    "time": "1時間",
+    "point": "岩肌から染み出した水が凍る神秘的な風景",
+    "season": "冬",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "尾ノ内百景氷柱",
+    "activity": "吊り橋から氷柱を眺める",
+    "time": "1時間",
+    "point": "地元住民が作り上げる巨大な氷の壁",
+    "season": "冬",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "川越 熊野神社",
+    "activity": "八咫烏の運試し",
+    "time": "45分",
+    "point": "足踏み健康ロードがあるユニークな神社",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "仙波河岸史跡公園",
+    "activity": "舟運の歴史を感じながら散策",
+    "time": "1時間",
+    "point": "江戸と川越を結んだ新河岸川の拠点",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "埼玉",
+    "place": "三井アウトレットパーク 入間",
+    "activity": "ブランド品のお買い物",
+    "time": "半日",
+    "point": "コストコが隣接する巨大ショッピングエリア",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "所沢サクラタウン",
+    "activity": "アニメと文化の最新発信地巡り",
+    "time": "2時間",
+    "point": "隈研吾設計の武蔵野坐令和神社がある",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "航空公園",
+    "activity": "広大な芝生でピクニック",
+    "time": "半日",
+    "point": "日本の航空発祥の地にある公園",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "狭山湖",
+    "activity": "堤防からの夕日鑑賞",
+    "time": "1時間",
+    "point": "取水塔と富士山のシルエットが美しい",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "多摩湖",
+    "activity": "ダム周辺のサイクリング",
+    "time": "2時間",
+    "point": "東京都にまたがる巨大な貯水池",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "ベルーナドーム",
+    "activity": "プロ野球観戦",
+    "time": "3時間",
+    "point": "西武ライオンズの本拠地、自然を感じる球場",
+    "season": "夏",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "狭山茶の里",
+    "activity": "茶畑見学とお茶体験",
+    "time": "1.5時間",
+    "point": "「色は静岡、香りは狭山」と称される名産地",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "平林寺",
+    "activity": "紅葉の境内を静かに散策",
+    "time": "1.5時間",
+    "point": "武蔵野の面影を残す広大な雑木林",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "新座市児童センター",
+    "activity": "プラネタリウム体験",
+    "time": "1時間",
+    "point": "地域の子どもたちに愛される天文施設",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "彩の国ふれあい牧場",
+    "activity": "秩父の山々を眺めながら休息",
+    "time": "2時間",
+    "point": "天空のポピー畑（5月）が有名",
+    "season": "初夏",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "鉢形城歴史館",
+    "activity": "戦国時代の城跡を学ぶ",
+    "time": "1.5時間",
+    "point": "荒川の断崖絶壁を利用した天然の要塞",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "埼玉",
+    "place": "玉淀水天宮",
+    "activity": "舟下りの安全祈願",
+    "time": "30分",
+    "point": "寄居町の荒川沿いにある水神様",
+    "season": "夏",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "深谷テラス ヤサイな仲間たちファーム",
+    "activity": "野菜の収穫体験",
+    "time": "2時間",
+    "point": "キユーピーが手掛ける食と農の体験施設",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "深谷城址公園",
+    "activity": "復元された城壁の見学",
+    "time": "1時間",
+    "point": "レンガ造りの街並みとともに散策したい",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "渋沢栄一記念館",
+    "activity": "新一万円札の顔の生涯を知る",
+    "time": "1.5時間",
+    "point": "アンドロイドによる講義が話題",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "埼玉",
+    "place": "国営武蔵丘陵森林公園",
+    "activity": "サイクリングと大型遊具",
+    "time": "1日",
+    "point": "日本初の国営公園でとにかく広い",
+    "season": "秋",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "百穴温泉",
+    "activity": "秘湯感漂う温泉で入浴",
+    "time": "1.5時間",
+    "point": "吉見百穴のすぐ近くにあるレトロな温泉",
+    "season": "冬",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "弓立山",
+    "activity": "パラグライダー体験",
+    "time": "半日",
+    "point": "初心者でも空を飛ぶ感動を味わえる",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "埼玉",
+    "place": "黒山三滝",
+    "activity": "三つの滝を巡るハイキング",
+    "time": "1.5時間",
+    "point": "室町時代からの観光名所",
+    "season": "夏",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "越生梅林",
+    "activity": "約1000本の梅の花鑑賞",
+    "time": "1.5時間",
+    "point": "関東三大梅林の一つ",
+    "season": "初春",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "ゆうパークおごせ",
+    "activity": "キャンプと水着入浴",
+    "time": "半日",
+    "point": "アウトドアとリラックスを同時に楽しめる",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "醤遊王国",
+    "activity": "醤油の製造見学と試食",
+    "time": "1.5時間",
+    "point": "弓削多醤油が運営する醤油のテーマパーク",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "川島町 平成の森公園",
+    "activity": "日本一長いバラのトンネル散策",
+    "time": "1.5時間",
+    "point": "340メートルのバラの回廊が圧巻",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "遠山記念館",
+    "activity": "国指定重要文化財の邸宅見学",
+    "time": "1.5時間",
+    "point": "日興證券創業者による壮大な建築と美術品",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "大宮アルディージャ 練習場",
+    "activity": "サッカーの練習見学",
+    "time": "1.5時間",
+    "point": "選手を間近で見られるファン必見スポット",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "鉄道博物館 ミニ運転列車",
+    "activity": "ミニ列車の運転体験",
+    "time": "30分",
+    "point": "自分で運転できる体験型アトラクション",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "ジョンソンタウン カフェ巡り",
+    "activity": "米軍ハウスでお茶をする",
+    "time": "2時間",
+    "point": "アメリカンヴィレッジの独特な景観",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "武蔵丘陵森林公園 ハーブ園",
+    "activity": "季節のハーブを鑑賞",
+    "time": "1時間",
+    "point": "広大な園内にある憩いのスペース",
+    "season": "初夏",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "加須未来館",
+    "activity": "プラネタリウムと利根川散策",
+    "time": "2時間",
+    "point": "利根川の自然と宇宙を学べる施設",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "羽生スカイスポーツ公園",
+    "activity": "スカイスライダーを滑る",
+    "time": "1.5時間",
+    "point": "高さ15メートルからのローラー滑り台",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "さいたま水族館",
+    "activity": "淡水魚の観察",
+    "time": "1.5時間",
+    "point": "荒川の生き物を集めた珍しい淡水魚水族館",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "羽生パーキングエリア（上り）",
+    "activity": "鬼平犯科帳の世界を体験",
+    "time": "1時間",
+    "point": "江戸時代の街並みを再現した「鬼平江戸処」",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "道の駅 庄和",
+    "activity": "巨大な大凧を見学",
+    "time": "1時間",
+    "point": "春日部市の伝統、百畳敷の大凧を展示",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "首都圏外郭放水路",
+    "activity": "地下神殿の見学",
+    "time": "1.5時間",
+    "point": "世界最大級の地下放水路で映画の撮影地",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "草加せんべいの庭",
+    "activity": "せんべい焼き体験",
+    "time": "1時間",
+    "point": "草加名物せんべいの歴史を学びながら焼ける",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "吉川なまずの里",
+    "activity": "なまず料理を堪能",
+    "time": "1.5時間",
+    "point": "なまずの養殖が盛んな地域の伝統食",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "まつぶし緑の丘公園",
+    "activity": "里山の風景でリフレッシュ",
+    "time": "2時間",
+    "point": "広大な芝生と湿生植物園がある",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "越谷レイクタウン アウトレット",
+    "activity": "お買い得品探し",
+    "time": "半日",
+    "point": "巨大ショッピングモールに隣接するアウトレット",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "キャンベルタウン野鳥の森",
+    "activity": "オーストラリアの鳥とふれあう",
+    "time": "1.5時間",
+    "point": "越谷市の姉妹都市から贈られた鳥たちが並ぶ",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "行田 忍城址 ライトアップ",
+    "activity": "夜のお城を鑑賞",
+    "time": "1時間",
+    "point": "期間限定のライトアップが幻想的",
+    "season": "冬",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "行田 八幡神社",
+    "activity": "虫封じの祈願",
+    "time": "45分",
+    "point": "目の健康や子どもの病気に効くとされる",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "吹上コスモスアリーナ",
+    "activity": "荒川河川敷のコスモス鑑賞",
+    "time": "1.5時間",
+    "point": "日本一長い水管橋とコスモスの競演",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "北本高尾さくら公園",
+    "activity": "桜と阿弥陀堂の見学",
+    "time": "1時間",
+    "point": "春には公園全体がピンクに染まる",
+    "season": "春",
+    "people": "1人"
+  },
+  {
+    "location": "埼玉",
+    "place": "上尾丸山公園",
+    "activity": "小動物の観察とピクニック",
+    "time": "2時間",
+    "point": "大きな池がある自然豊かな公園",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "榎本牧場",
+    "activity": "搾りたてミルクのジェラート",
+    "time": "1時間",
+    "point": "荒川サイクリングロード沿いの人気スポット",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "桶川 べに花ふるさと館",
+    "activity": "手打ちうどん体験",
+    "time": "2時間",
+    "point": "明治時代の古民家で地域の伝統を学ぶ",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "蓮田サービスエリア（上り）",
+    "activity": "地元野菜の買い出し",
+    "time": "1時間",
+    "point": "パサール蓮田、東北道最大級の休憩施設",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "白岡 柴山伏越",
+    "activity": "珍しい水利施設の見学",
+    "time": "30分",
+    "point": "川の下を水が通る立体交差の遺構",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "埼玉",
+    "place": "久喜 提燈祭り",
+    "activity": "山車の回転パフォーマンス鑑賞",
+    "time": "2時間",
+    "point": "500個以上の提燈がついた豪華な山車",
+    "season": "夏",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "百観音温泉",
+    "activity": "日本屈指の自噴温泉で入浴",
+    "time": "2時間",
+    "point": "温泉成分が非常に濃いことで知られる",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "美里町 遺跡の森公園",
+    "activity": "古墳時代の空気を感じる",
+    "time": "1.5時間",
+    "point": "復元された住居や資料館がある",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "埼玉",
+    "place": "長瀞 宝登山ロープウェイ",
+    "activity": "山頂からの眺望",
+    "time": "1時間",
+    "point": "冬にはロウバイの香りが山頂を包む",
+    "season": "冬",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "皆野 秩父華厳の滝",
+    "activity": "涼を求めて滝鑑賞",
+    "time": "1時間",
+    "point": "日光の華厳の滝に似ていることから命名",
+    "season": "夏",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "小鹿野 ダリア園",
+    "activity": "350種のダリアを鑑賞",
+    "time": "1.5時間",
+    "point": "関東最大級のダリアの楽園",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "秩父まつり会館",
+    "activity": "祭りの歴史と迫力を学ぶ",
+    "time": "1時間",
+    "point": "秩父夜祭の山車を一年中見学できる",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "武甲山 資料館",
+    "activity": "秩父のシンボルについて学ぶ",
+    "time": "1時間",
+    "point": "羊山公園内にある博物施設",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "埼玉",
+    "place": "橋立鍾乳洞",
+    "activity": "洞窟探検体験",
+    "time": "1時間",
+    "point": "埼玉県唯一の観光鍾乳洞",
+    "season": "夏",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "浦山ダム",
+    "activity": "巨大ダムの内部見学",
+    "time": "1.5時間",
+    "point": "エレベーターで地下50メートルまで降りられる",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "滝沢ダム",
+    "activity": "奥秩父のループ橋を眺める",
+    "time": "1時間",
+    "point": "巨大なループ橋「雷電廿六木橋」が絶景",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "彩の国ふれあい牧場 ジェラート",
+    "activity": "絶景とともにソフトクリームを食す",
+    "time": "45分",
+    "point": "濃厚なミルクが自慢の逸品",
+    "season": "通年",
+    "people": "2人"
+  }
 ]
