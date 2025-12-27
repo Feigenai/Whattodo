@@ -492,6 +492,46 @@
             box-shadow: 0 8px 32px rgba(240, 146, 126, 0.5);
         }
 
+        /* Footer */
+        footer {
+            margin-top: 40px;
+            padding: 30px 20px;
+            text-align: center;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+        }
+
+        .footer-links {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+        }
+
+        .footer-link {
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9375rem;
+            transition: all 0.3s ease;
+            padding: 8px 16px;
+            border-radius: 15px;
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .footer-link:hover {
+            background: white;
+            color: #F49070;
+            transform: translateY(-2px);
+        }
+
+        .copyright {
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 0.875rem;
+            margin-top: 15px;
+        }
+
         /* Responsive */
         @media (max-width: 420px) {
             .title-text,
@@ -676,12 +716,25 @@
                  data-ad-format="auto"
                  data-full-width-responsive="true"></ins>
         </div>
+
+        <!-- Footer -->
+        <footer>
+            <div class="footer-links">
+                <a href="privacy.html" class="footer-link">プライバシーポリシー</a>
+                <a href="contact.html" class="footer-link">お問い合わせ</a>
+            </div>
+            <div class="copyright">
+                © 2024 今日なにする？ All Rights Reserved.
+            </div>
+        </footer>
     </div>
 
     <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
         (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
+
+    <script>
         // アクティビティデータベース（非同期読み込み）
         let activities = [];
 
@@ -889,6 +942,7 @@
 
         // 初期化実行
         initialize();
+
     </script>
 </body>
 </html>
