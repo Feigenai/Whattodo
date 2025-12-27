@@ -3,7 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>今日なにする？</title>
+    <meta name="description" content="今日暇で何するかが決まらないあなたへ。時間・気分・場所を入力するだけで、今できる予定やお出かけプランを即提案する無料サービス。">
+    <title>今日なにする？ | 悩まず予定が決まる！</title>
+
+    <link rel="canonical" href="https://seisaily.com/">
+
+    <link rel="icon" href="whattodotoday.png">
+    <link rel="apple-touch-icon" href="whattodotoday.png">
+
+    <meta property="og:title" content="今日なにする？ | 悩まず予定が決まる！">
+    <meta property="og:description" content="今日暇で何するかが決まらないあなたへ。時間・気分・場所を入力するだけで、今できるお出かけプランを即提案する無料サービス。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://seisaily.com/">
+    <meta property="og:image" content="https://seisaily.com/whattodotoday.png">
+    <meta property="og:site_name" content="今日なにする？">
+    <meta name="twitter:card" content="summary_large_image">
     
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZCM130H3XQ"></script>
@@ -12,6 +26,10 @@
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-ZCM130H3XQ');
+    </script>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8351694040475451"
+     crossorigin="anonymous">
     </script>
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -29,37 +47,27 @@
             font-family: 'Noto Sans JP', sans-serif;
             background: #F49070;
             min-height: 100vh;
+            position: fixed;
             width: 100%;
+            overflow-x: hidden;
             color: #1A1A1A;
         }
 
         .container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
             max-width: 480px;
             margin: 0 auto;
             padding: 20px 20px 20px 20px;
-            min-height: 100vh;
-        }
-
-        /* AdSense */
-        .ad-container {
-            width: 100%;
-            max-width: 480px;
-            margin: 20px auto;
-            text-align: center;
-            min-height: 100px;
             display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .ad-container.top-ad {
-            margin-top: 10px;
-            margin-bottom: 10px;
-        }
-
-        .ad-container.bottom-ad {
-            margin-top: 30px;
-            margin-bottom: 20px;
+            flex-direction: column;
+            justify-content: flex-start;
+            overflow-y: auto;
+            overflow-x: hidden;
+            -webkit-overflow-scrolling: touch;
         }
 
         /* Loading */
@@ -110,6 +118,7 @@
 
         /* Header */
         header {
+            margin-top: 60px;
             text-align: center;
             margin-bottom: 20px;
         }
@@ -158,7 +167,8 @@
         .card {
             position: relative;
             width: 100%;
-            min-height: 500px;
+            min-height: calc(100vh - 180px);
+            max-height: calc(100vh - 180px);
             transform-style: preserve-3d;
             transition: transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
         }
@@ -204,12 +214,14 @@
         .card-face {
             position: absolute;
             width: 100%;
-            min-height: 500px;
+            min-height: calc(100vh - 180px);
+            max-height: calc(100vh - 180px);
             background: #F5F0EB;
             border-radius: 32px;
             padding: 28px 24px 36px 24px;
             backface-visibility: hidden;
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            overflow-y: auto;
         }
 
         .card-back {
@@ -492,46 +504,6 @@
             box-shadow: 0 8px 32px rgba(240, 146, 126, 0.5);
         }
 
-        /* Footer */
-        footer {
-            margin-top: 40px;
-            padding: 30px 20px;
-            text-align: center;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 20px;
-        }
-
-        .footer-links {
-            display: flex;
-            gap: 20px;
-            justify-content: center;
-            margin-bottom: 15px;
-            flex-wrap: wrap;
-        }
-
-        .footer-link {
-            color: white;
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.9375rem;
-            transition: all 0.3s ease;
-            padding: 8px 16px;
-            border-radius: 15px;
-            background: rgba(255, 255, 255, 0.2);
-        }
-
-        .footer-link:hover {
-            background: white;
-            color: #F49070;
-            transform: translateY(-2px);
-        }
-
-        .copyright {
-            color: rgba(255, 255, 255, 0.8);
-            font-size: 0.875rem;
-            margin-top: 15px;
-        }
-
         /* Responsive */
         @media (max-width: 420px) {
             .title-text,
@@ -541,11 +513,13 @@
             
             .card-face {
                 padding: 24px 20px 32px 20px;
-                min-height: 480px;
+                min-height: calc(100vh - 160px);
+                max-height: calc(100vh - 160px);
             }
 
             .card {
-                min-height: 480px;
+                min-height: calc(100vh - 160px);
+                max-height: calc(100vh - 160px);
             }
             
             .result-title {
@@ -614,16 +588,6 @@
     </div>
 
     <div class="container">
-        <!-- Top Ad -->
-        <div class="ad-container top-ad">
-            <ins class="adsbygoogle"
-                 style="display:block"
-                 data-ad-client="ca-pub-8351694040475451"
-                 data-ad-slot="1234567890"
-                 data-ad-format="auto"
-                 data-full-width-responsive="true"></ins>
-        </div>
-
         <header>
             <div class="title-container">
                 <span class="title-text">今日、</span>
@@ -706,33 +670,7 @@
                 </div>
             </div>
         </div>
-
-        <!-- Bottom Ad -->
-        <div class="ad-container bottom-ad">
-            <ins class="adsbygoogle"
-                 style="display:block"
-                 data-ad-client="ca-pub-8351694040475451"
-                 data-ad-slot="9876543210"
-                 data-ad-format="auto"
-                 data-full-width-responsive="true"></ins>
-        </div>
-
-        <!-- Footer -->
-        <footer>
-            <div class="footer-links">
-                <a href="privacy.html" class="footer-link">プライバシーポリシー</a>
-                <a href="contact.html" class="footer-link">お問い合わせ</a>
-            </div>
-            <div class="copyright">
-                © 2024 今日なにする？ All Rights Reserved.
-            </div>
-        </footer>
     </div>
-
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
 
     <script>
         // アクティビティデータベース（非同期読み込み）
@@ -942,7 +880,6 @@
 
         // 初期化実行
         initialize();
-
     </script>
 </body>
 </html>
