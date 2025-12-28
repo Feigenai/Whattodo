@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="今日暇で何するかが決まらないあなたへ。時間・気分・場所を入力するだけで、今できる予定やお出かけプランを即提案する無料サービス。">
-    <title>今日なにする？ | 悩まず予定が決まる！</title>
+    <title>今日なにする？|悩まず予定が決まる！</title>
 
     <link rel="canonical" href="https://seisaily.com/">
 
@@ -696,6 +696,9 @@
                             <option value="神奈川">神奈川</option>
                             <option value="埼玉">埼玉</option>
                             <option value="千葉">千葉</option>
+                            <option value="愛知">愛知</option>
+                            <option value="大阪">大阪</option>
+                            <option value="福岡">福岡</option>
                         </select>
                     </div>
 
@@ -761,40 +764,33 @@
             { location: "千葉", place: "房総半島", activity: "海岸ドライブ", time: "1日", point: "太平洋の絶景を楽しむ", season: "夏", people: "2人" },
             { location: "埼玉", place: "秩父", activity: "温泉とグルメ", time: "1日", point: "自然豊かな癒しの温泉地", season: "冬", people: "2人" },
             { location: "東京", place: "東京タワー", activity: "展望台から夜景鑑賞", time: "2時間", point: "東京の象徴から見る絶景", season: "通年", people: "2人" },
-            { location: "神奈川", place: "箱根", activity: "美術館巡りと温泉", time: "1日", point: "アートと自然の融合", season: "通年", people: "2人" }
+            { location: "神奈川", place: "箱根", activity: "美術館巡りと温泉", time: "1日", point: "アートと自然の融合", season: "通年", people: "2人" },
+            { location: "愛知", place: "名古屋城", activity: "金のシャチホコと天守閣見学", time: "2時間", point: "名古屋のシンボル的存在", season: "通年", people: "2人" },
+            { location: "愛知", place: "熱田神宮", activity: "三種の神器を祀る神社参拝", time: "1時間", point: "伊勢神宮に次ぐ格式高い神社", season: "通年", people: "2人" },
+            { location: "大阪", place: "大阪城", activity: "天守閣と歴史博物館見学", time: "2時間", point: "豊臣秀吉ゆかりの名城", season: "通年", people: "2人" },
+            { location: "大阪", place: "道頓堀", activity: "たこ焼き・お好み焼き食べ歩き", time: "2時間", point: "大阪のグルメとネオンの街", season: "通年", people: "グループ" },
+            { location: "福岡", place: "太宰府天満宮", activity: "学問の神様に参拝", time: "2時間", point: "菅原道真公を祀る由緒ある神社", season: "通年", people: "2人" },
+            { location: "福岡", place: "福岡タワー", activity: "展望台から博多湾を一望", time: "1時間", point: "高さ234mの海浜タワー", season: "通年", people: "2人" }
         ];
 
         // データ読み込み関数
-        // データ読み込み関数
-async function loadActivities() {
-    console.log('🔄 loadActivities開始');
-    try {
-        console.log('📡 Fetchリクエスト送信...');
-        const response = await fetch('./activities.json');
-        console.log('📨 レスポンス受信:', response.status);
-        
-        // 304もOKとして扱う
-        if (response.ok || response.status === 304) {
-            console.log('✅ ステータスOK、JSONパース開始...');
-            const data = await response.json();
-            console.log('📦 JSONパース完了');
-            console.log('📊 データ型:', typeof data);
-            console.log('📋 配列?:', Array.isArray(data));
-            console.log('🔢 件数:', data.length);
-            
-            activities = data;
-            console.log(`✅ ${activities.length}件のアクティビティを読み込みました`);
-        } else {
-            throw new Error('JSONファイルが見つかりません');
+        async function loadActivities() {
+            try {
+                const response = await fetch('./activities.json');
+                
+                // 304もOKとして扱う
+                if (response.ok || response.status === 304) {
+                    const data = await response.json();
+                    activities = data;
+                    console.log(`✅ ${activities.length}件のアクティビティを読み込みました`);
+                } else {
+                    throw new Error('JSONファイルが見つかりません');
+                }
+            } catch (error) {
+                console.log('ℹ️  activities.jsonが見つからないため、デフォルトデータを使用します');
+                activities = defaultActivities;
+            }
         }
-    } catch (error) {
-        console.error('❌ エラー発生:', error);
-        console.error('❌ エラーメッセージ:', error.message);
-        console.error('❌ エラースタック:', error.stack);
-        console.log('ℹ️  activities.jsonが見つからないため、デフォルトデータを使用します');
-        activities = defaultActivities;
-    }
-}
 
         // DOM要素
         const decideBtn = document.getElementById('decide-btn');
