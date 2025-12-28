@@ -842,6 +842,12 @@
             window.open(perplexityUrl, '_blank');
         });
 
+        // 季節マッチング関数（通年も含む）
+        const matchesSeason = (activitySeason, filterSeason) => {
+            if (!filterSeason) return true; // 指定なしの場合は全てマッチ
+            return activitySeason === filterSeason || activitySeason === '通年';
+        };
+
         // 決めるボタン
         decideBtn.addEventListener('click', () => {
             const filters = {
@@ -861,35 +867,35 @@
                 });
             }
 
-            // ステップ1: すべての条件で完全一致
+            // ステップ1: すべての条件で完全一致（場所 + 時間 + 季節 + 人数）
             let filtered = activities.filter(activity => {
-                return (!filters.time || activity.time === filters.time) &&
-                       (!filters.people || activity.people === filters.people) &&
-                       (!filters.location || activity.location === filters.location) &&
-                       (!filters.season || activity.season === filters.season);
+                return (!filters.location || activity.location === filters.location) &&
+                       (!filters.time || activity.time === filters.time) &&
+                       matchesSeason(activity.season, filters.season) &&
+                       (!filters.people || activity.people === filters.people);
             });
 
-            // ステップ2: 場所 + 人数 + 季節（時間を除外）
-            if (filtered.length === 0 && filters.time) {
+            // ステップ2: 場所 + 時間 + 季節（人数を除外）
+            if (filtered.length === 0 && filters.people) {
                 filtered = activities.filter(activity => {
-                    return (!filters.people || activity.people === filters.people) &&
-                           (!filters.location || activity.location === filters.location) &&
-                           (!filters.season || activity.season === filters.season);
+                    return (!filters.location || activity.location === filters.location) &&
+                           (!filters.time || activity.time === filters.time) &&
+                           matchesSeason(activity.season, filters.season);
                 });
             }
 
-            // ステップ3: 場所 + 人数（季節を除外）
+            // ステップ3: 場所 + 時間（季節を除外）
             if (filtered.length === 0 && filters.season) {
                 filtered = activities.filter(activity => {
-                    return (!filters.people || activity.people === filters.people) &&
-                           (!filters.location || activity.location === filters.location);
+                    return (!filters.location || activity.location === filters.location) &&
+                           (!filters.time || activity.time === filters.time);
                 });
             }
 
-            // ステップ4: 場所のみ
-            if (filtered.length === 0 && filters.location) {
+            // ステップ4: 場所のみ（時間を除外）
+            if (filtered.length === 0 && filters.time) {
                 filtered = activities.filter(activity => 
-                    activity.location === filters.location
+                    !filters.location || activity.location === filters.location
                 );
             }
 
