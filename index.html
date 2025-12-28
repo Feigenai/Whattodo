@@ -668,24 +668,6 @@
                 <!-- Front Face -->
                 <div class="card-face card-front">
                     <div class="filter-group">
-                        <label class="filter-label">場所</label>
-                        <select id="location-filter">
-                            <option value="">指定なし</option>
-                            <option value="北海道">北海道</option>
-                            <option value="宮城">宮城</option>
-                            <option value="東京">東京</option>
-                            <option value="神奈川">神奈川</option>
-                            <option value="埼玉">埼玉</option>
-                            <option value="千葉">千葉</option>
-                            <option value="京都">京都</option>
-                            <option value="大阪">大阪</option>
-                            <option value="兵庫">兵庫</option>
-                            <option value="愛知">愛知</option>
-                            <option value="福岡">福岡</option>
-                        </select>
-                    </div>
-
-                    <div class="filter-group">
                         <label class="filter-label">時間</label>
                         <select id="time-filter">
                             <option value="">指定なし</option>
@@ -704,6 +686,24 @@
                             <option value="1人">1人</option>
                             <option value="2人">2人</option>
                             <option value="グループ">グループ</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label class="filter-label">場所</label>
+                        <select id="location-filter">
+                            <option value="">指定なし</option>
+                            <option value="北海道">北海道</option>
+                            <option value="宮城">宮城</option>
+                            <option value="東京">東京</option>
+                            <option value="神奈川">神奈川</option>
+                            <option value="埼玉">埼玉</option>
+                            <option value="千葉">千葉</option>
+                            <option value="京都">京都</option>
+                            <option value="大阪">大阪</option>
+                            <option value="兵庫">兵庫</option>
+                            <option value="愛知">愛知</option>
+                            <option value="福岡">福岡</option>
                         </select>
                     </div>
 
@@ -842,12 +842,6 @@
             window.open(perplexityUrl, '_blank');
         });
 
-        // 季節マッチング関数（通年も含む）
-        const matchesSeason = (activitySeason, filterSeason) => {
-            if (!filterSeason) return true; // 指定なしの場合は全てマッチ
-            return activitySeason === filterSeason || activitySeason === '通年';
-        };
-
         // 決めるボタン
         decideBtn.addEventListener('click', () => {
             const filters = {
@@ -867,35 +861,35 @@
                 });
             }
 
-            // ステップ1: すべての条件で完全一致（場所 + 時間 + 季節 + 人数）
+            // ステップ1: すべての条件で完全一致
             let filtered = activities.filter(activity => {
-                return (!filters.location || activity.location === filters.location) &&
-                       (!filters.time || activity.time === filters.time) &&
-                       matchesSeason(activity.season, filters.season) &&
-                       (!filters.people || activity.people === filters.people);
+                return (!filters.time || activity.time === filters.time) &&
+                       (!filters.people || activity.people === filters.people) &&
+                       (!filters.location || activity.location === filters.location) &&
+                       (!filters.season || activity.season === filters.season);
             });
 
-            // ステップ2: 場所 + 時間 + 季節（人数を除外）
-            if (filtered.length === 0 && filters.people) {
+            // ステップ2: 場所 + 人数 + 季節（時間を除外）
+            if (filtered.length === 0 && filters.time) {
                 filtered = activities.filter(activity => {
-                    return (!filters.location || activity.location === filters.location) &&
-                           (!filters.time || activity.time === filters.time) &&
-                           matchesSeason(activity.season, filters.season);
+                    return (!filters.people || activity.people === filters.people) &&
+                           (!filters.location || activity.location === filters.location) &&
+                           (!filters.season || activity.season === filters.season);
                 });
             }
 
-            // ステップ3: 場所 + 時間（季節を除外）
+            // ステップ3: 場所 + 人数（季節を除外）
             if (filtered.length === 0 && filters.season) {
                 filtered = activities.filter(activity => {
-                    return (!filters.location || activity.location === filters.location) &&
-                           (!filters.time || activity.time === filters.time);
+                    return (!filters.people || activity.people === filters.people) &&
+                           (!filters.location || activity.location === filters.location);
                 });
             }
 
-            // ステップ4: 場所のみ（時間を除外）
-            if (filtered.length === 0 && filters.time) {
+            // ステップ4: 場所のみ
+            if (filtered.length === 0 && filters.location) {
                 filtered = activities.filter(activity => 
-                    !filters.location || activity.location === filters.location
+                    activity.location === filters.location
                 );
             }
 
