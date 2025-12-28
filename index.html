@@ -765,23 +765,36 @@
         ];
 
         // データ読み込み関数
-        async function loadActivities() {
-            try {
-                const response = await fetch('./activities.json');
-                
-                // 304もOKとして扱う
-                if (response.ok || response.status === 304) {
-                    const data = await response.json();
-                    activities = data;
-                    console.log(`✅ ${activities.length}件のアクティビティを読み込みました`);
-                } else {
-                    throw new Error('JSONファイルが見つかりません');
-                }
-            } catch (error) {
-                console.log('ℹ️  activities.jsonが見つからないため、デフォルトデータを使用します');
-                activities = defaultActivities;
-            }
+        // データ読み込み関数
+async function loadActivities() {
+    console.log('🔄 loadActivities開始');
+    try {
+        console.log('📡 Fetchリクエスト送信...');
+        const response = await fetch('./activities.json');
+        console.log('📨 レスポンス受信:', response.status);
+        
+        // 304もOKとして扱う
+        if (response.ok || response.status === 304) {
+            console.log('✅ ステータスOK、JSONパース開始...');
+            const data = await response.json();
+            console.log('📦 JSONパース完了');
+            console.log('📊 データ型:', typeof data);
+            console.log('📋 配列?:', Array.isArray(data));
+            console.log('🔢 件数:', data.length);
+            
+            activities = data;
+            console.log(`✅ ${activities.length}件のアクティビティを読み込みました`);
+        } else {
+            throw new Error('JSONファイルが見つかりません');
         }
+    } catch (error) {
+        console.error('❌ エラー発生:', error);
+        console.error('❌ エラーメッセージ:', error.message);
+        console.error('❌ エラースタック:', error.stack);
+        console.log('ℹ️  activities.jsonが見つからないため、デフォルトデータを使用します');
+        activities = defaultActivities;
+    }
+}
 
         // DOM要素
         const decideBtn = document.getElementById('decide-btn');
