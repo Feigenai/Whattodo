@@ -15562,5 +15562,1445 @@
     "point": "FC琉球のホーム。スタジアムから見える青い海も隠れた魅力。",
     "season": "春",
     "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "出雲大社",
+    "activity": "参拝と境内散策",
+    "time": "2時間",
+    "point": "縁結びの最強聖地として名高い大社",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "松江城",
+    "activity": "天守閣の見学",
+    "time": "1時間",
+    "point": "現存十二天守の一つで黒塗りの壁が美しい",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "足立美術館",
+    "activity": "日本庭園の鑑賞",
+    "time": "2時間",
+    "point": "5万坪の日本庭園は連続して世界一の評価",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "宍道湖",
+    "activity": "夕日の鑑賞",
+    "time": "1時間",
+    "point": "日本の夕日百選に選ばれる絶景スポット",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "石見銀山",
+    "activity": "間歩（坑道）の探検",
+    "time": "半日",
+    "point": "世界遺産に登録されたかつての銀採掘拠点",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "由志園",
+    "activity": "牡丹と庭園の鑑賞",
+    "time": "1時間",
+    "point": "一年中牡丹が咲き誇る山陰最大級の庭園",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "日御碕灯台",
+    "activity": "絶景の灯台に登る",
+    "time": "1時間",
+    "point": "石積み灯台として日本一の高さと白さを誇る",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "玉造温泉",
+    "activity": "美肌の湯で温泉歩き",
+    "time": "半日",
+    "point": "日本最古の美肌の湯と言われる温泉街",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "稲佐の浜",
+    "activity": "夕暮れ時の砂浜散歩",
+    "time": "1時間",
+    "point": "神在月に全国の神々が上陸する神聖な浜",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "島根県立美術館",
+    "activity": "アート鑑賞と夕日",
+    "time": "2時間",
+    "point": "夕日の見える美術館として人気が高い",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "松江堀川めぐり",
+    "activity": "遊覧船で城下町観光",
+    "time": "1時間",
+    "point": "屋形船から松江城の堀を巡る優雅な体験",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "八重垣神社",
+    "activity": "鏡の池での恋占い",
+    "time": "1時間",
+    "point": "和紙を池に浮かべる占いが若い層に人気",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "太鼓谷稲成神社",
+    "activity": "千本鳥居を歩く",
+    "time": "1時間",
+    "point": "日本五大稲荷の一つ。朱塗りの鳥居が圧巻",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "津和野・殿町通り",
+    "activity": "城下町の散策",
+    "time": "1時間",
+    "point": "掘割を泳ぐ錦鯉と白い土塀の風情ある街並み",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "国賀海岸",
+    "activity": "断崖絶壁の絶景鑑賞",
+    "time": "2時間",
+    "point": "隠岐諸島を象徴する高さ257mの摩天崖",
+    "season": "春",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "鰐淵寺",
+    "activity": "紅葉狩りと参拝",
+    "time": "2時間",
+    "point": "山陰屈指の紅葉の名所として知られる古刹",
+    "season": "秋",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "小泉八雲記念館",
+    "activity": "怪談の世界を学ぶ",
+    "time": "1時間",
+    "point": "「耳なし芳一」で有名な八雲の生涯を紹介",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "物部神社",
+    "activity": "勝負運の祈願",
+    "time": "1時間",
+    "point": "春日造りの社殿が美しく勝負事に強い",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "美保神社",
+    "activity": "鳴物祈祷を体験",
+    "time": "1時間",
+    "point": "えびす様の総本宮で音楽の神としても有名",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "立久恵峡",
+    "activity": "渓谷沿いのハイキング",
+    "time": "2時間",
+    "point": "奇岩が立ち並ぶ「山陰の耶馬渓」",
+    "season": "秋",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "出雲そば 田中屋",
+    "activity": "割子そばを堪能",
+    "time": "1時間",
+    "point": "出雲大社正門前で行列ができるそばの名店",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "荒木屋",
+    "activity": "老舗のそばを味わう",
+    "time": "1時間",
+    "point": "江戸時代から続く出雲そば最古の老舗",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "皆美館",
+    "activity": "名物鯛めしを食べる",
+    "time": "2時間",
+    "point": "松江藩主が愛した伝統の鯛めしを高級宿で",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "呉竹鮨",
+    "activity": "日本海の旬の寿司",
+    "time": "1時間",
+    "point": "地元の新鮮な魚をリーズナブルに楽しめる",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "川京",
+    "activity": "郷土料理を味わう",
+    "time": "2時間",
+    "point": "宍道湖七珍など松江の味が集まる居酒屋",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "そば処あがた",
+    "activity": "隠岐そばを食べる",
+    "time": "1時間",
+    "point": "焼き鯖の出汁が効いた独特の隠岐そば",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "ぼてぼて茶 鳳麟",
+    "activity": "伝統の茶体験",
+    "time": "1時間",
+    "point": "泡立てた茶に具を入れて食べる松江の文化",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "庭園茶寮 みな美",
+    "activity": "庭を眺めての食事",
+    "time": "1時間",
+    "point": "美しい枯山水を眺めながら食事ができる",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "しじみ茶屋",
+    "activity": "しじみバーガー体験",
+    "time": "1時間",
+    "point": "宍道湖産のしじみを贅沢に使った珍しい味",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "出雲ぜんざい学会",
+    "activity": "本場のぜんざい食",
+    "time": "1時間",
+    "point": "ぜんざい発祥の地と言われる出雲の甘味",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "韓竈神社",
+    "activity": "岩の隙間を通り参拝",
+    "time": "2時間",
+    "point": "狭い岩の隙間を通る超ニッチなパワースポット",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "黄泉比良坂",
+    "activity": "神話の世界を歩く",
+    "time": "1時間",
+    "point": "あの世とこの世の境界と言われる神秘的な場所",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "多古の七つ穴",
+    "activity": "シーカヤックで探検",
+    "time": "3時間",
+    "point": "波の侵食でできた巨大な洞門を船で巡る",
+    "season": "夏",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "ベタ踏み坂",
+    "activity": "急勾配の橋を撮影",
+    "time": "1時間",
+    "point": "CMで話題になった江島大橋の驚異の坂道",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "畳ヶ浦",
+    "activity": "隆起海岸の観察",
+    "time": "1時間",
+    "point": "千畳敷のような広大な岩盤が広がる不思議な浜",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "温泉津温泉 薬師湯",
+    "activity": "レトロな共同浴場",
+    "time": "1時間",
+    "point": "オール5評価の源泉掛け流しと洋館風の建物",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "美保関 灯台ビュッフェ",
+    "activity": "海を眺めてランチ",
+    "time": "1時間",
+    "point": "現役の灯台の横にある絶景レストラン",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "ローソク島",
+    "activity": "船上から火を灯す",
+    "time": "2時間",
+    "point": "夕日が先端に重なりローソクに見える奇跡",
+    "season": "4月〜10月",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "菅谷たたら山内",
+    "activity": "日本刀のルーツ見学",
+    "time": "1時間",
+    "point": "現存する唯一のたたら製鉄の遺構施設",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "島根スサノオマジック",
+    "activity": "プロバスケ試合観戦",
+    "time": "3時間",
+    "point": "松江市総合体育館での熱狂的な応援体験",
+    "season": "10月〜5月",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "彦根城",
+    "activity": "国宝天守の階段登り",
+    "time": "2時間",
+    "point": "ひこにゃんにも会える現存十二天守の城",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "比叡山延暦寺",
+    "activity": "諸堂の参拝と巡礼",
+    "time": "半日",
+    "point": "1200年の歴史を持つ天台宗の総本山",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "白鬚神社",
+    "activity": "湖中の大鳥居を鑑賞",
+    "time": "1時間",
+    "point": "琵琶湖に浮かぶ鳥居が「近江の厳島」と称される",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "びわ湖テラス",
+    "activity": "山頂からの絶景体験",
+    "time": "2時間",
+    "point": "標高1100mから琵琶湖を望む超人気スポット",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "近江八幡・八幡堀",
+    "activity": "水郷めぐりの舟旅",
+    "time": "1時間",
+    "point": "時代劇のロケ地としても有名な風情ある堀割",
+    "season": "春",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "メタセコイア並木",
+    "activity": "並木道のドライブ",
+    "time": "1時間",
+    "point": "2.4km続く240本の並木が季節ごとに彩る",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "竹生島",
+    "activity": "パワースポット巡り",
+    "time": "3時間",
+    "point": "琵琶湖に浮かぶ神の住む島へのクルーズ",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "三井寺（園城寺）",
+    "activity": "国宝建築의 拝観",
+    "time": "2時間",
+    "point": "「三井の晩鐘」で知られる名刹。紅葉も絶景",
+    "season": "秋",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "信楽陶芸村",
+    "activity": "陶芸体験と狸見学",
+    "time": "2時間",
+    "point": "日本六古窯の一つ。至る所に巨大な狸が並ぶ",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "多賀大社",
+    "activity": "延命長寿の祈願",
+    "time": "1時間",
+    "point": "「お多賀さん」と親しまれる滋賀随一の大社",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "黒壁スクエア",
+    "activity": "ガラス細工の買い物",
+    "time": "2時間",
+    "point": "長浜の古い街並みを利用したアートスポット",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "浮御堂（満月寺）",
+    "activity": "湖上に突き出たお堂",
+    "time": "1時間",
+    "point": "近江八景「堅田の落雁」として有名な景色",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "石山寺",
+    "activity": "紫式部ゆかりの参拝",
+    "time": "2時間",
+    "point": "源氏物語が執筆されたと言われる花の寺",
+    "season": "春",
+    "people": "1人"
+  },
+  {
+    "location": "滋賀",
+    "place": "ブルーメの丘",
+    "activity": "動物とのふれあい",
+    "time": "半日",
+    "point": "中世ドイツをイメージした農業公園",
+    "season": "春",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "ミシガンクルーズ",
+    "activity": "外輪船で琵琶湖遊覧",
+    "time": "2時間",
+    "point": "陽気な音楽と食事が楽しめる大型船の旅",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "甲賀流忍者屋敷",
+    "activity": "忍者屋敷の仕掛け体験",
+    "time": "1時間",
+    "point": "本物の忍者が住んでいたとされる唯一の屋敷",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "マキノ高原",
+    "activity": "高原でのキャンプ",
+    "time": "1日",
+    "point": "四季折々の自然を楽しめる広大なレジャー地",
+    "season": "夏",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "賤ヶ岳リフト",
+    "activity": "古戦場からの展望",
+    "time": "1時間",
+    "point": "琵琶湖と余呉湖を一度に見下ろせる絶景",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "ラ コリーナ近江八幡",
+    "activity": "和洋菓子の買い物",
+    "time": "2時間",
+    "point": "草根に覆われた建築が圧巻。焼きたてバーム",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "旧竹林院",
+    "activity": "リフレクション撮影",
+    "time": "1時間",
+    "point": "机に映り込む緑の庭園が美しすぎる名勝",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "滋賀",
+    "place": "せんなり亭 伽羅",
+    "activity": "近江牛のすき焼き食",
+    "time": "2時間",
+    "point": "日本三大和牛の近江牛を贅沢に味わう人気店",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "近江肉せんなり亭 華縹",
+    "activity": "極上のステーキ食",
+    "time": "2時間",
+    "point": "認定近江牛の希少部位を堪能できる高級店",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "つるやパン",
+    "activity": "サラダパンの購入",
+    "time": "1時間",
+    "point": "たくあんを挟んだ滋賀名物のご当地パン",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "滋賀",
+    "place": "徳山鮓",
+    "activity": "熟成発酵料理の体験",
+    "time": "3時間",
+    "point": "鮒寿しを現代的にアレンジした予約困難な名店",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "鮎茶屋 かわせ",
+    "activity": "鮎の塩焼きを食べる",
+    "time": "1時間",
+    "point": "琵琶湖で獲れた新鮮な鮎をその場で焼いて提供",
+    "season": "夏",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "滋賀B級グルメ チャンポン亭",
+    "activity": "近江ちゃんぽん食",
+    "time": "1時間",
+    "point": "野菜たっぷりで和風出汁の滋賀ソウルフード",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "滋賀",
+    "place": "翼果楼",
+    "activity": "焼鯖そうめんを食す",
+    "time": "1時間",
+    "point": "長浜伝統の家庭料理を味わえる古民家食堂",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "お食事処 びわ",
+    "activity": "湖魚料理に舌鼓",
+    "time": "1時間",
+    "point": "ビワマスなどの琵琶湖特有の魚を楽しめる",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "かねよ",
+    "activity": "きんし丼を味わう",
+    "time": "1時間",
+    "point": "巨大な玉子焼きが乗った圧倒的ビジュアルの鰻",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "比叡ゆば本舗 ゆば八",
+    "activity": "比叡ゆばのコース食",
+    "time": "2時間",
+    "point": "比叡山の水で作られる繊細なゆば料理",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "佐川美術館",
+    "activity": "水に浮かぶ建築鑑賞",
+    "time": "2時間",
+    "point": "水の上に浮いているように見えるモダンな建築",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "滋賀",
+    "place": "MIHO MUSEUM",
+    "activity": "桃源郷のような建築美",
+    "time": "3時間",
+    "point": "トンネルを抜けた先にある山中の現代建築",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "教林坊",
+    "activity": "庭園のライトアップ",
+    "time": "2時間",
+    "point": "「石の寺」として知られ、夜の紅葉は圧巻",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "醒ヶ井",
+    "activity": "地蔵川の梅花藻鑑賞",
+    "time": "1時間",
+    "point": "冷たい湧き水の中に咲く小さな白い花が幻想的",
+    "season": "夏",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "安土城跡",
+    "activity": "信長の夢の跡を辿る",
+    "time": "2時間",
+    "point": "石垣だけが残る幻の名城。歴史ファン必見",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "滋賀",
+    "place": "奥琵琶湖パークウェイ",
+    "activity": "絶景のドライブ",
+    "time": "1時間",
+    "point": "琵琶湖北部の入り組んだ地形を一望できる",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "草津市立水生植物公園",
+    "activity": "ハスの群生を観賞",
+    "time": "1時間",
+    "point": "琵琶湖を背景に四季折々の水生植物が楽しめる",
+    "season": "夏",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "土倉鉱山跡",
+    "activity": "廃墟の美しさを感じる",
+    "time": "1時間",
+    "point": "森に埋もれたコンクリート遺構がラピュタのよう",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "滋賀",
+    "place": "滋賀レイクス",
+    "activity": "プロバスケ試合観戦",
+    "time": "3時間",
+    "point": "琵琶湖を背負った熱い応援が魅力のBリーグ",
+    "season": "10月〜5月",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "大津曳山祭",
+    "activity": "伝統の山車を鑑賞",
+    "time": "半日",
+    "point": "豪華な装飾の曳山が街を練り歩く秋の祭礼",
+    "season": "10月",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "桜島",
+    "activity": "活火山の迫力を体感",
+    "time": "半日",
+    "point": "鹿児島のシンボル。展望台から噴煙を間近に",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "仙巌園",
+    "activity": "大名庭園の散策",
+    "time": "2時間",
+    "point": "桜島を借景にした壮大な島津家の名園",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "霧島神宮",
+    "activity": "神話の社の参拝",
+    "time": "1時間",
+    "point": "朱塗りの社殿が美しい南九州最大の神宮",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "指宿温泉 砂むし会館",
+    "activity": "砂むし温泉体験",
+    "time": "1時間",
+    "point": "波打ち際で砂に埋まる独特の入浴が人気",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "屋久島・白谷雲水峡",
+    "activity": "苔むした森のトレッキング",
+    "time": "1日",
+    "point": "もののけ姫のモデルと言われる神秘的な森",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "鹿児島水族館",
+    "activity": "巨大なジンベエザメ鑑賞",
+    "time": "2時間",
+    "point": "鹿児島の海を再現した黒潮大水槽が迫力満点",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "城山展望台",
+    "activity": "市街地と桜島を眺める",
+    "time": "1時間",
+    "point": "鹿児島市随一の絶景スポット。夜景も美しい",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "知覧特攻平和会館",
+    "activity": "命の尊さを学ぶ",
+    "time": "2時間",
+    "point": "特攻隊員の遺書や遺品を展示する重みある施設",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "奄美大島・マングローブ",
+    "activity": "カヌーで原生林を探検",
+    "time": "2時間",
+    "point": "日本第2位の広さを誇るマングローブの森",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "池田湖",
+    "activity": "菜の花と湖の鑑賞",
+    "time": "1時間",
+    "point": "九州最大のカルデラ湖。開聞岳の眺めが最高",
+    "season": "1月",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "西大山駅",
+    "activity": "JR日本最南端の駅訪問",
+    "time": "1時間",
+    "point": "「薩摩富士」開聞岳を背にした黄色いポスト",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "長崎鼻",
+    "activity": "浦島太郎伝説の地歩き",
+    "time": "1時間",
+    "point": "薩摩半島最南端の岬. 開聞岳の展望が抜群",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "釜蓋神社",
+    "activity": "釜の蓋を頭に乗せて参拝",
+    "time": "1時間",
+    "point": "ユニークな参拝方法で有名な勝負事の神様",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "丸尾滝",
+    "activity": "珍しい温泉の滝を鑑賞",
+    "time": "1時間",
+    "point": "温泉水が流れる滝. 冬は湯煙が立ち上る",
+    "season": "冬",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "曽木の滝",
+    "activity": "東洋のナイアガラ体験",
+    "time": "1時間",
+    "point": "滝幅210mを誇る大迫力の景観に圧倒される",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "縄文杉",
+    "activity": "巨大な杉への登山",
+    "time": "1日",
+    "point": "樹齢数千年と言われる世界遺産のシンボル",
+    "season": "春",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "龍門司坂",
+    "activity": "苔むした石畳道を歩く",
+    "time": "1時間",
+    "point": "大河ドラマのロケ地にもなった歴史ある坂道",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "維新ふるさと館",
+    "activity": "幕末の歴史を体感",
+    "time": "1時間",
+    "point": "西郷隆盛や大久保利通の功績を映像で学ぶ",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "出水市ツル観察センター",
+    "activity": "万羽ツルの飛来を鑑賞",
+    "time": "1時間",
+    "point": "日本最大のツル渡来地. 冬の風物詩",
+    "season": "11月〜3月",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "照国神社",
+    "activity": "島津斉彬公を参拝",
+    "time": "1時間",
+    "point": "鹿児島市中心部にある名君ゆかりの神社",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "あじのふるさと 吾愛人",
+    "activity": "黒豚しゃぶしゃぶ食",
+    "time": "2時間",
+    "point": "鹿児島の郷土料理が揃う老舗. 味噌おでんも絶品",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "黒豚料理 あいち",
+    "activity": "極上の黒豚とんかつ食",
+    "time": "1時間",
+    "point": "肉厚で甘みのある黒豚を贅沢に味わえる名店",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "むじゃき 本店",
+    "activity": "本場の白熊を食べる",
+    "time": "1時間",
+    "point": "鹿児島名物かき氷「白熊」の元祖として有名",
+    "season": "夏",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "山形屋 食堂",
+    "activity": "名物焼きそばを食べる",
+    "time": "1時間",
+    "point": "地元民が愛する百貨店食堂のあんかけ焼きそば",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "そば処 かごしま",
+    "activity": "鹿児島の蕎麦体験",
+    "time": "1時間",
+    "point": "甘めの出汁が特徴の素朴で懐かしい蕎麦",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "うなぎの末よし",
+    "activity": "鰻重を贅沢に味わう",
+    "time": "1時間",
+    "point": "鹿児島はウナギ生産日本一. 炭火焼の香ばしさ",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "揚立屋",
+    "activity": "揚げたてのさつま揚げ",
+    "time": "1時間",
+    "point": "天文館通で食べ歩きできる絶品さつま揚げ",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "のり一",
+    "activity": "締めのラーメンを食す",
+    "time": "1時間",
+    "point": "天文館の夜の定番. あっさり鶏ガラスープ",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "丸一",
+    "activity": "分厚いとんかつに驚く",
+    "time": "1時間",
+    "point": "並んででも食べたいボリューム満点の人気店",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "こむらさき",
+    "activity": "鹿児島ラーメンの老舗",
+    "time": "1時間",
+    "point": "キャベツがたっぷり入った伝統の一杯",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "百合ヶ浜",
+    "activity": "幻の白い砂浜で泳ぐ",
+    "time": "3時間",
+    "point": "与論島沖に干潮時だけ現れる奇跡の絶景",
+    "season": "春〜秋",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "雄川の滝",
+    "activity": "エメラルドの滝壺鑑賞",
+    "time": "2時間",
+    "point": "大河ドラマのOPで一躍有名になった神秘の滝",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "溝ノ口洞穴",
+    "activity": "洞窟内に佇む鳥居",
+    "time": "1時間",
+    "point": "パワースポットとして話題. 撮影に最適",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "嘉例川駅",
+    "activity": "築100年の駅舎見学",
+    "time": "1時間",
+    "point": "登録有形文化財の木造駅舎. 駅弁も人気",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "知覧武家屋敷庭園",
+    "activity": "薩摩の小京都を歩く",
+    "time": "1時間",
+    "point": "江戸時代の庭園が並ぶ美しい街並みが残る",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "吹上浜",
+    "activity": "日本三大砂丘の散策",
+    "time": "1時間",
+    "point": "47km続く広大な砂丘と松林のコントラスト",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "鹿児島ユナイテッドFC",
+    "activity": "プロサッカー試合観戦",
+    "time": "3時間",
+    "point": "白波スタジアムでのJリーグ熱戦を応援",
+    "season": "2月〜11月",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "鹿児島レブナイズ",
+    "activity": "プロバスケ試合観戦",
+    "time": "3時間",
+    "point": "迫力あるプレーが魅力のBリーグチーム",
+    "season": "10月〜5月",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "おはら祭",
+    "activity": "大勢での踊りに参加",
+    "time": "半日",
+    "point": "2万人が踊る南九州最大の秋祭り体験",
+    "season": "11月",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "六月灯",
+    "activity": "灯籠を眺めて参拝",
+    "time": "1時間",
+    "point": "夏の夜に神社を彩る鹿児島の伝統行事",
+    "season": "7月",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "立山黒部アルペンルート",
+    "activity": "雪の大谷をウォーキング",
+    "time": "1日",
+    "point": "巨大な雪の壁の間を歩く世界的な絶景ルート",
+    "season": "春",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "黒部ダム",
+    "activity": "迫力の放水見学",
+    "time": "2時間",
+    "point": "日本最大の高さを誇るダム. 虹が見えることも",
+    "season": "夏",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "五箇山 合掌造り集落",
+    "activity": "世界遺産の集落散策",
+    "time": "2時間",
+    "point": "日本の原風景が残る素朴で美しい合掌造り",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "雨晴海岸",
+    "activity": "海越しに立山連峰を望む",
+    "time": "1時間",
+    "point": "海に浮かぶような3000m級の連峰は唯一無二",
+    "season": "冬",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "黒部峡谷鉄道",
+    "activity": "トロッコ電車での絶景旅",
+    "time": "半日",
+    "point": "日本一深い峡谷を抜けるスリル満点の鉄道",
+    "season": "秋",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "富岩運河環水公園",
+    "activity": "公園の散策とコーヒー",
+    "time": "1時間",
+    "point": "世界一美しいと言われたスタバがある水辺の公園",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "富山市ガラス美術館",
+    "activity": "ガラスアートの鑑賞",
+    "time": "1時間",
+    "point": "隈研吾氏設計の建築美と輝くガラスの世界",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "富山",
+    "place": "瑞龍寺",
+    "activity": "加賀藩の菩提寺を参拝",
+    "time": "1時間",
+    "point": "美しく整えられた芝生と国宝の伽藍が圧巻",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "富山",
+    "place": "氷見漁港場外市場ひみ番屋街",
+    "activity": "海の幸の買い物と食事",
+    "time": "2時間",
+    "point": "新鮮な氷見の魚介類が揃う巨大な観光市場",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "海王丸パーク",
+    "activity": "海の貴婦人の見学",
+    "time": "1時間",
+    "point": "白く美しい帆船と新湊大橋のコラボレーション",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "高岡古城公園",
+    "activity": "お城跡の散策",
+    "time": "1時間",
+    "point": "水濠に囲まれた自然豊かな公園. 桜の名所",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "宇奈月温泉",
+    "activity": "渓谷を眺めての入浴",
+    "time": "半日",
+    "point": "黒部峡谷の入口にある県内最大の温泉地",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "高岡大仏",
+    "activity": "日本三大大仏の拝観",
+    "time": "1時間",
+    "point": "「日本一の美男」とも言われる銅造の大仏",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "新湊大橋",
+    "activity": "展望歩道を歩く",
+    "time": "1時間",
+    "point": "日本海側最大級の斜張橋. 空中散歩が楽しめる",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "庄川峡遊覧船",
+    "activity": "湖上からの四季鑑賞",
+    "time": "1時間",
+    "point": "船でしか行けない秘境の風景を楽しめる",
+    "season": "秋",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "称名滝",
+    "activity": "落差日本一の滝を見学",
+    "time": "1時間",
+    "point": "落差350mから水が落ちる大迫力の光景",
+    "season": "夏",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "散居村展望台",
+    "activity": "夕日に映える田園風景",
+    "time": "1時間",
+    "point": "水田が広がる砺波平野の夕景は富山の象徴",
+    "season": "春",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "富山城址公園",
+    "activity": "城下の歴史を体感",
+    "time": "1時間",
+    "point": "富山藩の居城跡. 堀に映る夜景も綺麗",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "富山",
+    "place": "金屋町",
+    "activity": "千本格子の街並み歩き",
+    "time": "1時間",
+    "point": "高岡銅器発祥の地. 石畳と格子戸が美しい",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "砺波チューリップ公園",
+    "activity": "300万本の花を鑑賞",
+    "time": "2時間",
+    "point": "富山県の花、チューリップが咲き乱れる春の祭典",
+    "season": "春",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "富山湾鮨 扇亜",
+    "activity": "地魚の寿司を堪能",
+    "time": "1時間",
+    "point": "「天然の生け簀」富山湾の旬を握りで味わう",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "西町大喜",
+    "activity": "元祖ブラックラーメン",
+    "time": "1時間",
+    "point": "真っ黒なスープが衝撃的な富山を代表する味",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "富山",
+    "place": "氷見 魚市場食堂",
+    "activity": "競り見学と朝食",
+    "time": "1時間",
+    "point": "市場の2階で食べる豪快な海鮮丼が名物",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "白えび亭",
+    "activity": "富山湾の宝石を食べる",
+    "time": "1時間",
+    "point": "希少な白えびを贅沢に使った天丼が絶品",
+    "season": "春〜夏",
+    "people": "1人"
+  },
+  {
+    "location": "富山",
+    "place": "ますのすし本舗 源",
+    "activity": "駅弁の製造見学と食",
+    "time": "1時間",
+    "point": "富山名物「ますのすし」の伝統を学んで食べる",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "すし玉",
+    "activity": "回転寿司で地魚満喫",
+    "time": "1時間",
+    "point": "回転寿司のレベルを超えた新鮮なネタが揃う",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "富山",
+    "place": "キッチン 丹霞堂",
+    "activity": "薬膳カレーを味わう",
+    "time": "1時間",
+    "point": "くすりの街・富山らしい体に優しい料理",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "池田屋安兵衛商店",
+    "activity": "丸薬作り体験と食事",
+    "time": "1時間",
+    "point": "伝統的な薬の製造を体験できるユニークな店",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "新湊かに小屋",
+    "activity": "茹でたて紅ズワイガニ",
+    "time": "1時間",
+    "point": "昼セリ後の新鮮なカニを丸ごと楽しめる",
+    "season": "秋〜春",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "手打ちそば 藤吉",
+    "activity": "こだわりの十割そば食",
+    "time": "1時間",
+    "point": "香り高い富山産そばを味わえる静かな名店",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "富山",
+    "place": "ほたるいかミュージアム",
+    "activity": "ホタルイカの発光見学",
+    "time": "1時間",
+    "point": "生きたホタルイカの光を間近で見られる世界唯一の館",
+    "season": "春",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "おわら風の盆",
+    "activity": "伝統の踊りを鑑賞",
+    "time": "半日",
+    "point": "三味線の音色とともに踊る静謐な越中の夜",
+    "season": "9月",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "内川散策",
+    "activity": "日本のベニスを歩く",
+    "time": "1時間",
+    "point": "川沿いに漁船が並ぶノスタルジックな風景",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "入善 牡蠣ノ星",
+    "activity": "海洋深層水浄化カキ食",
+    "time": "1時間",
+    "point": "深層水で浄化された安全で濃厚なカキを堪能",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "相倉合掌造り集落",
+    "activity": "夜のライトアップ見学",
+    "time": "2時間",
+    "point": "雪の中に浮かび上がる合掌造りの幻想的な姿",
+    "season": "冬",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "岩瀬の街並み",
+    "activity": "北前船の歴史を歩く",
+    "time": "1時間",
+    "point": "回船問屋が立ち並ぶレトロモダンなエリア",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "富山",
+    "place": "富山グラウジーズ",
+    "activity": "プロバスケ試合観戦",
+    "time": "3時間",
+    "point": "富山市総合体育館でのBリーグ熱狂体験",
+    "season": "10月〜5月",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "カターレ富山",
+    "activity": "プロサッカー試合観戦",
+    "time": "3時間",
+    "point": "Jリーグ昇格を目指す熱い戦いを応援",
+    "season": "2月〜11月",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "城端曳山祭",
+    "activity": "絢爛豪華な曳山見学",
+    "time": "半日",
+    "point": "精緻な彫刻が施された山車が街を巡る伝統行事",
+    "season": "5月",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "伏木気多神社",
+    "activity": "越中一宮を参拝",
+    "time": "1時間",
+    "point": "万葉集ゆかりの地に建つ歴史深い古社",
+    "season": "通年",
+    "people": "1人"
   }
 ]
