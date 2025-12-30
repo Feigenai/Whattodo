@@ -516,6 +516,36 @@
             box-shadow: 0 8px 32px rgba(240, 146, 126, 0.5);
         }
 
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 24px 20px;
+            margin-top: 32px;
+        }
+
+        .footer-links {
+            margin-bottom: 12px;
+        }
+
+        .footer-links a {
+            color: white;
+            text-decoration: none;
+            font-size: 0.875rem;
+            font-weight: 600;
+            transition: color 0.3s ease;
+        }
+
+        .footer-links a:hover {
+            color: #F5F0EB;
+            text-decoration: underline;
+        }
+
+        .footer-copyright {
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 0.8125rem;
+            font-weight: 500;
+        }
+
         /* Responsive */
         @media (max-width: 420px) {
             .title-text,
@@ -567,6 +597,19 @@
 
             .title-container {
                 margin-bottom: 10px;
+            }
+
+            footer {
+                padding: 20px 16px;
+                margin-top: 24px;
+            }
+
+            .footer-links a {
+                font-size: 0.8125rem;
+            }
+
+            .footer-copyright {
+                font-size: 0.75rem;
             }
         }
 
@@ -762,6 +805,15 @@
                 </div>
             </div>
         </div>
+
+        <footer>
+            <div class="footer-links">
+                <a href="privacy-policy.html">プライバシーポリシー</a>
+            </div>
+            <div class="footer-copyright">
+                © seisaily.com
+            </div>
+        </footer>
     </div>
 
     <script>
