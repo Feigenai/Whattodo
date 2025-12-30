@@ -83,8 +83,7 @@
             padding-top: 80px !important;
             padding-left: 20px;
             padding-right: 20px;
-            padding-bottom: 40px;
-            min-height: 100vh;
+            padding-bottom: 0;
         }
 
         /* Loading */
@@ -176,13 +175,12 @@
         /* Card */
         .card-container {
             perspective: 1500px;
-            margin-bottom: 20px;
+            margin-bottom: 0;
         }
 
         .card {
             position: relative;
             width: 100%;
-            min-height: 450px;
             transform-style: preserve-3d;
             transition: transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
         }
@@ -228,6 +226,7 @@
         .card-face {
             position: absolute;
             width: 100%;
+            min-height: 450px;
             background: #F5F0EB;
             border-radius: 32px;
             padding: 24px 20px 28px 20px;
@@ -519,8 +518,9 @@
         /* Footer */
         footer {
             text-align: center;
-            padding: 24px 20px;
-            margin-top: 32px;
+            padding: 20px 20px 40px 20px;
+            max-width: 480px;
+            margin: 0 auto;
         }
 
         .footer-links {
@@ -588,7 +588,7 @@
                 padding-top: 80px !important;
                 padding-left: 16px;
                 padding-right: 16px;
-                padding-bottom: 32px;
+                padding-bottom: 0;
             }
 
             header {
@@ -600,8 +600,7 @@
             }
 
             footer {
-                padding: 20px 16px;
-                margin-top: 24px;
+                padding: 16px 16px 32px 16px;
             }
 
             .footer-links a {
@@ -772,6 +771,7 @@
                         <label class="filter-label">季節</label>
                         <select id="season-filter">
                             <option value="">指定なし</option>
+                            <option value="年始">年始</option>
                             <option value="春">春</option>
                             <option value="夏">夏</option>
                             <option value="秋">秋</option>
@@ -887,10 +887,31 @@
 
         let currentResult = null;
 
+        // カードの高さを動的に調整
+        function updateCardHeight() {
+            const card = document.getElementById('main-card');
+            const frontFace = card.querySelector('.card-front');
+            const backFace = card.querySelector('.card-back');
+            
+            if (card.classList.contains('flipped')) {
+                // 裏面の高さを取得
+                card.style.height = backFace.offsetHeight + 'px';
+            } else {
+                // 表面の高さを取得
+                card.style.height = frontFace.offsetHeight + 'px';
+            }
+        }
+
         // 初期化
         async function initialize() {
             await loadActivities();
             loadingScreen.classList.add('hidden');
+            
+            // 初期カード高さを設定
+            updateCardHeight();
+            
+            // ウィンドウリサイズ時も高さを再計算
+            window.addEventListener('resize', updateCardHeight);
         }
 
         // Perplexity検索ボタン
@@ -912,9 +933,16 @@
             window.open(perplexityUrl, '_blank');
         });
 
-        // 季節マッチング関数（通年も含む）
+        // 季節マッチング関数（年始は特別扱い）
         const matchesSeason = (activitySeason, filterSeason) => {
             if (!filterSeason) return true; // 指定なしの場合は全てマッチ
+            
+            // 年始を選択した場合は、年始のみマッチ（通年を含めない）
+            if (filterSeason === '年始') {
+                return activitySeason === '年始';
+            }
+            
+            // その他の季節の場合は、通年も含める
             return activitySeason === filterSeason || activitySeason === '通年';
         };
 
@@ -999,6 +1027,9 @@
                 mainCard.classList.add('flipped');
                 decideBtn.disabled = false;
                 decideBtn.textContent = '決める';
+                
+                // カード高さを更新
+                setTimeout(updateCardHeight, 50);
             }, 600);
         });
 
@@ -1028,6 +1059,9 @@
             }
             
             mainCard.classList.remove('flipped');
+            
+            // カード高さを更新
+            setTimeout(updateCardHeight, 50);
         });
 
         // 初期化実行
