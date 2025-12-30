@@ -19468,5 +19468,5495 @@
     "point": "大阪の街を3万人が駆け抜ける、冬の巨大イベント",
     "season": "2月",
     "people": "グループ"
+  },
+  {
+    "location": "北海道",
+    "place": "北海道神宮",
+    "activity": "初詣・参拝",
+    "time": "2時間",
+    "point": "北海道最大のパワースポットで新年を祈願",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "北海道",
+    "place": "函館八幡宮",
+    "activity": "初詣・お守り授与",
+    "time": "1時間",
+    "point": "函館山を背にした名社で開運祈願",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "北海道",
+    "place": "樽前山神社",
+    "activity": "初詣・絶景鑑賞",
+    "time": "1時間",
+    "point": "苫小牧市民に愛される壮大な神殿",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "北海道",
+    "place": "三井アウトレットパーク 札幌北広島",
+    "activity": "初売り・福袋買い出し",
+    "time": "半日",
+    "point": "北海道最大級のアウトレットで新春セール",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "北海道",
+    "place": "サッポロファクトリー",
+    "activity": "初売りショッピング",
+    "time": "3時間",
+    "point": "巨大なアトリウムで楽しむ福袋と買い物",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "北海道",
+    "place": "イオンモール旭川西",
+    "activity": "初売り・イベント参加",
+    "time": "3時間",
+    "point": "道北最大級の商業施設で賑やかな正月",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "北海道",
+    "place": "さっぽろテレビ塔",
+    "activity": "新春の景色展望",
+    "time": "1時間",
+    "point": "展望台から真っ白な大通公園を一望",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "北海道",
+    "place": "登別温泉",
+    "activity": "正月温泉入浴",
+    "time": "1日",
+    "point": "雪景色を眺めながらの名湯で正月休み",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "北海道",
+    "place": "旭山動物園",
+    "activity": "冬の動物観察",
+    "time": "半日",
+    "point": "ペンギンの散歩など冬限定の姿を公開",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "北海道",
+    "place": "もいわ山ロープウェイ",
+    "activity": "初夜景鑑賞",
+    "time": "2時間",
+    "point": "日本新三大夜景に選ばれた絶景を堪能",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "青森",
+    "place": "善知鳥神社",
+    "activity": "初詣・おみくじ",
+    "time": "1時間",
+    "point": "青森市発祥の地とされる由緒ある神社",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "青森",
+    "place": "弘前八幡宮",
+    "activity": "初詣・厄除け",
+    "time": "1時間",
+    "point": "藩政時代からの伝統を誇る重要文化財",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "青森",
+    "place": "蕪嶋神社",
+    "activity": "初詣・金運祈願",
+    "time": "1時間",
+    "point": "ウミネコの繁殖地としても有名なパワスポ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "青森",
+    "place": "ELM（エルム）",
+    "activity": "初売りショッピング",
+    "time": "半日",
+    "point": "五所川原の人気モールで大型初売り開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "青森",
+    "place": "さくら野百貨店 青森本店",
+    "activity": "福袋買い出し",
+    "time": "2時間",
+    "point": "青森市民おなじみの百貨店で正月買い物",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "青森",
+    "place": "ラビナ",
+    "activity": "新春駅ビル巡り",
+    "time": "2時間",
+    "point": "青森駅直結でアクセス抜群の初売り会場",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "青森",
+    "place": "八甲田ロープウェイ",
+    "activity": "樹氷鑑賞",
+    "time": "2時間",
+    "point": "スノーモンスターと呼ばれる樹氷の絶景",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "青森",
+    "place": "浅虫水族館",
+    "activity": "正月イルカショー",
+    "time": "3時間",
+    "point": "津軽三味線の音に合わせたイルカショー",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "青森",
+    "place": "弘前公園（冬に咲くさくら）",
+    "activity": "冬の桜鑑賞",
+    "time": "1時間",
+    "point": "雪が積もった枝を桜のようにライトアップ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "青森",
+    "place": "十和田湖（雪景色）",
+    "activity": "冬の湖畔散策",
+    "time": "2時間",
+    "point": "冬ならではの静寂と美しさを湛えた湖",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "岩手",
+    "place": "盛岡八幡宮",
+    "activity": "初詣・参拝",
+    "time": "2時間",
+    "point": "岩手県内一の参拝客数を誇る人気スポット",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "岩手",
+    "place": "中尊寺",
+    "activity": "世界遺産で初詣",
+    "time": "2時間",
+    "point": "金色堂と共に迎える厳かな新年",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "岩手",
+    "place": "駒形神社",
+    "activity": "初詣・陸中一宮参拝",
+    "time": "1時間",
+    "point": "奥州市に鎮座する由緒正しき名社",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "岩手",
+    "place": "パルクアベニュー・カワトク",
+    "activity": "デパート初売り",
+    "time": "3時間",
+    "point": "盛岡の老舗百貨店で贅沢な福袋選び",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "岩手",
+    "place": "イオンモール盛岡南",
+    "activity": "大型モール初売り",
+    "time": "半日",
+    "point": "店舗数豊富なモールで正月の買い出し",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "岩手",
+    "place": "クロステラス盛岡",
+    "activity": "正月ショッピング",
+    "time": "2時間",
+    "point": "盛岡駅近くのセレクトショップで買い物",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "岩手",
+    "place": "小岩井農場",
+    "activity": "冬のイルミネーション",
+    "time": "3時間",
+    "point": "東北最大級の光の祭典と冬の農場体験",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "岩手",
+    "place": "三陸鉄道（初日の出号）",
+    "activity": "車窓からの景色堪能",
+    "time": "3時間",
+    "point": "太平洋から昇る美しい日の出を列車から",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "岩手",
+    "place": "厳美渓",
+    "activity": "雪の渓谷美鑑賞",
+    "time": "1時間",
+    "point": "冬の寒さで凍てつくダイナミックな渓谷",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "岩手",
+    "place": "つなぎ温泉",
+    "activity": "正月の日帰り入浴",
+    "time": "3時間",
+    "point": "御所湖を眺めながらの贅沢な初湯",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "宮城",
+    "place": "大崎八幡宮",
+    "activity": "初詣・国宝見学",
+    "time": "1時間",
+    "point": "豪華絢爛な社殿で一年の無病息災を祈願",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "宮城",
+    "place": "竹駒神社",
+    "activity": "初詣・商売繁盛祈願",
+    "time": "2時間",
+    "point": "日本三大稲荷の一つとして知られる古社",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "宮城",
+    "place": "志波彦神社・鹽竈神社",
+    "activity": "初詣・浄化体験",
+    "time": "2時間",
+    "point": "202段の石段を登り切って迎える新年",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "宮城",
+    "place": "仙台初売り（クリスロード商店街）",
+    "activity": "伝統の豪華景品初売り",
+    "time": "半日",
+    "point": "豪華な景品で全国的に有名な仙台の伝統",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "宮城",
+    "place": "仙台三越",
+    "activity": "百貨店初売り",
+    "time": "3時間",
+    "point": "高品質なアイテムの福袋が揃う名店",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "宮城",
+    "place": "三井アウトレットパーク 仙台港",
+    "activity": "ブランド初売り",
+    "time": "半日",
+    "point": "東北最大級の観覧車があるアウトレット",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "宮城",
+    "place": "松島",
+    "activity": "新春の景勝地巡り",
+    "time": "3時間",
+    "point": "日本三景の美しい冬景色をクルーズで",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "宮城",
+    "place": "仙台うみの杜水族館",
+    "activity": "冬の水族館散策",
+    "time": "3時間",
+    "point": "新春特別展示やショーが楽しめる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "宮城",
+    "place": "秋保温泉",
+    "activity": "正月癒やしの温泉",
+    "time": "1日",
+    "point": "仙台の奥座敷で心ゆくまで温泉三昧",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "宮城",
+    "place": "青葉山公園（伊達政宗像）",
+    "activity": "初景色・歴史散策",
+    "time": "1時間",
+    "point": "政宗公の騎馬像越しに仙台市街を眺望",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "秋田",
+    "place": "太平山三吉神社",
+    "activity": "初詣・勝利祈願",
+    "time": "1時間",
+    "point": "勝負事の神様として有名な総本山",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "秋田",
+    "place": "秋田県護国神社",
+    "activity": "初詣・平和祈願",
+    "time": "1時間",
+    "point": "静かな森に囲まれた厳かな雰囲気の社",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "秋田",
+    "place": "古四王神社",
+    "activity": "初詣・厄除け",
+    "time": "1時間",
+    "point": "東北最古級の歴史を持つ荘厳な空間",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "秋田",
+    "place": "秋田OPA（オーパ）",
+    "activity": "初売りファッション",
+    "time": "3時間",
+    "point": "秋田駅前で最新の福袋を手に入れるなら",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "秋田",
+    "place": "西武秋田店",
+    "activity": "百貨店ショッピング",
+    "time": "2時間",
+    "point": "こだわりの食品や衣料品の福袋が人気",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "秋田",
+    "place": "イオンモール秋田",
+    "activity": "新春大型初売り",
+    "time": "半日",
+    "point": "広大な店内で正月イベントや買い物を満喫",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "秋田",
+    "place": "角館武家屋敷通り",
+    "activity": "雪の歴史散策",
+    "time": "2時間",
+    "point": "黒塀と雪のコントラストが美しい冬の角館",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "秋田",
+    "place": "乳頭温泉郷",
+    "activity": "秘湯の正月入浴",
+    "time": "1日",
+    "point": "日本屈指の秘湯で雪見風呂を愉しむ",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "秋田",
+    "place": "男鹿真山伝承館",
+    "activity": "なまはげ体験",
+    "time": "1時間",
+    "point": "冬にこそ見たい迫力満点の伝統行事体験",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "秋田",
+    "place": "田沢湖",
+    "activity": "新春の湖畔巡り",
+    "time": "2時間",
+    "point": "たつこ像が佇む日本一深い冬の碧い湖",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "山形",
+    "place": "上杉神社",
+    "activity": "初詣・開運祈願",
+    "time": "1時間",
+    "point": "名君・上杉鷹山を祀る米沢の精神的支柱",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "山形",
+    "place": "出羽三山神社",
+    "activity": "初詣・聖地巡礼",
+    "time": "2時間",
+    "point": "雪深い羽黒山頂で迎える神聖な正月",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "山形",
+    "place": "湯殿山神社本宮（遥拝）",
+    "activity": "初詣・神秘体験",
+    "time": "1時間",
+    "point": "「語るなかれ」の聖地を遠くから拝む",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "山形",
+    "place": "エスパル山形",
+    "activity": "駅ビル初売り",
+    "time": "2時間",
+    "point": "山形駅直結で地元土産と福袋をチェック",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "山形",
+    "place": "イオンモール天童",
+    "activity": "新春お買い物",
+    "time": "半日",
+    "point": "映画館併設のモールで正月を一日楽しむ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "山形",
+    "place": "山形屋百貨店",
+    "activity": "新春百貨店巡り",
+    "time": "2時間",
+    "point": "伝統ある百貨店で高品質な商品を狙う",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "山形",
+    "place": "蔵王温泉スキー場",
+    "activity": "樹氷鑑賞・スキー",
+    "time": "1日",
+    "point": "世界的に有名な「氷の怪物」を見上げる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "山形",
+    "place": "銀山温泉",
+    "activity": "大正浪漫の雪景色",
+    "time": "3時間",
+    "point": "ガス灯が灯る雪の温泉街は幻想的",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "山形",
+    "place": "山寺（立石寺）",
+    "activity": "新春の階段登り",
+    "time": "2時間",
+    "point": "冬の静寂に包まれた絶景の山岳寺院",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "山形",
+    "place": "加茂水族館",
+    "activity": "クラゲ鑑賞",
+    "time": "2時間",
+    "point": "世界一のクラゲ展示で癒やしの正月を",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "福島",
+    "place": "開成山大神宮",
+    "activity": "初詣・参拝",
+    "time": "2時間",
+    "point": "「東北のお伊勢様」として崇敬される神社",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "福島",
+    "place": "福島県護国神社",
+    "activity": "初詣・平和祈願",
+    "time": "1時間",
+    "point": "信夫山の麓で静かに迎える新年",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "福島",
+    "place": "伊佐須美神社",
+    "activity": "初詣・長寿祈願",
+    "time": "2時間",
+    "point": "会津地方きっての名社で伝統の神事",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "福島",
+    "place": "郡山うすい百貨店",
+    "activity": "百貨店初売り",
+    "time": "3時間",
+    "point": "福島唯一の百貨店で賑わう福袋市",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "福島",
+    "place": "エスパル郡山",
+    "activity": "駅ビル初売り",
+    "time": "2時間",
+    "point": "アクセスの良い駅ビルで年始の買い物",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "福島",
+    "place": "イオンモールいわき小名浜",
+    "activity": "オーシャンビュー初売り",
+    "time": "半日",
+    "point": "海が見えるモールで解放感ある買い物",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "福島",
+    "place": "アクアマリンふくしま",
+    "activity": "水族館での正月",
+    "time": "3時間",
+    "point": "冬の海をテーマにした展示やイベント",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "福島",
+    "place": "大内宿",
+    "activity": "雪の宿場町散策",
+    "time": "2時間",
+    "point": "茅葺き屋根に積もる雪が江戸の情緒",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "福島",
+    "place": "会津若松城（鶴ヶ城）",
+    "activity": "新春の城郭見学",
+    "time": "2時間",
+    "point": "雪に映える赤い瓦と白い天守閣の対比",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "福島",
+    "place": "スパリゾートハワイアンズ",
+    "activity": "常夏の正月体験",
+    "time": "1日",
+    "point": "福島にいながら暖かい室内プールで遊ぶ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "茨城",
+    "place": "鹿島神宮",
+    "activity": "初詣・勝負祈願",
+    "time": "2時間",
+    "point": "日本屈指の歴史を誇る武道の神様を参拝",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "茨城",
+    "place": "筑波山神社",
+    "activity": "初詣・登山",
+    "time": "3時間",
+    "point": "関東平野を見渡す霊峰の麓で祈る",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "茨城",
+    "place": "常陸国出雲大社",
+    "activity": "初詣・縁結び",
+    "time": "1時間",
+    "point": "巨大なしめ縄が圧巻のパワースポット",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "茨城",
+    "place": "あみプレミアム・アウトレット",
+    "activity": "新春初売り",
+    "time": "半日",
+    "point": "牛久大仏を望みながらのブランド買い物",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "茨城",
+    "place": "ファッションクルーズひたちなか",
+    "activity": "正月ショッピング",
+    "time": "半日",
+    "point": "海近くの巨大商業施設で1日買い物三昧",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "茨城",
+    "place": "水戸京成百貨店",
+    "activity": "デパート初売り",
+    "time": "3時間",
+    "point": "水戸の中心部で楽しむ高品質な福袋",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "茨城",
+    "place": "アクアワールド大洗",
+    "activity": "新春の水族館",
+    "time": "3時間",
+    "point": "サメの飼育展示数日本一の迫力を冬に",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "茨城",
+    "place": "袋田の滝",
+    "activity": "氷瀑鑑賞",
+    "time": "1時間",
+    "point": "凍結した滝「氷瀑」が見られる冬の名所",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "茨城",
+    "place": "偕楽園",
+    "activity": "冬の庭園散策",
+    "time": "2時間",
+    "point": "梅の季節を控えた静かな日本庭園",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "茨城",
+    "place": "国営ひたち海浜公園",
+    "activity": "冬の自然散策",
+    "time": "2時間",
+    "point": "広大な敷地で楽しむ冬のアクティビティ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "栃木",
+    "place": "日光東照宮",
+    "activity": "初詣・世界遺産巡り",
+    "time": "2時間",
+    "point": "家康公を祀る豪華な社殿で一年の無事を",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "栃木",
+    "place": "佐野厄除け大師",
+    "activity": "厄除け・方位除け",
+    "time": "2時間",
+    "point": "関東三大師の一つで強力な厄除けを",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "栃木",
+    "place": "宇都宮二荒山神社",
+    "activity": "初詣・参拝",
+    "time": "1時間",
+    "point": "宇都宮の市街地を見守る下野国一宮",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "栃木",
+    "place": "佐野プレミアム・アウトレット",
+    "activity": "新春ハッピーバッグ",
+    "time": "半日",
+    "point": "国内外の人気ブランドが揃う初売り会場",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "栃木",
+    "place": "宇都宮PARCO跡（ベルモール）",
+    "activity": "正月お買い物",
+    "time": "半日",
+    "point": "アルパカに会える巨大モールで初売り",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "栃木",
+    "place": "東武百貨店 宇都宮店",
+    "activity": "百貨店初売り",
+    "time": "3時間",
+    "point": "駅前で楽しむ伝統の福袋とグルメ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "栃木",
+    "place": "あしかがフラワーパーク",
+    "activity": "冬のイルミネーション",
+    "time": "3時間",
+    "point": "日本三大イルミに選ばれた圧倒的な光",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "栃木",
+    "place": "日光江戸村",
+    "activity": "江戸の正月体験",
+    "time": "半日",
+    "point": "侍や忍者と過ごす昔懐かしい新年",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "栃木",
+    "place": "那須ハイランドパーク",
+    "activity": "冬の遊園地",
+    "time": "半日",
+    "point": "雪化粧した那須高原のアトラクション",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "栃木",
+    "place": "那須温泉 鹿の湯",
+    "activity": "歴史ある初湯",
+    "time": "1時間",
+    "point": "1300年続く名湯で心身を清める",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "群馬",
+    "place": "榛名神社",
+    "activity": "初詣・修行体験",
+    "time": "2時間",
+    "point": "巨岩に囲まれた厳かな雰囲気のパワスポ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "群馬",
+    "place": "一之宮貫前神社",
+    "activity": "初詣・参拝",
+    "time": "1時間",
+    "point": "「下り参道」が特徴的な珍しい神社",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "群馬",
+    "place": "水澤寺（水澤観音）",
+    "activity": "初詣・うどん堪能",
+    "time": "2時間",
+    "point": "坂東三十三札所の一つで新年の祈願",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "群馬",
+    "place": "高崎OPA（オーパ）",
+    "activity": "駅前初売り",
+    "time": "3時間",
+    "point": "高崎駅直結で最新福袋をスマートに購入",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "群馬",
+    "place": "けやきウォーク前橋",
+    "activity": "モール初売り",
+    "time": "半日",
+    "point": "前橋最大級のモールで正月イベント",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "群馬",
+    "place": "スズラン百貨店 高崎店",
+    "activity": "老舗の初売り",
+    "time": "2時間",
+    "point": "地元に愛されるデパートの伝統福袋",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "群馬",
+    "place": "高崎だるま市",
+    "activity": "縁起だるま購入",
+    "time": "2時間",
+    "point": "新年の抱負を願ってだるまを新調する",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "群馬",
+    "place": "草津温泉（湯畑）",
+    "activity": "冬の温泉街散策",
+    "time": "3時間",
+    "point": "湯けむりとライトアップが美しい冬景色",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "群馬",
+    "place": "伊香保温泉（石段街）",
+    "activity": "新春階段歩き",
+    "time": "2時間",
+    "point": "365段の石段を登り運気を上げる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "群馬",
+    "place": "ロックハート城",
+    "activity": "冬の古城見学",
+    "time": "2時間",
+    "point": "雪の中に佇む英国の古城で優雅な正月",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "氷川神社",
+    "activity": "初詣・参拝",
+    "time": "2時間",
+    "point": "武蔵一宮として知られる広大な神社",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "川越氷川神社",
+    "activity": "初詣・鯛みくじ",
+    "time": "1時間",
+    "point": "縁結びで有名な神社で可愛く運試し",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "喜多院",
+    "activity": "厄除け大師参拝",
+    "time": "1時間",
+    "point": "五百羅漢でも有名な川越の大寺院",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "三井アウトレットパーク 入間",
+    "activity": "新春セール買い物",
+    "time": "半日",
+    "point": "国内最大級の店舗数でお得を追求",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "レイクタウンアウトレット",
+    "activity": "巨大モール巡り",
+    "time": "1日",
+    "point": "越谷の巨大モールで新春を遊び尽くす",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "コクーンシティ",
+    "activity": "大宮での初売り",
+    "time": "半日",
+    "point": "さいたま新都心駅前で最新トレンド福袋",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "三十槌の氷柱",
+    "activity": "氷の芸術鑑賞",
+    "time": "1時間",
+    "point": "奥秩父の厳しい寒さが生む天然の氷柱",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "埼玉",
+    "place": "西武園ゆうえんち",
+    "activity": "昭和の正月体験",
+    "time": "半日",
+    "point": "レトロな街並みで懐かしい正月を楽しむ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "埼玉",
+    "place": "角川武蔵野ミュージアム",
+    "activity": "冬の文化体験",
+    "time": "3時間",
+    "point": "巨大な本棚劇場で知的好奇心を満たす",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "埼玉",
+    "place": "ムーミンバレーパーク",
+    "activity": "北欧の冬体験",
+    "time": "半日",
+    "point": "飯能の豊かな自然の中で北欧の正月",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "成田山新勝寺",
+    "activity": "初詣・護摩焚き",
+    "time": "3時間",
+    "point": "日本有数の参拝者数を誇る大本山",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "香取神宮",
+    "activity": "初詣・参拝",
+    "time": "2時間",
+    "point": "下総国一宮で強力な開運パワーを授かる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "千葉神社",
+    "activity": "初詣・厄除け",
+    "time": "1時間",
+    "point": "北辰妙見様を祀る壮麗な朱塗りの社殿",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "千葉",
+    "place": "三井アウトレットパーク 木更津",
+    "activity": "新春初売り",
+    "time": "半日",
+    "point": "店舗数日本一のアウトレットで買い物",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "ららぽーとTOKYO-BAY",
+    "activity": "正月ショッピング",
+    "time": "半日",
+    "point": "船橋の巨大施設で正月イベントを楽しむ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "イオンモール幕張新都心",
+    "activity": "新春エンタメ買い物",
+    "time": "半日",
+    "point": "巨大な敷地で買い物と体験を両立",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "東京ディズニーリゾート",
+    "activity": "新春プログラム",
+    "time": "1日",
+    "point": "和装のキャラクターと祝う特別な新年",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "鴨川シーワールド",
+    "activity": "冬のシャチパフォーマンス",
+    "time": "半日",
+    "point": "大迫力のシャチジャンプで爽快な新年",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "マザー牧場",
+    "activity": "初富士鑑賞",
+    "time": "3時間",
+    "point": "展望台から空気が澄んだ冬の富士山を",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "千葉",
+    "place": "海ほたるPA",
+    "activity": "海上からの初日の出",
+    "time": "1時間",
+    "point": "東京湾の真ん中で迎える贅沢な新年",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "明治神宮",
+    "activity": "初詣・参拝",
+    "time": "3時間",
+    "point": "日本一の参拝者数を誇る杜で新年を祈る",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "浅草寺",
+    "activity": "初詣・仲見世散策",
+    "time": "2時間",
+    "point": "東京最古の寺で江戸情緒溢れる正月",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "神田明神",
+    "activity": "初詣・商売繁盛祈願",
+    "time": "1時間",
+    "point": "ITのお守りもありビジネスマンに人気",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "伊勢丹新宿店",
+    "activity": "デパート初売り",
+    "time": "3時間",
+    "point": "ファッションの聖地で豪華福袋を狙う",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "日本橋三越本店",
+    "activity": "伝統の初売り",
+    "time": "2時間",
+    "point": "ライオン像がお迎えする格調高い初売り",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "渋谷スクランブルスクエア",
+    "activity": "最新福袋探し",
+    "time": "3時間",
+    "point": "トレンドの発信地で正月の買い物三昧",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "東京スカイツリー",
+    "activity": "初景色展望",
+    "time": "2時間",
+    "point": "地上450mから東京の新年を一望する",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "東京タワー",
+    "activity": "新春階段昇り",
+    "time": "1時間",
+    "point": "健康を願って外階段で展望台へ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "チームラボボーダレス",
+    "activity": "冬のアート体験",
+    "time": "3時間",
+    "point": "光と映像の没入型空間で新年を祝う",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "よみうりランド",
+    "activity": "冬のジュエルミネーション",
+    "time": "半日",
+    "point": "宝石色の輝きに包まれる特別な夜",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "川崎大師 平間寺",
+    "activity": "初詣・厄除け参拝",
+    "time": "2時間",
+    "point": "全国屈指の参拝者数を誇る厄除けの総本山",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "鶴岡八幡宮",
+    "activity": "初詣・鎌倉散策",
+    "time": "2時間",
+    "point": "鎌倉のシンボル。若宮大路の賑わいも正月の醍醐味",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "箱根駅伝（往路・復路）",
+    "activity": "駅伝の沿道応援",
+    "time": "3時間",
+    "point": "正月恒例の熱き戦い。沿道の熱気は圧巻",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "ラゾーナ川崎プラザ",
+    "activity": "新春初売り買い物",
+    "time": "半日",
+    "point": "川崎駅直結の巨大モール。福袋の数が豊富",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "横浜元町ショッピングストリート",
+    "activity": "ストリート初売り",
+    "time": "3時間",
+    "point": "お洒落な街並みで伝統の福袋を手に入れる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "テラスモール湘南",
+    "activity": "湘南の初売り",
+    "time": "半日",
+    "point": "辻堂駅直結。開放的な空間で正月の買い出し",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "大さん橋（初日の出）",
+    "activity": "港からの日の出鑑賞",
+    "time": "1時間",
+    "point": "横浜港と富士山を望む絶景スポットでの新年",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "八景島シーパラダイス",
+    "activity": "正月水族館体験",
+    "time": "半日",
+    "point": "オタリアの書き初めなど正月限定イベント開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "箱根神社",
+    "activity": "湖上の鳥居参拝",
+    "time": "2時間",
+    "point": "芦ノ湖に立つ鳥居が美しいパワースポット",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "新江ノ島水族館",
+    "activity": "お正月特別展示",
+    "time": "3時間",
+    "point": "相模湾を望むロケーションで海の生き物と新年",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "新潟",
+    "place": "彌彦神社",
+    "activity": "初詣・越後一宮参拝",
+    "time": "2時間",
+    "point": "「おやひこさま」として親しまれる県内随一の霊場",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "新潟",
+    "place": "白山神社",
+    "activity": "初詣・縁結び祈願",
+    "time": "1時間",
+    "point": "新潟市中心部に位置し、多くの人で賑わう古社",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "新潟",
+    "place": "新潟伊勢丹",
+    "activity": "百貨店初売り",
+    "time": "3時間",
+    "point": "万代エリアの中心で高品質な福袋をゲット",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "新潟",
+    "place": "CoCoLo新潟",
+    "activity": "駅ビルショッピング",
+    "time": "2時間",
+    "point": "新装オープンした駅ビルで新潟グルメと初売り",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "新潟",
+    "place": "リバーサイド千秋",
+    "activity": "長岡の大型初売り",
+    "time": "半日",
+    "point": "中越エリア最大級の施設で正月を楽しむ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "新潟",
+    "place": "上越国際スキー場（カウントダウン）",
+    "activity": "雪上の花火鑑賞",
+    "time": "2時間",
+    "point": "ゲレンデに打ち上がる花火で新年を祝う",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "新潟",
+    "place": "せんべい王国",
+    "activity": "正月せんべい焼き",
+    "time": "1時間",
+    "point": "巨大なお絵かきせんべいで新年の思い出作り",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "新潟",
+    "place": "カーブドッチワイナリー",
+    "activity": "新春ワイン試飲",
+    "time": "3時間",
+    "point": "雪景色を眺めながらゆったりと新年の乾杯",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "新潟",
+    "place": "マリンピア日本海",
+    "activity": "冬の水族館散策",
+    "time": "2時間",
+    "point": "日本海側の生き物たちと過ごす穏やかな正月",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "新潟",
+    "place": "月岡温泉",
+    "activity": "美肌の湯で初湯",
+    "time": "1日",
+    "point": "エメラルドグリーンの湯で一年を美しく始める",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "石川",
+    "place": "尾山神社",
+    "activity": "初詣・ステンドグラス見学",
+    "time": "1時間",
+    "point": "和漢洋折衷の美しい神門がある加賀藩ゆかりの社",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "石川",
+    "place": "石浦神社",
+    "activity": "初詣・水玉お守り",
+    "time": "1時間",
+    "point": "金沢最古の神社で可愛いお守りと新年の祈願",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "石川",
+    "place": "金沢百番街",
+    "activity": "駅ナカ初売り",
+    "time": "2時間",
+    "point": "金沢駅直結。伝統工芸品からアパレルまで揃う",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "石川",
+    "place": "香林坊アトリオ",
+    "activity": "百貨店ブランド初売り",
+    "time": "3時間",
+    "point": "金沢随一の繁華街でラグジュアリーな福袋探し",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "石川",
+    "place": "イオンモール新小松",
+    "activity": "大型初売りセール",
+    "time": "半日",
+    "point": "南加賀最大級の店舗数を誇るお買い物スポット",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "石川",
+    "place": "兼六園（正月無料開放）",
+    "activity": "冬の庭園美鑑賞",
+    "time": "2時間",
+    "point": "三が日は入園無料。雪吊りが映える日本三名園",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "石川",
+    "place": "金沢城公園（新春イベント）",
+    "activity": "城郭での正月体験",
+    "time": "2時間",
+    "point": "復元された五十間長屋と雪のコントラストが絶景",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "石川",
+    "place": "ひがし茶屋街",
+    "activity": "正月情緒の散策",
+    "time": "2時間",
+    "point": "格子戸が続く街並みで金沢らしい新春を味わう",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "石川",
+    "place": "和倉温泉",
+    "activity": "能登の海を望む初湯",
+    "time": "1日",
+    "point": "七尾湾を眺めながら名湯で心身を癒やす",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "石川",
+    "place": "二十一世紀美術館",
+    "activity": "冬のアート鑑賞",
+    "time": "2時間",
+    "point": "現代アートと金沢の冬が融合する不思議な空間",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "熱田神宮",
+    "activity": "初詣・三種の神器拝受",
+    "time": "3時間",
+    "point": "「熱田さん」と親しまれる全国屈指のパワースポット",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "大須観音",
+    "activity": "初詣・商店街歩き",
+    "time": "2時間",
+    "point": "賑やかな商店街の隣で開運を祈願する",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "ジェイアール名古屋タカシマヤ",
+    "activity": "日本最大級の初売り",
+    "time": "半日",
+    "point": "名古屋駅直結。開店前の行列も恒例の景色",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "名古屋三越 栄店",
+    "activity": "百貨店ショッピング",
+    "time": "3時間",
+    "point": "栄の中心地で楽しむ伝統とトレンドの福袋",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "ららぽーと名古屋みなとアクルス",
+    "activity": "ベイエリアの初売り",
+    "time": "半日",
+    "point": "広大な芝生エリアもある開放的なモールで買い物",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "名古屋城（新春名古屋城まつり）",
+    "activity": "新春演武鑑賞",
+    "time": "3時間",
+    "point": "おもてなし武将隊による華やかなステージが見どころ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "東山動植物園",
+    "activity": "新春の動物観察",
+    "time": "半日",
+    "point": "新年最初の動物たちに会いに。家族連れに大人気",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "ミッドランドスクエア",
+    "activity": "新春の地上展望",
+    "time": "1時間",
+    "point": "地上220mから名古屋の街を一望して新年を祝う",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "中部国際空港 セントレア",
+    "activity": "飛行機と初日の出",
+    "time": "2時間",
+    "point": "スカイデッキから昇る太陽と航空機のコラボ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "ラグーナテンボス",
+    "activity": "冬のテーマパーク",
+    "time": "1日",
+    "point": "華やかなイルミネーションとアトラクションが満載",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "京都",
+    "place": "伏見稲荷大社",
+    "activity": "初詣・千本鳥居巡り",
+    "time": "3時間",
+    "point": "朱色の鳥居が連なる幻想的な道で新年の祈り",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "京都",
+    "place": "八坂神社（かるた始め）",
+    "activity": "伝統行事の鑑賞",
+    "time": "2時間",
+    "point": "平安装束を纏った「かるた始め」は正月ならでは",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "京都",
+    "place": "ジェイアール京都伊勢丹",
+    "activity": "駅ナカ初売り",
+    "time": "3時間",
+    "point": "京都駅直結。限定福袋と新春のお菓子が人気",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "京都",
+    "place": "京都タカシマヤ S.C.",
+    "activity": "四条河原町初売り",
+    "time": "3時間",
+    "point": "老舗の風格漂う百貨店で特別な初売り体験",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "京都",
+    "place": "京都駅ビル",
+    "activity": "大階段の光イベント",
+    "time": "1時間",
+    "point": "お正月テーマのイルミネーションが夜を彩る",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "京都",
+    "place": "北野天満宮（筆始祭）",
+    "activity": "書道の上達祈願",
+    "time": "2時間",
+    "point": "学問の神様で書き初めを。学生に人気のスポット",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "京都",
+    "place": "平安神宮",
+    "activity": "初詣・大鳥居鑑賞",
+    "time": "1時間",
+    "point": "広大な境内で清々しい新年の空気を吸い込む",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "京都",
+    "place": "金閣寺（雪の参拝）",
+    "activity": "冬の絶景鑑賞",
+    "time": "1時間",
+    "point": "運が良ければ見られる「雪の金閣」は至高の美",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "京都",
+    "place": "嵐山（竹林の小径）",
+    "activity": "静寂の散策",
+    "time": "2時間",
+    "point": "冬の澄んだ空気の中を歩く、贅沢な新年の時間",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "京都",
+    "place": "京都文化博物館（正月イベント）",
+    "activity": "京の正月文化を知る",
+    "time": "2時間",
+    "point": "京都ならではの正月のしきたりを展示で体験",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "大阪",
+    "place": "住吉大社",
+    "activity": "初詣・太鼓橋渡り",
+    "time": "2時間",
+    "point": "全国の住吉神社の総本社。反橋を渡って新年の厄除けを",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "大阪天満宮",
+    "activity": "初詣・合格祈願",
+    "time": "1時間",
+    "point": "学問の神様。受験生やビジネスマンの参拝客で賑わう",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "今宮戎神社",
+    "activity": "初詣・商売繁盛祈願",
+    "time": "1時間",
+    "point": "「えべっさん」として親しまれる浪速の活気溢れる神社",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "大阪",
+    "place": "阪急うめだ本店",
+    "activity": "新春百貨店初売り",
+    "time": "3時間",
+    "point": "圧倒的なブランド数を誇る。豪華な福袋が目玉",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "あべのハルカス近鉄本店",
+    "activity": "初売り・福袋買い出し",
+    "time": "3時間",
+    "point": "日本最大級の店舗面積で、食品から衣料まで充実の初売り",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "りんくうプレミアム・アウトレット",
+    "activity": "新春ブランドセール",
+    "time": "半日",
+    "point": "関西空港近くのシーサイドモール。お得な福袋が満載",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "ユニバーサル・スタジオ・ジャパン",
+    "activity": "新春特別グリーティング",
+    "time": "1日",
+    "point": "お正月衣装のキャラと触れ合える期間限定イベント",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "海遊館",
+    "activity": "お正月特別展示見学",
+    "time": "3時間",
+    "point": "新年の干支にちなんだ魚の展示などお正月企画が開催",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "大阪城公園（新春の虎）",
+    "activity": "初春の歴史散策",
+    "time": "2時間",
+    "point": "重要文化財の櫓が特別公開。雪の大阪城は圧巻の美しさ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "あべのハルカス展望台",
+    "activity": "初日の出鑑賞",
+    "time": "2時間",
+    "point": "地上300mから大阪平野を一望。特別プランで新年の夜明けを",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "兵庫",
+    "place": "生田神社",
+    "activity": "初詣・水みくじ",
+    "time": "1時間",
+    "point": "神戸の中心で縁結びを祈願。水に浸すと浮き出るおみくじを",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "湊川神社",
+    "activity": "初詣・楠公さん参拝",
+    "time": "1時間",
+    "point": "楠木正成公を祀る。お正月は屋台も多く並び活気がある",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "西宮神社",
+    "activity": "十日えびす事前参拝",
+    "time": "1時間",
+    "point": "福男選びで有名。一足先に新年の福を授かりに",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "兵庫",
+    "place": "神戸三田プレミアム・アウトレット",
+    "activity": "新春初売りお買い物",
+    "time": "半日",
+    "point": "西日本最大級のアウトレット。開放的な街並みで買い物を",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "神戸ハーバーランドumie",
+    "activity": "お正月ショッピング",
+    "time": "半日",
+    "point": "港を眺めながら福袋探し。家族連れで1日中楽しめる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "そごう西神店（エキソアレ西神中央）",
+    "activity": "地域密着型初売り",
+    "time": "2時間",
+    "point": "地元に愛される商業施設でこだわりの福袋を手に入れる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "姫路城（新年登閣）",
+    "activity": "世界遺産での新春見学",
+    "time": "2時間",
+    "point": "元旦は入城無料も。真っ白な城壁が冬の空に映える",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "南京町",
+    "activity": "春節祭プレイベント",
+    "time": "2時間",
+    "point": "爆竹の音と獅子舞が舞う、異国情緒溢れる華やかな正月",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "神戸布引ハーブ園",
+    "activity": "初日の出・展望",
+    "time": "2時間",
+    "point": "ロープウェイで山頂へ。神戸の街と海から昇る日を拝む",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "城崎温泉",
+    "activity": "新春外湯巡り",
+    "time": "1日",
+    "point": "雪景色の中、浴衣で外湯を巡る至福の正月休み",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "近江神宮",
+    "activity": "初詣・かるた体験",
+    "time": "2時間",
+    "point": "かるたの聖地。伝統的な装束での儀式は一見の価値あり",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "滋賀",
+    "place": "多賀大社",
+    "activity": "初詣・延命長寿祈願",
+    "time": "2時間",
+    "point": "「お多賀さん」として親しまれ、県内一の参拝客を誇る",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "比叡山延暦寺",
+    "activity": "初詣・除夜の鐘",
+    "time": "3時間",
+    "point": "世界遺産の霊山で厳かに新年を。雪の境内は神秘的",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "三井アウトレットパーク 滋賀竜王",
+    "activity": "新春福袋買い出し",
+    "time": "半日",
+    "point": "広大な敷地に人気店が集結。目玉商品が目白押し",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "イオンモール草津",
+    "activity": "正月大型初売り",
+    "time": "半日",
+    "point": "琵琶湖を望む巨大モール。正月限定イベントも開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "ピエリ守山",
+    "activity": "新春ショッピング",
+    "time": "3時間",
+    "point": "琵琶湖大橋近くの開放的なモールでゆっくり買い物",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "びわ湖大津プリンスホテル",
+    "activity": "初日の出鑑賞",
+    "time": "1時間",
+    "point": "レイクビューの客室や会場から琵琶湖に昇る朝日を望む",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "彦根城",
+    "activity": "ひこにゃんの書き初め",
+    "time": "1時間",
+    "point": "ご当地キャラの書き初めパフォーマンスを目の前で",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "滋賀",
+    "place": "びわ湖バレイ",
+    "activity": "絶景冬山体験",
+    "time": "半日",
+    "point": "標高1100mのテラスから冬の琵琶湖をダイナミックに一望",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "滋賀",
+    "place": "ミシガンクルーズ（初日の出）",
+    "activity": "湖上での新年参拝",
+    "time": "2時間",
+    "point": "船上から迎える初日の出。優雅な気分で1年をスタート",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "岡山",
+    "place": "最上稲荷",
+    "activity": "初詣・商売繁盛祈願",
+    "time": "2時間",
+    "point": "日本三大稲荷の一つ。巨大な鳥居と賑やかな参道が特徴",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "岡山",
+    "place": "吉備津神社",
+    "activity": "初詣・回廊散策",
+    "time": "1時間",
+    "point": "全長360mの回廊が有名。桃太郎伝説の舞台を参拝",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "岡山",
+    "place": "岡山神社",
+    "activity": "初詣・厄除け",
+    "time": "1時間",
+    "point": "岡山城の近く。格式高い神社で静かに新年を祈る",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "岡山",
+    "place": "イオンモール岡山",
+    "activity": "新春初売りイベント",
+    "time": "半日",
+    "point": "岡山駅直結。県内最大の施設で福袋を確実にゲット",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "岡山",
+    "place": "天満屋 岡山本店",
+    "activity": "伝統の百貨店初売り",
+    "time": "2時間",
+    "point": "地元の老舗百貨店。高品質な食品福袋が毎年人気",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "岡山",
+    "place": "三井アウトレットパーク 倉敷",
+    "activity": "新春アウトレット初売り",
+    "time": "半日",
+    "point": "倉敷駅から徒歩圏。ブランド品の福袋が狙い目",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "岡山",
+    "place": "岡山後楽園（タンチョウ放鳥）",
+    "activity": "優雅な鶴の舞を鑑賞",
+    "time": "2時間",
+    "point": "新春恒例。園内を飛ぶタンチョウの姿は必見の美しさ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "岡山",
+    "place": "岡山城（新春イベント）",
+    "activity": "お城での正月遊び",
+    "time": "2時間",
+    "point": "漆黒の城を背景に、獅子舞や伝統的な正月行事を実施",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "岡山",
+    "place": "鷲羽山展望台",
+    "activity": "瀬戸内海の初日の出",
+    "time": "1時間",
+    "point": "瀬戸大橋と島々を照らす美しい太陽を眺める",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "岡山",
+    "place": "倉敷美観地区",
+    "activity": "冬の白壁散策",
+    "time": "2時間",
+    "point": "冬の静けさの中、柳並木と蔵造りの街並みを楽しむ",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "広島",
+    "place": "厳島神社",
+    "activity": "初詣・海上参拝",
+    "time": "3時間",
+    "point": "世界遺産。潮の満ち引きで表情を変える大鳥居は必見",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "広島",
+    "place": "広島護国神社",
+    "activity": "初詣・平和祈願",
+    "time": "1時間",
+    "point": "広島城の敷地内。県内最多級の参拝客で活気に満ちる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "広島",
+    "place": "千光寺",
+    "activity": "初詣・尾道展望",
+    "time": "2時間",
+    "point": "尾道三山の一つ。坂の街と新春の海を一望できる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "広島",
+    "place": "ジ・アウトレット広島",
+    "activity": "巨大モールの初売り",
+    "time": "半日",
+    "point": "エンタメ施設も充実。家族で一日楽しめる初売り会場",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "広島",
+    "place": "広島三越",
+    "activity": "百貨店福袋市",
+    "time": "2時間",
+    "point": "高品質なアイテムが揃う。お正月の贅沢な買い物に",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "広島",
+    "place": "福屋 八丁堀本店",
+    "activity": "地元百貨店初売り",
+    "time": "2時間",
+    "point": "広島の老舗。限定企画の福袋を目当てに行列ができる",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "広島",
+    "place": "広島城（新春二の丸公開）",
+    "activity": "歴史体験・武家文化",
+    "time": "2時間",
+    "point": "お正月限定で太鼓パフォーマンスなどが開催される",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "広島",
+    "place": "縮景園（大福茶のサービス）",
+    "activity": "名勝庭園で初茶",
+    "time": "1時間",
+    "point": "新年にふさわしいお茶を庭園で。優雅なひとときを",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "広島",
+    "place": "みやじマリン宮島水族館",
+    "activity": "正月限定アシカショー",
+    "time": "2時間",
+    "point": "お正月をテーマにした可愛らしいパフォーマンスが人気",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "広島",
+    "place": "平和記念公園",
+    "activity": "新春の平和祈願",
+    "time": "1時間",
+    "point": "清々しい朝の空気の中、静かに1年の平和を願う",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "徳島",
+    "place": "大麻比古神社",
+    "activity": "初詣・交通安全祈願",
+    "time": "2時間",
+    "point": "阿波国一宮。広大な境内に響く新春の柏手が清々しい",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "徳島",
+    "place": "薬王寺",
+    "activity": "初詣・厄除け坂参拝",
+    "time": "1時間",
+    "point": "厄除けの根本道場。薬師如来を本尊とし、多くの階段を上る",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "徳島",
+    "place": "霊山寺",
+    "activity": "四国遍路の始まり",
+    "time": "1時間",
+    "point": "第一番札所で新年のお遍路スタートを切る参拝者が集まる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "徳島",
+    "place": "アミコ（amico）",
+    "activity": "新春初売りセール",
+    "time": "3時間",
+    "point": "徳島駅前の中心地。衣料品からデパ地下福袋まで充実",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "徳島",
+    "place": "ゆめタウン徳島",
+    "activity": "巨大モール初売り",
+    "time": "半日",
+    "point": "県内最大級。元旦から家族連れで大賑わいの福袋市を開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "徳島",
+    "place": "イオンモール徳島",
+    "activity": "新春お買い物・映画",
+    "time": "半日",
+    "point": "リバーサイドの開放的なモール。正月限定イベントも開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "徳島",
+    "place": "眉山ロープウェイ（初日の出運行）",
+    "activity": "山頂からの日の出鑑賞",
+    "time": "2時間",
+    "point": "元旦早朝より運行。徳島市街と紀伊水道を照らす朝日を望む",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "徳島",
+    "place": "阿波おどり会館（新春特別公演）",
+    "activity": "阿波おどりの初見物",
+    "time": "1時間",
+    "point": "正月から華やかに踊る。新年の活気をもらえる限定ステージ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "徳島",
+    "place": "鳴門の渦潮（冬の観潮船）",
+    "activity": "新春の荒波鑑賞",
+    "time": "1時間",
+    "point": "冬の澄んだ空気の中で見る力強い渦潮は、新年の身が引き締まる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "徳島",
+    "place": "大塚国際美術館",
+    "activity": "正月の名画鑑賞",
+    "time": "1日",
+    "point": "世界の名画1000点以上を再現。静かな空間で感性を磨く年始",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "香川",
+    "place": "金刀比羅宮",
+    "activity": "初詣・階段登り",
+    "time": "3時間",
+    "point": "785段の石段を登り、展望台から讃岐平野を一望する新春",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "香川",
+    "place": "善通寺",
+    "activity": "初詣・お砂踏み",
+    "time": "2時間",
+    "point": "弘法大師生誕の地。広大な伽藍で一年の無病息災を祈る",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "香川",
+    "place": "田村神社",
+    "activity": "初詣・金運祈願",
+    "time": "1時間",
+    "point": "龍神伝説のあるパワースポット。黄金の龍に新年の願掛け",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "香川",
+    "place": "高松丸亀町商店街",
+    "activity": "アーケード初売り",
+    "time": "3時間",
+    "point": "日本一長いアーケード。三越と連携した華やかな福袋市",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "香川",
+    "place": "高松三越",
+    "activity": "百貨店プレミアム初売り",
+    "time": "2時間",
+    "point": "歴史ある百貨店ならではの豪華な食品・ブランド福袋が並ぶ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "香川",
+    "place": "イオンモール綾川",
+    "activity": "新春ショッピング",
+    "time": "半日",
+    "point": "香川県内随一の集客力を誇る巨大モールでお得に買い物",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "香川",
+    "place": "特別名勝 栗林公園（新春お茶席）",
+    "activity": "冬の庭園でお茶会",
+    "time": "2時間",
+    "point": "正月から開園。雪化粧の掬月亭でいただく抹茶は格別",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "香川",
+    "place": "NEWレオマワールド（カウントダウン・正月）",
+    "activity": "冬の遊園地を満喫",
+    "time": "1日",
+    "point": "華やかなイルミネーションと正月限定のステージショーが魅力",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "香川",
+    "place": "屋島 獅子の霊巌",
+    "activity": "初日の出・かわらけ投げ",
+    "time": "2時間",
+    "point": "瀬戸内海の多島美を照らす朝日。厄除けのかわらけ投げも人気",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "香川",
+    "place": "四国水族館",
+    "activity": "正月限定イベント見学",
+    "time": "3時間",
+    "point": "瀬戸内海を背景にしたイルカライブもお正月バージョンで開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "福岡",
+    "place": "太宰府天満宮",
+    "activity": "初詣・梅の観賞",
+    "time": "3時間",
+    "point": "道真公を祀る学問の聖地。飛梅の開花を待ちわびつつ参拝",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "福岡",
+    "place": "宮地嶽神社",
+    "activity": "初詣・大注連縄拝観",
+    "time": "2時間",
+    "point": "「光の道」で有名。日本一の大注連縄は圧倒的な迫力",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "福岡",
+    "place": "櫛田神社",
+    "activity": "初詣・博多散策",
+    "time": "1時間",
+    "point": "博多っ子の氏神様。大きな「おたふく面」がお迎え",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "福岡",
+    "place": "博多阪急",
+    "activity": "百貨店初売り・福袋",
+    "time": "3時間",
+    "point": "博多駅直結。開店直後の賑わいは福岡の正月の象徴",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "福岡",
+    "place": "岩田屋本店",
+    "activity": "天神地区での初売り",
+    "time": "3時間",
+    "point": "九州最大の繁華街・天神の顔。最旬ファッションの福袋が揃う",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "福岡",
+    "place": "マリノアシティ福岡",
+    "activity": "アウトレット新春セール",
+    "time": "半日",
+    "point": "海辺のアウトレット。広大な敷地でお得な戦利品を探す",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "福岡",
+    "place": "福岡タワー（初日の出営業）",
+    "activity": "地上123mの初景色",
+    "time": "2時間",
+    "point": "360度のパノラマビュー。海から昇る太陽が美しい",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "福岡",
+    "place": "マリンワールド海の中道",
+    "activity": "お正月特別ライブ鑑賞",
+    "time": "3時間",
+    "point": "アシカの書き初めなど、お正月期間限定の演出が楽しめる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "福岡",
+    "place": "太宰府天満宮（うそ替え神事）",
+    "activity": "伝統行事への参加",
+    "time": "2時間",
+    "point": "1月7日開催。去年の嘘をまことに替える木彫りの鳥を交換",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "福岡",
+    "place": "門司港レトロ",
+    "activity": "新春ナイト散策",
+    "time": "2時間",
+    "point": "ガス灯の明かりとイルミネーションが彩るロマンチックな新年",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "諏訪神社",
+    "activity": "初詣・長崎くんちゆかり",
+    "time": "2時間",
+    "point": "「おくんち」の舞台。長い石段を登り切り、街を一望",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "大浦天主堂",
+    "activity": "新年の祈り・歴史見学",
+    "time": "1時間",
+    "point": "国宝の教会。厳かな雰囲気の中で一年を静かに始める",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "崇福寺",
+    "activity": "初詣・唐寺参拝",
+    "time": "1時間",
+    "point": "朱塗りの第一峰門が美しい。長崎らしい異国情緒な新年",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "アミュプラザ長崎",
+    "activity": "駅ビル初売りショッピング",
+    "time": "3時間",
+    "point": "長崎駅直結の最新ビル。元旦から多くの人で賑わう福袋市",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "浜町商店街",
+    "activity": "アーケード散策初売り",
+    "time": "3時間",
+    "point": "県内最大の商店街。老舗の百貨店やセレクトショップを巡る",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "みらい長崎ココウォーク",
+    "activity": "観覧車のある初売り",
+    "time": "半日",
+    "point": "観覧車からの景色も楽しみつつ、正月のセールを満喫",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "ハウステンボス（光の王国）",
+    "activity": "世界最大級のイルミ",
+    "time": "1日",
+    "point": "白銀の世界をテーマにした冬のライトアップが最高潮に",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "稲佐山公園展望台",
+    "activity": "世界新三大夜景の鑑賞",
+    "time": "2時間",
+    "point": "1000万ドルの夜景。空気が澄んだ冬の夜が最も美しい",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "九十九島パールシーリゾート",
+    "activity": "正月限定クルーズ",
+    "time": "2時間",
+    "point": "リアス式海岸を縫うように進む遊覧船から新春の海を望む",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "長崎ペンギン水族館",
+    "activity": "正月ペンギンパレード",
+    "time": "2時間",
+    "point": "ペンギンたちが鳥居の下を歩く、可愛すぎるお正月イベント",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "佐賀",
+    "place": "祐徳稲荷神社",
+    "activity": "初詣・門前街散策",
+    "time": "2時間",
+    "point": "日本三大稲荷の一つ。豪華な社殿と冬の厳かな空気が魅力",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "佐賀",
+    "place": "鳥栖プレミアム・アウトレット",
+    "activity": "新春初売りセール",
+    "time": "半日",
+    "point": "元旦から開催。国内外の人気ブランド福袋が勢揃い",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "佐賀",
+    "place": "佐賀神社",
+    "activity": "初詣・カノン砲祝砲",
+    "time": "1時間",
+    "point": "元旦の幕開けにカノン砲の祝砲が放たれる、佐賀ならではの年始",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "佐賀",
+    "place": "武雄温泉（楼門）",
+    "activity": "新春の初湯体験",
+    "time": "2時間",
+    "point": "辰野金吾設計の楼門を眺めながら、歴史ある湯で一年を始める",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "佐賀",
+    "place": "唐津城",
+    "activity": "新春の天守閣展望",
+    "time": "1時間",
+    "point": "玄界灘と虹の松原を一望。冬の澄んだ海の青さが絶景",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "佐賀",
+    "place": "モラージュ佐賀",
+    "activity": "正月大型初売り",
+    "time": "3時間",
+    "point": "地元の買い物客で賑わう。正月限定のステージイベントも豊富",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "佐賀",
+    "place": "吉野ヶ里歴史公園",
+    "activity": "新春弥生体験",
+    "time": "2時間",
+    "point": "正月限定の火おこし体験や伝統遊びが楽しめる体験型年始",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "佐賀",
+    "place": "佐賀玉屋",
+    "activity": "百貨店伝統の初売り",
+    "time": "2時間",
+    "point": "老舗百貨店ならではの高品質な食品福袋が毎年人気",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "佐賀",
+    "place": "有田セラ（有田焼卸団地）",
+    "activity": "新春茶碗買い出し",
+    "time": "2時間",
+    "point": "新年に食器を新調する人で賑わう。お楽しみ袋も登場",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "佐賀",
+    "place": "肥前夢街道",
+    "activity": "忍者と正月遊び",
+    "time": "2時間",
+    "point": "忍者による正月限定パフォーマンスや餅つき体験を開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "熊本",
+    "place": "加藤神社",
+    "activity": "初詣・熊本城展望",
+    "time": "1時間",
+    "point": "熊本城内にあり、お城を間近に拝みながら新年の志を立てる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "熊本",
+    "place": "阿蘇神社",
+    "activity": "初詣・門前町歩き",
+    "time": "2時間",
+    "point": "復旧した楼門が誇らしい。阿蘇の湧水で清める清々しい年始",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "熊本",
+    "place": "鶴屋百貨店",
+    "activity": "郷土百貨店初売り",
+    "time": "3時間",
+    "point": "熊本最大の百貨店。開店時の「おもてなし」は正月の風物詩",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "熊本",
+    "place": "アミュプラザくまもと",
+    "activity": "駅ビル初売りセール",
+    "time": "3時間",
+    "point": "熊本駅直結。最新トレンドの福袋が揃い、若者や家族連れに人気",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "熊本",
+    "place": "桜の馬場 城彩苑",
+    "activity": "新春演舞と食べ歩き",
+    "time": "2時間",
+    "point": "熊本城おもてなし武将隊による新春の演舞が見どころ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "熊本",
+    "place": "三井グリーンランド",
+    "activity": "カウントダウン花火",
+    "time": "半日",
+    "point": "大晦日から元旦にかけての花火とアトラクションが圧巻",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "熊本",
+    "place": "藤崎八旛宮",
+    "activity": "初詣・厄除け祈願",
+    "time": "1時間",
+    "point": "熊本市を代表する総鎮守。三が日は参道に露店が並び大賑わい",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "熊本",
+    "place": "水前寺成趣園",
+    "activity": "冬の庭園初歩き",
+    "time": "1時間",
+    "point": "古今伝授の間で新春の抹茶をいただきながら優雅に過ごす",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "熊本",
+    "place": "金峰山（初日の出）",
+    "activity": "山頂からの日の出鑑賞",
+    "time": "2時間",
+    "point": "有明海と熊本市街を照らす初日の出を拝む定番スポット",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "熊本",
+    "place": "黒川温泉",
+    "activity": "新春湯あかり鑑賞",
+    "time": "1日",
+    "point": "竹灯籠の明かりが川を彩る。冬限定の幻想的な温泉情緒",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大分",
+    "place": "宇佐神宮",
+    "activity": "初詣・二拝四拍手一拝",
+    "time": "2時間",
+    "point": "全国八幡宮の総本宮。朱塗りの社殿に新春の光が映える",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大分",
+    "place": "別府温泉（海地獄）",
+    "activity": "新春地獄巡り",
+    "time": "2時間",
+    "point": "湯煙立つ冬の別府. 正月限定のお土産やサービスも",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大分",
+    "place": "アミュプラザおおいた",
+    "activity": "駅ビル新春初売り",
+    "time": "3時間",
+    "point": "大分駅直結。屋上の「シティ屋上ひろば」での正月遊びも人気",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大分",
+    "place": "トキハ本店",
+    "activity": "老舗の百貨店初売り",
+    "time": "3時間",
+    "point": "大分県民おなじみの百貨店. 伝統的な福袋市が開催される",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大分",
+    "place": "サンリオキャラクターパーク ハーモニーランド",
+    "activity": "ニューイヤーイベント",
+    "time": "1日",
+    "point": "着物姿のキャラクターと触れ合える正月限定のパレード",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大分",
+    "place": "柞原八幡宮",
+    "activity": "初詣・巨木鑑賞",
+    "time": "1時間",
+    "point": "天然記念物の大クスがある。静寂の中で新年の平穏を祈る",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "大分",
+    "place": "九州自然動物公園アフリカンサファリ",
+    "activity": "干支の動物巡り",
+    "time": "半日",
+    "point": "冬の毛並みの動物たちをジャングルバスで観察する年始",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大分",
+    "place": "高崎山自然動物園",
+    "activity": "猿たちの正月風景",
+    "time": "2時間",
+    "point": "寄せ場で賑わう猿たち。元旦は入園無料になることが多い",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大分",
+    "place": "大分県立美術館（OPAM）",
+    "activity": "正月特別企画展",
+    "time": "2時間",
+    "point": "洗練された建築の中で、正月テーマのアートや展示を楽しむ",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "大分",
+    "place": "くじゅう花公園（冬のイベント）",
+    "activity": "冬の高原散策",
+    "time": "2時間",
+    "point": "阿蘇くじゅう連山を望む絶景. 冬ならではの澄んだ景色",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "宮崎",
+    "place": "宮崎神宮",
+    "activity": "初詣・神武さま参拝",
+    "time": "1時間",
+    "point": "神武天皇を祀る。深い森の参道を歩き、身を清める新春",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "宮崎",
+    "place": "青島神社",
+    "activity": "初詣・縁結び祈願",
+    "time": "1時間",
+    "point": "波打ち際の鳥居が美しい。南国宮崎らしい明るい新年を",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "宮崎",
+    "place": "鵜戸神宮",
+    "activity": "初詣・運玉投げ",
+    "time": "2時間",
+    "point": "洞窟内の社殿。亀石の背中に運玉を投げ入れ新年占う",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "宮崎",
+    "place": "イオンモール宮崎",
+    "activity": "新春メガセール",
+    "time": "半日",
+    "point": "県内最大級。元旦の開店前から福袋目当ての行列ができる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "宮崎",
+    "place": "宮崎山形屋",
+    "activity": "伝統の百貨店初売り",
+    "time": "3時間",
+    "point": "老舗の風格ある百貨店。特製福袋や新春イベントを開催",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "宮崎",
+    "place": "フローランテ宮崎",
+    "activity": "冬のイルミネーション",
+    "time": "2時間",
+    "point": "「光の庭園」が正月も開催。夜の華やかな年始を楽しめる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "宮崎",
+    "place": "一ッ葉海岸（初日の出）",
+    "activity": "水平線の日の出鑑賞",
+    "time": "1時間",
+    "point": "太平洋から昇る力強い朝日を拝む、県内屈指の日の出スポット",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "宮崎",
+    "place": "フェニックス・シーガイア・リゾート",
+    "activity": "新春カウントダウン",
+    "time": "半日",
+    "point": "打ち上げ花火と共に迎える新年。リゾート気分満点の年始",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "宮崎",
+    "place": "平和台公園（はにわ園）",
+    "activity": "新春の史跡散策",
+    "time": "1時間",
+    "point": "無数の「はにわ」に囲まれて、不思議な雰囲気で迎える正月",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "宮崎",
+    "place": "高千穂峡",
+    "activity": "冬の渓谷美鑑賞",
+    "time": "2時間",
+    "point": "冬の澄んだ水面と真名井の滝。荘厳な雰囲気での新年歩き",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "照国神社",
+    "activity": "初詣・島津家ゆかり",
+    "time": "1時間",
+    "point": "鹿児島市中心部の氏神様。大きな鳥居と賑わう屋台が魅力",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "霧島神宮",
+    "activity": "初詣・神話の旅",
+    "time": "2時間",
+    "point": "天孫降臨の地. 朱色の社殿が森に映えるパワースポット",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "山形屋（鹿児島）",
+    "activity": "新春初売りセール",
+    "time": "3時間",
+    "point": "鹿児島の正月といえば山形屋の初売り. 活気溢れる福袋市",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "アミュプラザ鹿児島",
+    "activity": "駅ビル初売りショッピング",
+    "time": "3時間",
+    "point": "鹿児島中央駅直結。観覧車から冬の桜島を見つつ買い物",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "仙巌園（正月庭園）",
+    "activity": "新春の門松・餅つき",
+    "time": "2時間",
+    "point": "島津家の別邸。巨大な竹門松や伝統的な正月飾りが見どころ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "城山公園（初日の出）",
+    "activity": "桜島越しの日の出鑑賞",
+    "time": "1時間",
+    "point": "桜島の背後から昇る朝日は圧巻。多くの市民が集まる人気地",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "平川動物公園",
+    "activity": "正月限定イベント",
+    "time": "半日",
+    "point": "コアラなどの動物たちを見学。正月ならではのクイズや企画も",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "いおワールドかごしま水族館",
+    "activity": "お正月特別展示",
+    "time": "3時間",
+    "point": "ジンベエザメが泳ぐ大水槽前で、新年のイベントを開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "鹿児島",
+    "place": "指宿温泉（砂むし）",
+    "activity": "新春の砂むし体験",
+    "time": "1時間",
+    "point": "砂浜で温まる独特の体験。デトックスして新しい一年を",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "鹿児島",
+    "place": "天文館通",
+    "activity": "商店街の初売り歩き",
+    "time": "2時間",
+    "point": "南九州最大の繁華街。アーケード内で賑やかな福袋探し",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "沖縄",
+    "place": "首里城公園",
+    "activity": "新春の宴",
+    "time": "2時間",
+    "point": "1月1日〜3日開催。琉球王朝時代の正月儀式が再現される",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "沖縄",
+    "place": "波上宮",
+    "activity": "初詣・海辺の参拝",
+    "time": "1時間",
+    "point": "崖の上に建つ神社。沖縄らしい朱色の社殿で新年を祝う",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "沖縄",
+    "place": "沖縄アウトレットモール あしびなー",
+    "activity": "新春ブランド初売り",
+    "time": "半日",
+    "point": "元旦から営業. リゾート気分で有名ブランドの福袋を狙う",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "沖縄",
+    "place": "サンエー那覇メインプレイス",
+    "activity": "地元モールの初売り",
+    "time": "3時間",
+    "point": "沖縄県民おなじみの店舗。熱気溢れる福袋販売とイベント",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "沖縄",
+    "place": "沖縄美ら海水族館",
+    "activity": "お正月フォトスポット",
+    "time": "3時間",
+    "point": "お正月テーマの装飾や、魚たちの特別解説が楽しめる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "沖縄",
+    "place": "国際通り",
+    "activity": "新春の通り歩き",
+    "time": "2時間",
+    "point": "正月も多くの店が営業。活気あるストリートで初買い物を",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "沖縄",
+    "place": "辺戸岬（初日の出）",
+    "activity": "本島最北端の日の出",
+    "time": "1時間",
+    "point": "雄大な太平洋と東シナ海を望む岬から迎える最初の朝日",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "沖縄",
+    "place": "おきなわワールド",
+    "activity": "新春エイサー公演",
+    "time": "2時間",
+    "point": "迫力満点のエイサーで新年を祝う。伝統文化体験も充実",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "沖縄",
+    "place": "東南植物楽園",
+    "activity": "冬のイルミネーション",
+    "time": "2時間",
+    "point": "沖縄最大級の光の祭典. 正月も夜遅くまで賑わう",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "沖縄",
+    "place": "平和通り商店街",
+    "activity": "マチグヮーの初売り",
+    "time": "2時間",
+    "point": "那覇の台所。ディープな福袋や正月食品が見つかる",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "鳥取",
+    "place": "宇倍神社",
+    "activity": "初詣・金運祈願",
+    "time": "1時間",
+    "point": "お金に縁のある神社。お札にも描かれた由緒ある社で参拝",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "鳥取",
+    "place": "鳥取砂丘（初日の出）",
+    "activity": "砂の丘からの日の出鑑賞",
+    "time": "1時間",
+    "point": "雄大な砂丘と日本海を照らす朝日。静寂の中に感動が広がる",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "鳥取",
+    "place": "丸由百貨店",
+    "activity": "駅前百貨店の初売り",
+    "time": "2時間",
+    "point": "鳥取駅前の顔。元旦以降の初売り福袋が地元の楽しみ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "鳥取",
+    "place": "イオンモール鳥取北",
+    "activity": "新春大型セール",
+    "time": "半日",
+    "point": "県内最大級のモール. 正月限定イベントや福袋が目白押し",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "鳥取",
+    "place": "大神山神社（本社）",
+    "activity": "初詣・大山展望",
+    "time": "2時間",
+    "point": "大山の麓に位置. 雪に包まれた厳かな境内で新年を祈る",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "鳥取",
+    "place": "白兎神社",
+    "activity": "初詣・縁結び祈願",
+    "time": "1時間",
+    "point": "因幡の白うさぎゆかり. うさぎにちなんだ可愛いお守りが人気",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "鳥取",
+    "place": "水木しげるロード",
+    "activity": "新春妖怪ストリート",
+    "time": "2時間",
+    "point": "正月飾りのついたブロンズ像を眺めながら、境港の初歩き",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "鳥取",
+    "place": "三朝温泉",
+    "activity": "新春のラジウム初湯",
+    "time": "2時間",
+    "point": "雪景色の中、世界屈指のラジウム温泉で心身を整える新年",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "鳥取",
+    "place": "金持神社",
+    "activity": "初詣・宝くじ当選祈願",
+    "time": "1時間",
+    "point": "「金持」という名にあやかり、多くの人が詰めかける正月",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "鳥取",
+    "place": "砂の美術館（冬の会期）",
+    "activity": "砂像アート鑑賞",
+    "time": "1時間",
+    "point": "期間限定で開催される砂の彫刻. 繊細な技術に圧倒される",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "出雲大社",
+    "activity": "初詣・八百万の神への挨拶",
+    "time": "3時間",
+    "point": "日本屈指の聖地. 二拝四拍手一拝で新年の良縁を祈る",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "松江城（新春特別登閣）",
+    "activity": "国宝天守の正月",
+    "time": "2時間",
+    "point": "お正月限定の振る舞いや、雪の城下町の絶景が楽しめる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "一畑百貨店",
+    "activity": "松江の初売り福袋",
+    "time": "3時間",
+    "point": "松江駅直結. 地元ブランドや特産品の福袋が人気を集める",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "由志園",
+    "activity": "冬の牡丹・イルミ鑑賞",
+    "time": "2時間",
+    "point": "冬に咲く牡丹と、国内最大級の和風イルミが同時に楽しめる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "太皷谷稲成神社",
+    "activity": "初詣・千本鳥居巡り",
+    "time": "2時間",
+    "point": "日本五大稲荷の一つ. 朱塗りの鳥居が連なる山道を歩く",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "玉造温泉",
+    "activity": "美肌の湯で初湯",
+    "time": "2時間",
+    "point": "勾玉橋付近の冬景色を楽しみながら、美肌の湯で温まる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "しまね海洋館アクアス",
+    "activity": "シロイルカの正月挨拶",
+    "time": "3時間",
+    "point": "バブルリングで有名なシロイルカ. 正月限定ショーも開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "島根",
+    "place": "足立美術館",
+    "activity": "雪の日本庭園鑑賞",
+    "time": "2時間",
+    "point": "「庭園もまた一幅の絵」. 雪を纏った世界一の庭を鑑賞",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "島根",
+    "place": "物部神社",
+    "activity": "初詣・文武両道祈願",
+    "time": "1時間",
+    "point": "石見一宮. 勝負運を上げたい人が多く訪れる格式高い社",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "島根",
+    "place": "イオンモール出雲",
+    "activity": "出雲エリアの初売り",
+    "time": "半日",
+    "point": "参拝後の買い物客で賑わう. 豊富な福袋とお正月抽選会",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "静岡",
+    "place": "久能山東照宮",
+    "activity": "初詣・1159段の階段",
+    "time": "2時間",
+    "point": "徳川家康公ゆかり. 駿河湾を望む絶景と煌びやかな社殿",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "静岡",
+    "place": "御殿場プレミアム・アウトレット",
+    "activity": "富士山を望む初売り",
+    "time": "半日",
+    "point": "日本最大級. 富士山の美しさとブランド福袋の熱気が共演",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "静岡",
+    "place": "三嶋大社",
+    "activity": "初詣・縁起餅「福太郎」",
+    "time": "2時間",
+    "point": "伊豆一宮. 参道に並ぶ露店と、よもぎ香る福太郎餅を堪能",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "静岡",
+    "place": "静岡伊勢丹",
+    "activity": "新春百貨店初売り",
+    "time": "3時間",
+    "point": "静岡市街の中心地. 初売り限定のグルメ福袋が毎年完売",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "静岡",
+    "place": "浜松城（新春イベント）",
+    "activity": "出世城での新年",
+    "time": "1時間",
+    "point": "家康公ゆかりの城. 正月限定の御城印やイベントが登場",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "静岡",
+    "place": "伊豆シャボテン動物公園",
+    "activity": "元祖カピバラの露天風呂",
+    "time": "3時間",
+    "point": "ゆず湯に浸かるカピバラを鑑賞. 冬の癒やしの決定版",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "静岡",
+    "place": "日本平夢テラス（初日の出）",
+    "activity": "パノラマビューの日の出",
+    "time": "1時間",
+    "point": "富士山、駿河湾、清水港を360度見渡す絶好の展望地",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "静岡",
+    "place": "エスパルスドリームプラザ",
+    "activity": "清水港の新春初売り",
+    "time": "3時間",
+    "point": "ちびまる子ちゃんランドもあり、家族で楽しめる海辺の正月",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "静岡",
+    "place": "法多山 尊永寺",
+    "activity": "初詣・厄除だんご",
+    "time": "2時間",
+    "point": "多くの参拝客が訪れる. 厄除けだんごを食べて一年の福を願う",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "静岡",
+    "place": "熱海温泉",
+    "activity": "新春熱海海上花火大会",
+    "time": "1時間",
+    "point": "冬の夜空に上がる花火. 海面に映る光が正月の熱海を彩る",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "山梨",
+    "place": "武田神社",
+    "activity": "初詣・勝負事祈願",
+    "time": "1時間",
+    "point": "武田信玄公の館跡. 新年の「勝ち運」を授かりに多くの人が参拝",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "山梨",
+    "place": "富士急ハイランド",
+    "activity": "新春カウントダウン",
+    "time": "半日",
+    "point": "氷点下の熱気. 花火と音楽で盛り上がる富士の麓の新年",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "山梨",
+    "place": "北口本宮冨士浅間神社",
+    "activity": "初詣・巨大鳥居鑑賞",
+    "time": "2時間",
+    "point": "富士山登山口に立つ荘厳な社. 巨大な杉に囲まれた冬の参道",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "山梨",
+    "place": "イオンモール甲府昭和",
+    "activity": "県内最大級の初売り",
+    "time": "半日",
+    "point": "県内各地から人が集まる. 正月限定のガラポン抽選会が人気",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "山梨",
+    "place": "岡島（百貨店）",
+    "activity": "新店舗での初売り",
+    "time": "2時間",
+    "point": "甲府の老舗. 地元密着の福袋や高品質なお正月食材が揃う",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "山梨",
+    "place": "ほったらかし温泉",
+    "activity": "富士山と初日の出",
+    "time": "2時間",
+    "point": "露天風呂に入りながら富士の横から昇る朝日を拝む贅沢",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "山梨",
+    "place": "忍野八海",
+    "activity": "冬の湧水池散策",
+    "time": "1時間",
+    "point": "雪を冠った富士山と透き通る池. お正月らしい清らかな風景",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "山梨",
+    "place": "山梨県立科学館（正月企画）",
+    "activity": "科学館で正月体験",
+    "time": "2時間",
+    "point": "子供向けの正月遊びや工作など、室内で楽しめる年始イベント",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "山梨",
+    "place": "笛吹川フルーツ公園",
+    "activity": "新春の夜景鑑賞",
+    "time": "1時間",
+    "point": "新日本三大夜景の一つ. 冬の澄んだ空気で輝きが増す甲府盆地",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "山梨",
+    "place": "身延山久遠寺",
+    "activity": "初詣・大本山参拝",
+    "time": "3時間",
+    "point": "ロープウェイで山頂へ. 冬の静寂に包まれた聖地での祈り",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "長野",
+    "place": "善光寺",
+    "activity": "初詣・お戒壇巡り",
+    "time": "2時間",
+    "point": "「遠くとも一度は詣れ」. 雪の善光寺で新年の福を願う",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "長野",
+    "place": "軽井沢・プリンスショッピングプラザ",
+    "activity": "高原の冬初売り",
+    "time": "半日",
+    "point": "雪景色のアウトレット. 有名ブランドの超目玉福袋が多数",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "長野",
+    "place": "松本城（新春祝賀会）",
+    "activity": "国宝天守の正月",
+    "time": "2時間",
+    "point": "1月1日〜3日は本丸庭園が無料開放. 門松が飾られお正月気分",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "長野",
+    "place": "諏訪大社（上社・下社）",
+    "activity": "初詣・四社巡り",
+    "time": "3時間",
+    "point": "日本最古級の神社. 新年の強いパワーを授かりに多くの参拝客",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "長野",
+    "place": "ながの東急百貨店",
+    "activity": "長野駅前の初売り",
+    "time": "3時間",
+    "point": "長野の百貨店の顔. 伝統ある福袋市は県内屈指の賑わい",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "長野",
+    "place": "白馬八方尾根スキー場",
+    "activity": "初滑り・雪上の新年",
+    "time": "1日",
+    "point": "元旦の朝日に輝く北アルプス. 雄大な景色の中での滑り初め",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "長野",
+    "place": "野沢温泉",
+    "activity": "新春外湯巡り",
+    "time": "2時間",
+    "point": "温泉街に漂う硫黄の香りと雪. 地獄谷野猿公苑への道も人気",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "長野",
+    "place": "諏訪湖（初日の出）",
+    "activity": "湖畔の日の出鑑賞",
+    "time": "1時間",
+    "point": "八ヶ岳方面から昇る朝日を湖越しに拝む、清々しい年始",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "長野",
+    "place": "戸隠神社",
+    "activity": "初詣・杉並木の歩き",
+    "time": "2時間",
+    "point": "冬の杉並木を歩き中社へ. 凛とした寒さが心を清めてくれる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "長野",
+    "place": "ステーションビルMIDORI長野",
+    "activity": "駅ビル初売り・土産",
+    "time": "2時間",
+    "point": "長野駅直結. 信州グルメの福袋や冬限定のお菓子が充実",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "福井",
+    "place": "永平寺",
+    "activity": "静寂の中での初詣と参拝",
+    "time": "2時間",
+    "point": "曹洞宗の大本山で厳かな新年の始まりを体験できる",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "福井",
+    "place": "氣比神宮",
+    "activity": "大鳥居をくぐり開運祈願",
+    "time": "1時間",
+    "point": "越前一の宮の象徴である朱塗りの大鳥居は圧巻の迫力",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "福井",
+    "place": "福井縣護國神社",
+    "activity": "屋台巡りと新春の参拝",
+    "time": "2時間",
+    "point": "県内最大級の参拝者数を誇り、賑やかな正月気分を味わえる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "福井",
+    "place": "ラブリーパートナー エルパ",
+    "activity": "新春初売りでの福袋争奪",
+    "time": "3時間",
+    "point": "県内最大級のショッピングモールで正月の買い物を楽しむ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "福井",
+    "place": "西武福井店",
+    "activity": "デパートの初売り巡り",
+    "time": "2時間",
+    "point": "福井駅近で高品質なブランドの福袋や冬セールが充実",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "福井",
+    "place": "くるふ福井駅",
+    "activity": "福井グルメの買い出し",
+    "time": "1時間",
+    "point": "新幹線開業で賑わう駅ナカで、正月の手土産選びに最適",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "福井",
+    "place": "福井城址",
+    "activity": "お天守台での初日の出観賞",
+    "time": "1時間",
+    "point": "歴史ある石垣の間から昇る太陽が新年の希望を照らす",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "福井",
+    "place": "東尋坊",
+    "activity": "荒波の日本海を眺める",
+    "time": "2時間",
+    "point": "冬の日本海が作り出す迫力満点の断崖絶壁と白波を堪能",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "福井",
+    "place": "越前松島水族館",
+    "activity": "正月限定のイルカショー",
+    "time": "3時間",
+    "point": "冬でも楽しめる屋内施設が充実。ペンギンの散歩も人気",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "福井",
+    "place": "福井県立恐竜博物館",
+    "activity": "冬の博物館で恐竜研究",
+    "time": "半日",
+    "point": "世界三大恐竜博物館の一つで、冬休み限定の展示も開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "射水神社",
+    "activity": "高岡古城公園での初詣",
+    "time": "1時間",
+    "point": "公園の豊かな自然に囲まれた静かな空間で1年の無事を祈る",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "富山縣護國神社",
+    "activity": "新春の大祈祷を体験",
+    "time": "2時間",
+    "point": "正月三が日は多くの参拝客で賑わい、出店も多数立ち並ぶ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "日枝神社",
+    "activity": "山王さんでの縁結び祈願",
+    "time": "1時間",
+    "point": "富山市中心部にありアクセス抜群。おみくじの種類も豊富",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "三井アウトレットパーク小矢部",
+    "activity": "ブランド品の福袋巡り",
+    "time": "1日",
+    "point": "北陸最大級のアウトレットで新春の大型セールを満喫",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "富山大和",
+    "activity": "新年の初売りショッピング",
+    "time": "3時間",
+    "point": "富山市中心部の百貨店で、伝統的な福袋や正月料理を堪能",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "ファボーレ",
+    "activity": "家族で正月の買い物",
+    "time": "半日",
+    "point": "大型商業施設で映画や買い物を一度に楽しめる正月スポット",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "富山",
+    "place": "雨晴海岸",
+    "activity": "立山連峰からの初日の出",
+    "time": "1時間",
+    "point": "富山湾越しに冠雪した立山から昇る朝日は一生モノの絶景",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "富山",
+    "place": "富岩運河環水公園",
+    "activity": "新春の夜景散策",
+    "time": "1時間",
+    "point": "世界一美しいとされるカフェがあり、冬のライトアップが幻想的",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "瑞龍寺",
+    "activity": "国宝伽藍での正月参拝",
+    "time": "2時間",
+    "point": "前田家の菩提寺で、元旦は無料開放され厳かな空気が漂う",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "富山",
+    "place": "五箇山 合掌造り集落",
+    "activity": "雪の合掌造りを見学",
+    "time": "3時間",
+    "point": "世界遺産の村で、雪に閉ざされた静寂の正月を体験できる",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "岐阜",
+    "place": "伊奈波神社",
+    "activity": "岐阜市随一の初詣体験",
+    "time": "2時間",
+    "point": "1900年の歴史を持ち、新年の開運を願う人々で溢れかえる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "岐阜",
+    "place": "金神社",
+    "activity": "黄金の鳥居で金運祈願",
+    "time": "1時間",
+    "point": "金色の鳥居が特徴的で、正月の金運アップスポットとして人気",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "岐阜",
+    "place": "千代保稲荷神社",
+    "activity": "油揚げを供えて初詣",
+    "time": "2時間",
+    "point": "「おちょぼさん」の愛称で親しまれる、商売繁盛の神様",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "岐阜",
+    "place": "土岐プレミアム・アウトレット",
+    "activity": "広大なエリアでの福袋狩り",
+    "time": "1日",
+    "point": "山々に囲まれた開放的な空間で、お得な新春セールを攻略",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "岐阜",
+    "place": "イオンモール各務原",
+    "activity": "屋内で快適な初売り散策",
+    "time": "半日",
+    "point": "東海最大級の店舗数を誇り、正月の衣類や雑貨が豊富に揃う",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "岐阜",
+    "place": "高山陣屋前朝市",
+    "activity": "雪の朝市で正月買い出し",
+    "time": "1時間",
+    "point": "飛騨の伝統的な正月飾りや地元の食材が並ぶ活気ある市場",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "岐阜",
+    "place": "白川郷",
+    "activity": "雪の展望台からの絶景観賞",
+    "time": "3時間",
+    "point": "世界遺産の冬景色は息を呑む美しさ。正月の非日常を体験",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "岐阜",
+    "place": "岐阜城",
+    "activity": "金華山からの初日の出",
+    "time": "2時間",
+    "point": "元旦早朝からロープウェーが運行。濃尾平野を一望する朝日",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "岐阜",
+    "place": "飛騨古河の町並み",
+    "activity": "白壁土蔵街の雪景色散策",
+    "time": "2時間",
+    "point": "映画の舞台のような風情ある雪の町並みを静かに歩く",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "岐阜",
+    "place": "奥飛騨温泉郷",
+    "activity": "雪見露天風呂での初湯",
+    "time": "1日",
+    "point": "日本屈指の露天風呂数。雪を眺めながら贅沢な新年を過ごす",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "三重",
+    "place": "伊勢神宮 内宮",
+    "activity": "日本を代表する聖地で初詣",
+    "time": "3時間",
+    "point": "五十鈴川の清流で清め、天照大御神に新年の誓いを立てる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "三重",
+    "place": "椿大神社",
+    "activity": "みちびきの神様への祈願",
+    "time": "2時間",
+    "point": "猿田彦大本宮。新しい物事を始める年の初めに最適なパワスポ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "三重",
+    "place": "多度大社",
+    "activity": "白馬に願いを託す初詣",
+    "time": "1時間",
+    "point": "馬にゆかりのある古社。正月の凛とした空気が心地よい",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "三重",
+    "place": "ジャズドリーム長島",
+    "activity": "日本最大級の初売り参戦",
+    "time": "1日",
+    "point": "圧倒的な店舗数で、国内外のブランド福袋が勢揃いする",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "三重",
+    "place": "おかげ横丁",
+    "activity": "食べ歩きと正月縁起物探し",
+    "time": "3時間",
+    "point": "江戸時代の町並みが再現され、正月の賑わいが最高潮に達する",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "三重",
+    "place": "イオンモール鈴鹿",
+    "activity": "新春の衣類福袋を狙う",
+    "time": "半日",
+    "point": "地元に密着した大型モールで、快適に正月の買い出しができる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "三重",
+    "place": "なばなの里",
+    "activity": "壮大な光の回廊を歩く",
+    "time": "3時間",
+    "point": "国内最大級のイルミネーションが正月の夜を華やかに彩る",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "三重",
+    "place": "二見興玉神社",
+    "activity": "夫婦岩からの初日の出",
+    "time": "1時間",
+    "point": "二つの岩の間から昇る太陽は、夫婦円満や縁結びの象徴",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "三重",
+    "place": "志摩スペイン村",
+    "activity": "テーマパークで正月遊び",
+    "time": "1日",
+    "point": "スペインの風情と日本の正月が融合したユニークなイベント開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "三重",
+    "place": "鳥羽水族館",
+    "activity": "ラッコの正月お食事タイム",
+    "time": "半日",
+    "point": "飼育種類数日本一。お正月特別の動物イベントが楽しめる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "奈良",
+    "place": "春日大社",
+    "activity": "原始林に囲まれた初詣",
+    "time": "2時間",
+    "point": "釣灯籠が並ぶ美しい回廊を歩き、朱色の本殿で平穏を祈る",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "奈良",
+    "place": "東大寺",
+    "activity": "大仏様への新年挨拶",
+    "time": "1時間",
+    "point": "元旦は観相窓が開かれ、外からも大仏様のお顔を拝める特別感",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "奈良",
+    "place": "橿原神宮",
+    "activity": "広大な参道で開運祈願",
+    "time": "2時間",
+    "point": "神武天皇ゆかりの地。日本始まりの場所で新たな志を立てる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "奈良",
+    "place": "ならファミリー",
+    "activity": "近鉄百貨店での初売り",
+    "time": "半日",
+    "point": "県内定番の商業施設。屋上から平城宮跡を眺める休憩も魅力",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "奈良",
+    "place": "イオンモール橿原",
+    "activity": "巨大モールで福袋巡り",
+    "time": "1日",
+    "point": "西日本最大級の広さを誇り、正月の衣食住が全て揃う",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "奈良",
+    "place": "もちいどのセンター街",
+    "activity": "ならまちで正月雑貨探し",
+    "time": "2時間",
+    "point": "古き良き商店街で、奈良らしい正月料理や民芸品に出会える",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "奈良",
+    "place": "薬師寺",
+    "activity": "吉祥天女画像の特別公開",
+    "time": "1時間",
+    "point": "正月の三が日限定で国宝の吉祥天が公開。美と幸福を願う",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "奈良",
+    "place": "奈良公園",
+    "activity": "鹿との触れ合い初め",
+    "time": "2時間",
+    "point": "冬毛の鹿たちに鹿せんべいをあげて、穏やかな新年を過ごす",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "奈良",
+    "place": "信貴山朝護孫子寺",
+    "activity": "世界一の張子の虎に参拝",
+    "time": "2時間",
+    "point": "毘沙門天王が祀られ、金運と勝負運のパワースポットとして有名",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "奈良",
+    "place": "若草山",
+    "activity": "山頂での初日の出観賞",
+    "time": "1時間",
+    "point": "奈良盆地を見下ろしながら昇る朝日は、古都ならではの趣",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "和歌山",
+    "place": "熊野那智大社",
+    "activity": "那智の滝を背に初詣",
+    "time": "3時間",
+    "point": "日本一の落差を誇る名瀑と共に、神秘的な新年の朝を迎える",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "和歌山",
+    "place": "紀三井寺",
+    "activity": "231段の石段を登る初詣",
+    "time": "1時間",
+    "point": "石段を登り切った先から眺める和歌浦の絶景はまさに開運",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "和歌山",
+    "place": "日前神宮・國懸神宮",
+    "activity": "二社並ぶ古社で参拝",
+    "time": "1時間",
+    "point": "紀伊国一の宮。静かな森に包まれた境内で心穏やかに祈る",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "和歌山",
+    "place": "イオンモール和歌山",
+    "activity": "新春の衣類セール攻略",
+    "time": "半日",
+    "point": "県内屈指の規模で、家族全員分の福袋を効率よく探せる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "和歌山",
+    "place": "黒潮市場",
+    "activity": "マグロの初解体ショー見学",
+    "time": "2時間",
+    "point": "正月の活気あふれる市場で、新鮮な海の幸をその場で堪能",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "和歌山",
+    "place": "近鉄百貨店和歌山店",
+    "activity": "デパ地下の正月グルメ購入",
+    "time": "2時間",
+    "point": "駅直結の利便性。質の高い和菓子や高級福袋が狙い目",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "和歌山",
+    "place": "和歌山マリーナシティ",
+    "activity": "正月限定のテーマパーク",
+    "time": "半日",
+    "point": "ヨーロッパの街並みで正月イベントや大道芸を楽しめる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "和歌山",
+    "place": "アドベンチャーワールド",
+    "activity": "パンダと新年の挨拶",
+    "time": "1日",
+    "point": "動物たちに囲まれた贅沢な正月。冬限定のパフォーマンスも",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "和歌山",
+    "place": "和歌山城",
+    "activity": "天守閣での初日の出",
+    "time": "1時間",
+    "point": "元旦早朝に特別開門され、市街地を一望する朝日を拝める",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "和歌山",
+    "place": "潮岬",
+    "activity": "本州最南端での初日の出",
+    "time": "1時間",
+    "point": "水平線から昇る圧倒的なスケールの朝日を体験できる",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "愛媛",
+    "place": "伊豫豆比古命神社",
+    "activity": "椿さんで商売繁盛祈願",
+    "time": "2時間",
+    "point": "愛媛県民に最も親しまれる「椿神社」で運気上昇を願う",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛媛",
+    "place": "伊佐爾波神社",
+    "activity": "重要文化財の社殿で初詣",
+    "time": "1時間",
+    "point": "135段の石段の先にある、朱色の八幡造りの社殿が美しい",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛媛",
+    "place": "石鎚神社",
+    "activity": "霊峰石鎚山を仰ぎ参拝",
+    "time": "2時間",
+    "point": "西日本最高峰を神体山とする、力強いパワーを感じるスポット",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "愛媛",
+    "place": "エミフルMASAKI",
+    "activity": "四国最大級のモールで買い物",
+    "time": "1日",
+    "point": "圧倒的なブランド数。正月の福袋や冬のセール品が充実",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛媛",
+    "place": "松山三越",
+    "activity": "百貨店ならではの福袋選び",
+    "time": "3時間",
+    "point": "リニューアルしたお洒落なフロアで、質の高い新年をスタート",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛媛",
+    "place": "大街道商店街",
+    "activity": "商店街での新春イベント",
+    "time": "2時間",
+    "point": "獅子舞や太鼓の演奏など、正月の伝統行事を間近で見られる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛媛",
+    "place": "松山城",
+    "activity": "ロープウェイで行く初登城",
+    "time": "2時間",
+    "point": "城山から松山市街と瀬戸内海を一望し、新年の抱負を叫ぶ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛媛",
+    "place": "道後温泉 本館",
+    "activity": "新年の初湯に浸かる",
+    "time": "1時間",
+    "point": "日本最古の湯で1年の疲れを落とし、身も心も清める贅沢",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "愛媛",
+    "place": "とべ動物園",
+    "activity": "干支の動物とお祝い",
+    "time": "半日",
+    "point": "家族連れに大人気。正月限定の動物イベントで笑顔になれる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛媛",
+    "place": "来島海峡展望館",
+    "activity": "瀬戸内海の初日の出",
+    "time": "1時間",
+    "point": "世界初三連吊橋と島々が織りなす、ここでしか見られない朝日",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "高知",
+    "place": "高知大神宮",
+    "activity": "高知市中心部での初詣",
+    "time": "1時間",
+    "point": "「よさこい稲荷」も鎮座。買い物のついでに寄りやすい立地",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "高知",
+    "place": "竹林寺",
+    "activity": "五台山で新年の特別祈祷",
+    "time": "2時間",
+    "point": "四国霊場第31番札所。美しい庭園と五重塔が新春に映える",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "高知",
+    "place": "土佐神社",
+    "activity": "一の宮で厳かに開運祈願",
+    "time": "2時間",
+    "point": "楼門や本殿は国指定重要文化財。土佐の歴史を感じる初詣",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "高知",
+    "place": "イオンモール高知",
+    "activity": "新春の大規模ショッピング",
+    "time": "半日",
+    "point": "高知最大の商業施設で、正月の賑わいと買い物を満喫",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "高知",
+    "place": "高知大丸",
+    "activity": "老舗デパートの初売り巡り",
+    "time": "3時間",
+    "point": "帯屋町アーケード内にあり、正月の華やかな雰囲気を楽しめる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "高知",
+    "place": "ひろめ市場",
+    "activity": "正月のご当地グルメ会食",
+    "time": "3時間",
+    "point": "高知の台所。昼からお酒と鰹のタタキで賑やかに新年を祝う",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "高知",
+    "place": "桂浜",
+    "activity": "龍馬像と仰ぐ初日の出",
+    "time": "1時間",
+    "point": "太平洋の荒波と坂本龍馬像越しに昇る朝日は圧巻の力強さ",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "高知",
+    "place": "高知城",
+    "activity": "天守閣からの新春眺望",
+    "time": "2時間",
+    "point": "現存12天守の一つ。三が日は本丸御殿で伝統行事が行われる",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "高知",
+    "place": "足摺岬",
+    "activity": "四国最南端の日の出観賞",
+    "time": "1時間",
+    "point": "270度の視界に広がる水平線。地球の丸さを感じる新年の夜明け",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "高知",
+    "place": "龍河洞",
+    "activity": "日本三大鍾乳洞で洞窟初詣",
+    "time": "2時間",
+    "point": "神秘的な地底空間。正月限定のおみくじや装飾を楽しめる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "皇居 新年一般参賀",
+    "activity": "皇室の方々への参賀",
+    "time": "半日",
+    "point": "新年だけの特別な皇室行事",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "箱根駅伝（大手町読売新聞社前）",
+    "activity": "駅伝スタート観戦",
+    "time": "2時間",
+    "point": "正月恒例の熱き戦いを応援",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "豊洲市場 まぐろ初競り",
+    "activity": "初競り見学",
+    "time": "1時間",
+    "point": "新春の活気と縁起物を体感",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "東京国立博物館 博物館に初もうで",
+    "activity": "正月展示鑑賞",
+    "time": "2時間",
+    "point": "干支や吉祥作品で文化的な正月",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "浜離宮恩賜庭園 正月開園",
+    "activity": "放鷹術の実演見学",
+    "time": "2時間",
+    "point": "将軍家の伝統技・鷹狩りを再現",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "上野動物園 新年イベント",
+    "activity": "獅子舞と動物観察",
+    "time": "3時間",
+    "point": "干支にちなんだ企画や獅子舞",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "サンシャイン水族館 お正月",
+    "activity": "特別水槽鑑賞",
+    "time": "2時間",
+    "point": "干支展示や和風装飾の水族館",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "マクセル アクアパーク品川",
+    "activity": "イルカショー観賞",
+    "time": "2時間",
+    "point": "新春バージョンの華やかショー",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "東京スカイツリー お正月イベント",
+    "activity": "新春展望台観光",
+    "time": "2時間",
+    "point": "獅子舞や振る舞い酒等の催し",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "東京タワー 初日の出",
+    "activity": "初日の出鑑賞",
+    "time": "2時間",
+    "point": "東京の中心で迎える初日の出",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "六本木ヒルズ お正月2026",
+    "activity": "和太鼓・獅子舞鑑賞",
+    "time": "2時間",
+    "point": "都心で楽しむ日本の伝統芸能",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "東京ミッドタウン お正月",
+    "activity": "振る舞い酒体験",
+    "time": "1時間",
+    "point": "洗練された空間で祝うお正月",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "東京ドームシティ お正月",
+    "activity": "新春イベント参加",
+    "time": "半日",
+    "point": "家族で楽しめる縁日やショー",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "よみうりランド ジュエルミネーション",
+    "activity": "イルミネーション",
+    "time": "3時間",
+    "point": "宝石色の光に包まれる遊園地",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "サンリオピューロランド 新春",
+    "activity": "新春パレード鑑賞",
+    "time": "半日",
+    "point": "着物姿のキャラと迎える新年",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "新春浅草歌舞伎（浅草公会堂）",
+    "activity": "若手歌舞伎鑑賞",
+    "time": "3時間",
+    "point": "若手花形の熱気ある新春公演",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "サントリーホール ニューイヤーコンサート",
+    "activity": "クラシック鑑賞",
+    "time": "2時間",
+    "point": "ウィーンの風を感じる演奏会",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "伊勢丹新宿店 新春祭",
+    "activity": "初売りショッピング",
+    "time": "3時間",
+    "point": "日本一の百貨店で豪華初売り",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "東京",
+    "place": "銀座三越 新春祭",
+    "activity": "初売り・福袋購入",
+    "time": "2時間",
+    "point": "銀座のデパートで優雅に買物",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "SHIBUYA109 WINTER SALE",
+    "activity": "初売りセール参戦",
+    "time": "3時間",
+    "point": "若者文化の中心で特大セール",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "江戸東京たてもの園 正月開園",
+    "activity": "伝統正月遊び体験",
+    "time": "2時間",
+    "point": "レトロな街並みで正月体験",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "東京ジョイポリス お正月",
+    "activity": "屋内遊園地遊び",
+    "time": "3時間",
+    "point": "快適な屋内で新春イベント",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "渋谷スクランブルスクエア（SHIBUYA SKY）",
+    "activity": "新春展望台観光",
+    "time": "1時間",
+    "point": "屋上から東京の新春を一望",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "ホテルニューオータニ お正月プラン",
+    "activity": "日本庭園散策",
+    "time": "2時間",
+    "point": "名門ホテルで過ごす優雅な時",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "明治神宮 初詣",
+    "activity": "新春特別祈願",
+    "time": "3時間",
+    "point": "日本一の参拝者数を誇る杜",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "浅草寺 初詣",
+    "activity": "仲見世散策と参拝",
+    "time": "2時間",
+    "point": "雷門と仲見世の賑わいは圧巻",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "神田明神 初詣",
+    "activity": "仕事始め祈願",
+    "time": "2時間",
+    "point": "仕事運と商売繁盛の総鎮守",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "東京",
+    "place": "東京大神宮 初詣",
+    "activity": "縁結び祈願",
+    "time": "2時間",
+    "point": "女性に大人気の縁結び神社",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "増上寺 初詣",
+    "activity": "黒本尊御開帳参拝",
+    "time": "1時間",
+    "point": "東京タワーを背に新春参拝",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "東京",
+    "place": "日枝神社 初詣",
+    "activity": "開運・厄除け祈願",
+    "time": "1時間",
+    "point": "永田町の鎮守で仕事運上昇",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "大阪",
+    "place": "ユニバーサル・スタジオ・ジャパン",
+    "activity": "NO LIMIT! カウントダウン",
+    "time": "1日",
+    "point": "26時間遊び放題！豪華アーティストと年越し",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "あべのハルカス300（展望台）",
+    "activity": "初日の出鑑賞",
+    "time": "2時間",
+    "point": "地上300m！日本一高いビルから拝む初日の出",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "海遊館 お正月イベント",
+    "activity": "水族館でお正月",
+    "time": "3時間",
+    "point": "干支ダイバーや正月限定水槽で海の生き物と迎春",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "大阪城イルミナージュ",
+    "activity": "イルミネーション",
+    "time": "2時間",
+    "point": "戦国の世界観を光で再現！幻想的な夜の大阪城",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "なんばグランド花月 新春特別興行",
+    "activity": "吉本新喜劇鑑賞",
+    "time": "3時間",
+    "point": "お笑いの聖地で初笑い！豪華芸人勢揃いの特別公演",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "阪急うめだ本店 初売り",
+    "activity": "初売りショッピング",
+    "time": "3時間",
+    "point": "関西最大級！豪華福袋と限定品が並ぶ初売りの祭典",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "大阪",
+    "place": "天王寺動物園 開園110周年",
+    "activity": "新春動物園散策",
+    "time": "2時間",
+    "point": "元日は入園無料！干支動物の特別イベントも開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "国立文楽劇場 初春文楽公演",
+    "activity": "伝統芸能・文楽鑑賞",
+    "time": "3時間",
+    "point": "ユネスコ無形文化遺産！大阪発祥の人形浄瑠璃",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "ひらかたパーク 光の遊園地",
+    "activity": "イルミネーション",
+    "time": "3時間",
+    "point": "遊園地全体が輝く！アトラクションと光の共演",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "うめきた広場 つるんつるん",
+    "activity": "アイススケート",
+    "time": "1時間",
+    "point": "梅田のど真ん中に本格スケートリンクが出現！",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "りんくうプレミアム・アウトレット",
+    "activity": "新春セール",
+    "time": "半日",
+    "point": "元日から最大80%OFF！海沿いの開放的モール",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "ららぽーとEXPOCITY",
+    "activity": "初売り・福袋",
+    "time": "3時間",
+    "point": "日本最大級305店舗！観覧車や水族館も併設",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "通天閣",
+    "activity": "新春展望台観光",
+    "time": "1時間",
+    "point": "ビリケンさんと干支の引継ぎ式！浪速のシンボル",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "梅田スカイビル 空中庭園展望台",
+    "activity": "新春絶景鑑賞",
+    "time": "1時間",
+    "point": "地上173m！360度パノラマで初日の出も拝める",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "なんばパークス 光の旅",
+    "activity": "イルミネーション",
+    "time": "1時間",
+    "point": "光の滝が圧巻！都会のオアシスで冬の絶景",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "阪急三番街 三番街のお正月",
+    "activity": "獅子舞・イベント",
+    "time": "1時間",
+    "point": "獅子舞の練り歩きや大道芸！梅田で賑やかに初春",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "空庭温泉 OSAKA BAY TOWER",
+    "activity": "新春温泉体験",
+    "time": "3時間",
+    "point": "安土桃山時代の街並み再現！タイムスリップ温泉",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "スパワールド 世界の大温泉",
+    "activity": "温泉＆プール",
+    "time": "半日",
+    "point": "世界11カ国のお風呂を巡る！24時間営業で初湯",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "大丸心斎橋店 初売り",
+    "activity": "デパート初売り",
+    "time": "2時間",
+    "point": "重要文化財の美しい建築！ヴォーリズ設計の名店",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "大阪髙島屋 初売り",
+    "activity": "福袋・セール",
+    "time": "2時間",
+    "point": "なんば駅直結で便利！老舗の高級福袋が充実",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "HEP FIVE 初売り",
+    "activity": "若者向けセール",
+    "time": "2時間",
+    "point": "真っ赤な観覧車がシンボル！トレンド満載の初売り",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "天保山大観覧車",
+    "activity": "空中散歩",
+    "time": "1時間",
+    "point": "直径100m世界最大級！大阪湾を一望する絶景",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "万博記念公園",
+    "activity": "日本庭園散策",
+    "time": "2時間",
+    "point": "太陽の塔と美しい日本庭園で新春の自然を満喫",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "コンラッド大阪 アトモス",
+    "activity": "新春ビュッフェ",
+    "time": "2時間",
+    "point": "40階の天空レストラン！極上料理と絶景で優雅に",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "住吉大社 初詣",
+    "activity": "太鼓橋渡り",
+    "time": "2時間",
+    "point": "関西随一の参拝者数！反橋を渡って開運祈願",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "大阪天満宮 初詣",
+    "activity": "合格祈願",
+    "time": "2時間",
+    "point": "学問の神様・菅原道真公を祀る天神さんの総本社",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "難波八阪神社 初詣",
+    "activity": "巨大獅子殿参拝",
+    "time": "1時間",
+    "point": "高さ12mの巨大獅子頭！厄を飲み込む圧巻の姿",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "大阪",
+    "place": "勝尾寺 初詣",
+    "activity": "勝ちダルマ奉納",
+    "time": "2時間",
+    "point": "勝運の寺！境内に並ぶ無数のダルマが圧巻",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "大阪",
+    "place": "成田山不動尊 初詣",
+    "activity": "交通安全祈願",
+    "time": "2時間",
+    "point": "車ごと祈祷可能！交通安全の名所で新年の安全祈願",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "大阪",
+    "place": "石切劔箭神社 初詣",
+    "activity": "お百度参り",
+    "time": "2時間",
+    "point": "「石切さん」の愛称で親しまれる病気平癒の聖地",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "箱根駅伝（花の2区・権太坂など）",
+    "activity": "沿道で応援",
+    "time": "3時間",
+    "point": "正月最大のスポーツイベントを現地で熱血応援",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "横浜・八景島シーパラダイス",
+    "activity": "新春クルーズ乗船",
+    "time": "半日",
+    "point": "シー太君と祝う新春クルーズや深海生物まつり",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "新江ノ島水族館 えのすいのお正月",
+    "activity": "新春展示鑑賞",
+    "time": "2時間",
+    "point": "干支にちなんだ生物展示で海の生き物と新年祝い",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "三溪園 正月開園（鶴翔閣公開）",
+    "activity": "伝統芸能鑑賞",
+    "time": "2時間",
+    "point": "重要文化財で琴や和妻を鑑賞する優雅な和の正月",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "江の島 湘南の宝石",
+    "activity": "イルミネーション",
+    "time": "2時間",
+    "point": "江の島全体が宝石のように輝く光と色の祭典",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "さがみ湖イルミリオン",
+    "activity": "イルミネーション",
+    "time": "3時間",
+    "point": "関東最大級の光の祭典！圧倒的な輝きに包まれる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "アートリンク in 横浜赤レンガ倉庫",
+    "activity": "アイススケート",
+    "time": "1時間",
+    "point": "港の夜景とアートに囲まれて滑る特別なリンク",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "横浜中華街 2026春節燈花",
+    "activity": "中華街散策",
+    "time": "2時間",
+    "point": "華やかな提灯と龍のランタンが彩る異国情緒な正月",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "こどもの国 正月イベント",
+    "activity": "どんど焼き体験",
+    "time": "半日",
+    "point": "巨大ジャンボカルタや昔遊びで正月を満喫",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "長井海の手公園 ソレイユの丘",
+    "activity": "開運イベント参加",
+    "time": "3時間",
+    "point": "菜の花と富士山を望む絶景公園で新春運試し",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "藤子・F・不二雄ミュージアム",
+    "activity": "原画展鑑賞",
+    "time": "3時間",
+    "point": "1/4から開館！ドラえもんと夢の世界へ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "よこはま動物園ズーラシア",
+    "activity": "新春動物園散策",
+    "time": "3時間",
+    "point": "広大な森の動物園で干支にちなんだイベント開催",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "片瀬海岸東浜 初日の出",
+    "activity": "初日の出鑑賞",
+    "time": "1時間",
+    "point": "江の島と海越しに昇る太陽！湘南の定番日の出",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "横浜港大さん橋国際客船ターミナル",
+    "activity": "初日の出鑑賞",
+    "time": "1時間",
+    "point": "みなとみらいのビル群とベイブリッジを一望する朝",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "横浜高島屋 初売り",
+    "activity": "初売りショッピング",
+    "time": "2時間",
+    "point": "横浜駅西口の顔！豪華福袋と活気ある初売り",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "ラゾーナ川崎プラザ 初売り",
+    "activity": "初売り・バーゲン",
+    "time": "3時間",
+    "point": "駅直結の巨大モールで新春セールを攻略",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "テラスモール湘南 初売り",
+    "activity": "初売りショッピング",
+    "time": "3時間",
+    "point": "湘南エリア最大級！開放的な空間でお買い物",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "三井アウトレットパーク 横浜ベイサイド",
+    "activity": "新春セール",
+    "time": "半日",
+    "point": "海辺のマリーナを散策しながらお得に初買い",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "THE OUTLETS SHONAN HIRATSUKA",
+    "activity": "新春セール",
+    "time": "3時間",
+    "point": "緑豊かな新スポットで福袋とグルメを楽しむ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "ららぽーと横浜 初売り",
+    "activity": "初売り・福袋",
+    "time": "3時間",
+    "point": "人気ブランド勢揃いの大型モールで家族ショッピング",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "そごう横浜店 初売り",
+    "activity": "デパート初売り",
+    "time": "2時間",
+    "point": "横浜駅東口の老舗で質の高い福袋をゲット",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "彫刻の森美術館",
+    "activity": "野外アート鑑賞",
+    "time": "2時間",
+    "point": "箱根の自然とアートが融合！清々しい新年の散策",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "箱根園水族館",
+    "activity": "アザラシショー見学",
+    "time": "2時間",
+    "point": "日本一標高が高い水族館で癒やしの時間",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "金沢動物園",
+    "activity": "新春動物園散策",
+    "time": "2時間",
+    "point": "コアラやカンガルーに会える自然豊かな動物園",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "川崎大師 平間寺 初詣",
+    "activity": "厄除け祈願",
+    "time": "2時間",
+    "point": "関東屈指の厄除け大師！仲見世の飴切る音も名物",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "鶴岡八幡宮 初詣",
+    "activity": "新春参拝",
+    "time": "2時間",
+    "point": "鎌倉武士の守護神！長い参道を歩いて必勝祈願",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "寒川神社 初詣",
+    "activity": "八方除け祈願",
+    "time": "2時間",
+    "point": "全国唯一の八方除け！全ての災いを祓うパワースポット",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "神奈川",
+    "place": "江島神社 初詣",
+    "activity": "日本三大弁財天参拝",
+    "time": "2時間",
+    "point": "芸道上達や金運アップ！海を見下ろす絶景神社",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "箱根神社 初詣",
+    "activity": "開運祈願",
+    "time": "2時間",
+    "point": "芦ノ湖畔に佇む関東総鎮守で運気上昇",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "神奈川",
+    "place": "伊勢山皇大神宮 初詣",
+    "activity": "関東のお伊勢様参拝",
+    "time": "1時間",
+    "point": "横浜を見守る総鎮守！桜木町から徒歩圏内の聖地",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "名古屋城 冬まつり",
+    "activity": "新春開門イベント",
+    "time": "3時間",
+    "point": "元日から開門！干支の置物配布や豪華な新春イベント",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "熱田神宮 初詣",
+    "activity": "三種の神器参拝",
+    "time": "2時間",
+    "point": "三種の神器を祀る格式高い神宮で厳かに新年を祈願",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "レゴランド・ジャパン",
+    "activity": "キッズ・カウントダウン",
+    "time": "1日",
+    "point": "レゴの門松や干支モザイクアートで彩るカラフルな正月",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "名古屋港水族館",
+    "activity": "新春水族館イベント",
+    "time": "3時間",
+    "point": "元日から営業！シャチやイルカと過ごす海の正月",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "東山動植物園",
+    "activity": "新春アニマルトーク",
+    "time": "3時間",
+    "point": "1月2日開園！飼育員による動物解説や特製カレンダー配布",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "野外民族博物館 リトルワールド",
+    "activity": "世界のお正月体験",
+    "time": "半日",
+    "point": "1日世界旅行気分！世界の旧正月料理や文化を堪能",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "博物館 明治村",
+    "activity": "明治の正月体験",
+    "time": "半日",
+    "point": "袴姿で散策！明治時代のレトロな正月遊びや建築美",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "大須観音 初詣",
+    "activity": "厄除け・商店街散策",
+    "time": "2時間",
+    "point": "日本三大観音の一つ！参拝後は活気ある商店街で食べ歩き",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "豊川稲荷 初詣",
+    "activity": "商売繁盛祈願",
+    "time": "2時間",
+    "point": "日本三大稲荷！千本の幟と霊狐塚が圧巻のパワースポット",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "ジェイアール名古屋タカシマヤ",
+    "activity": "初売りショッピング",
+    "time": "3時間",
+    "point": "名古屋駅直結！東海エリア最大級のデパートで福袋ゲット",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "愛知",
+    "place": "中部電力 MIRAI TOWER",
+    "activity": "初日の出鑑賞",
+    "time": "1時間",
+    "point": "地上90mの展望台から名古屋の街と初日の出を一望",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "国宝 犬山城",
+    "activity": "新春登城",
+    "time": "2時間",
+    "point": "現存最古級の天守から木曽川と御嶽山を望む絶景",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "ラグーナテンボス",
+    "activity": "イルミネーション",
+    "time": "3時間",
+    "point": "海辺のテーマパークで光の芸術とエンタメを満喫",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "オアシス21",
+    "activity": "氷じゃないスケート",
+    "time": "1時間",
+    "point": "転んでも濡れない！夜景も綺麗な街中のスケートリンク",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "真清田神社 初詣",
+    "activity": "開運厄除け祈願",
+    "time": "1時間",
+    "point": "尾張国一之宮！格式高い神社で新年の運気を底上げ",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "竹島水族館",
+    "activity": "深海生物観察",
+    "time": "2時間",
+    "point": "リニューアルで魅力倍増！ユニークな解説が楽しい水族館",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "徳川園",
+    "activity": "新春庭園散策",
+    "time": "1時間",
+    "point": "大名庭園で静寂な新年！冬牡丹や松の雪吊りが美しい",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "フライト・オブ・ドリームズ",
+    "activity": "航空機鑑賞",
+    "time": "2時間",
+    "point": "実物のボーイング787を間近で！空港で夢のある新年",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "ノリタケの森",
+    "activity": "赤レンガ散策",
+    "time": "2時間",
+    "point": "赤レンガ建築と陶磁器の美！クラシカルな新春散歩",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "三輪神社",
+    "activity": "うさぎ参り",
+    "time": "1時間",
+    "point": "幸せのなでウサギが人気！御朱印も可愛い縁結び神社",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "豊橋総合動植物公園（のんほいパーク）",
+    "activity": "新春動物園",
+    "time": "半日",
+    "point": "動物園・植物園・遊園地が一体！家族で1日楽しめる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "常滑やきもの散歩道",
+    "activity": "陶磁器の街散策",
+    "time": "2時間",
+    "point": "土管坂や登り窯などフォトジェニックな風景で初散歩",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "ミッドランドスクエア スカイプロムナード",
+    "activity": "高層展望台",
+    "time": "1時間",
+    "point": "東海一高いビルから見下ろす煌めく名古屋の夜景",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "名古屋市科学館",
+    "activity": "プラネタリウム",
+    "time": "2時間",
+    "point": "世界最大級のプラネタリウムで新年の星空解説を楽しむ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "ららぽーと名古屋みなとアクルス",
+    "activity": "初売りセール",
+    "time": "3時間",
+    "point": "家族連れに優しい大型モールでお得な福袋探し",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "津島神社 初詣",
+    "activity": "厄除け祈願",
+    "time": "1時間",
+    "point": "全国天王社の総本社！厄除けと疫病退散のご利益",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "岡崎城（岡崎公園）",
+    "activity": "家康公ゆかりの地",
+    "time": "2時間",
+    "point": "家康公生誕の城！龍城神社で出世開運を祈願",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "竹島（蒲郡）",
+    "activity": "八百富神社参拝",
+    "time": "1時間",
+    "point": "橋を渡って島へ！海に浮かぶパワースポットで開運",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "愛知",
+    "place": "イオンモール熱田",
+    "activity": "初売り・福袋",
+    "time": "2時間",
+    "point": "熱田神宮からの帰りに便利！新春セールで買い物三昧",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "愛知",
+    "place": "名古屋テレビ塔（久屋大通公園）",
+    "activity": "公園散策",
+    "time": "1時間",
+    "point": "お洒落なショップが並ぶ公園でカフェ＆散策",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "姫路城 新春プレゼント",
+    "activity": "世界遺産登城",
+    "time": "2時間",
+    "point": "元日入城無料！世界に誇る白鷺城で新年を祝う",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "神戸須磨シーワールド",
+    "activity": "新春スマシー",
+    "time": "3時間",
+    "point": "新装開業の水族館！シャチのパフォーマンスと甘酒振舞い",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "西宮神社 初詣",
+    "activity": "えびす様参拝",
+    "time": "2時間",
+    "point": "福男選びで有名！商売繁盛の総本社で福を授かる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "神戸ポートタワー",
+    "activity": "初日の出鑑賞",
+    "time": "1時間",
+    "point": "リニューアルした神戸のシンボルから拝む初日の出",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "生田神社 初詣",
+    "activity": "縁結び祈願",
+    "time": "1時間",
+    "point": "神戸の中心で縁結び！恋愛成就のパワースポット",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "神戸どうぶつ王国",
+    "activity": "新春動物触れ合い",
+    "time": "3時間",
+    "point": "動物との距離ゼロ！全天候型で冬でも快適に楽しめる",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "有馬温泉",
+    "activity": "初湯・温泉街散策",
+    "time": "半日",
+    "point": "日本三名泉の金泉・銀泉で心身を温める贅沢な新年",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "城崎温泉",
+    "activity": "外湯めぐりとカニ",
+    "time": "1日",
+    "point": "浴衣で7つの外湯巡り！冬の味覚カニ料理も堪能",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "神戸布引ハーブ園",
+    "activity": "初日の出ロープウェイ",
+    "time": "2時間",
+    "point": "早朝6時から運行！ハーブの香りと絶景の初日の出",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "姫路セントラルパーク",
+    "activity": "サファリ＆ランタン",
+    "time": "1日",
+    "point": "ドライブサファリと夜空に舞うサンクスランタン",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "湊川神社 初詣",
+    "activity": "楠公さん参拝",
+    "time": "2時間",
+    "point": "楠木正成公を祀る名社！家内安全や厄除けのご利益",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "神戸三田プレミアム・アウトレット",
+    "activity": "新春初売り",
+    "time": "半日",
+    "point": "西日本最大級！高級ブランド福袋とセールを狙う",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "好古園",
+    "activity": "新春日本庭園散策",
+    "time": "1時間",
+    "point": "姫路城を借景にした美しい庭園で風流な正月",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "六甲山スノーパーク",
+    "activity": "雪遊び・スキー",
+    "time": "半日",
+    "point": "大阪・神戸から近い！手ぶらで楽しめる雪のテーマパーク",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "神戸ハーバーランドumie",
+    "activity": "イルミネーション",
+    "time": "2時間",
+    "point": "海沿いのロマンチックな光！ショッピングも充実",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "阪急西宮ガーデンズ",
+    "activity": "初売り・バーゲン",
+    "time": "3時間",
+    "point": "西宮北口駅直結！人気ショップが集結する初売りの聖地",
+    "season": "年始",
+    "people": "1人"
+  },
+  {
+    "location": "兵庫",
+    "place": "長田神社 初詣",
+    "activity": "商売繁盛祈願",
+    "time": "2時間",
+    "point": "神戸三大神社の一つ！商売繁盛や病気平癒を願う",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "淡路島 ニジゲンノモリ",
+    "activity": "アニメパーク体験",
+    "time": "半日",
+    "point": "ゴジラやナルトの世界へ！自然の中でアクティブな正月",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "舞子海上プロムナード",
+    "activity": "海上散歩",
+    "time": "1時間",
+    "point": "明石海峡大橋の真下！海面47mから見る絶景",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "南京町（神戸中華街）",
+    "activity": "食べ歩き・点心",
+    "time": "2時間",
+    "point": "熱々の豚まんや小籠包！異国情緒溢れる正月グルメ",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "伊和都比売神社",
+    "activity": "縁結び・絶景参拝",
+    "time": "1時間",
+    "point": "海に面した鳥居が美しい！赤穂の縁結びスポット",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "キッザニア甲子園",
+    "activity": "職業体験",
+    "time": "半日",
+    "point": "お正月限定アクティビティも！子供が主役の仕事始め",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "宝塚大劇場",
+    "activity": "新春公演観劇",
+    "time": "3時間",
+    "point": "夢の世界で華やかに！宝塚歌劇団の豪華な新春公演",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "書写山 圓教寺",
+    "activity": "初詣・ロープウェイ",
+    "time": "3時間",
+    "point": "ラストサムライのロケ地！荘厳な山寺で心静かな新年",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "神戸市立王子動物園",
+    "activity": "新春動物園",
+    "time": "2時間",
+    "point": "パンダやコアラに癒やされる！レトロな遊園地も併設",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "赤穂大石神社 初詣",
+    "activity": "大願成就祈願",
+    "time": "1時間",
+    "point": "忠臣蔵ゆかりの神社！四十七士の像が並ぶ参道",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "大丸神戸店",
+    "activity": "初売りショッピング",
+    "time": "2時間",
+    "point": "旧居留地の美しい街並みと共に楽しむ優雅な買物",
+    "season": "年始",
+    "people": "2人"
+  },
+  {
+    "location": "兵庫",
+    "place": "道の駅 うずしお",
+    "activity": "渦潮グルメ",
+    "time": "2時間",
+    "point": "淡路島バーガーと鳴門海峡の絶景で美味しい正月",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "中山寺 初詣",
+    "activity": "安産祈願",
+    "time": "2時間",
+    "point": "豊臣秀吉も祈願した安産の寺！エスカレーター完備で安心",
+    "season": "年始",
+    "people": "グループ"
+  },
+  {
+    "location": "兵庫",
+    "place": "北野異人館街",
+    "activity": "異人館巡り",
+    "time": "2時間",
+    "point": "洋館が立ち並ぶ異国情緒！お洒落なカフェで新春休憩",
+    "season": "年始",
+    "people": "2人"
   }
 ]
