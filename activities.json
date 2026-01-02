@@ -30484,5 +30484,383 @@
     "point": "北前船で栄えた湊町。当時の豪商の暮らしが色濃く残る。",
     "season": "通年",
     "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "グラバー園",
+    "activity": "洋館巡りと景色を楽しむ",
+    "time": "2時間",
+    "point": "幕末の歴史を感じる美しい洋風建築群",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "平和公園",
+    "activity": "平和への祈りを捧げる",
+    "time": "1時間",
+    "point": "平和祈念像が建つ世界的に有名な場所",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "稲佐山展望台",
+    "activity": "世界新三大夜景を眺める",
+    "time": "1時間",
+    "point": "1000万ドルの夜景が広がるパノラマ",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "ハウステンボス",
+    "activity": "異国情緒な街並みを歩く",
+    "time": "1日",
+    "point": "日本最大級の面積を誇る花のテーマパーク",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "軍艦島（端島）",
+    "activity": "廃墟の島を上陸見学する",
+    "time": "半日",
+    "point": "かつての炭鉱都市の迫力と歴史を体感",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "大浦天主堂",
+    "activity": "国宝の教会を拝観する",
+    "time": "1時間",
+    "point": "現存する日本最古のキリスト教建築物",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "長崎新地中華街",
+    "activity": "中華街で食べ歩きをする",
+    "time": "1時間",
+    "point": "日本三大中華街の一つで活気あふれる",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "出島",
+    "activity": "江戸時代の鎖国文化を辿る",
+    "time": "2時間",
+    "point": "復元された建物で貿易の歴史を体験",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "長崎水辺の森公園",
+    "activity": "港の景色を見て散策する",
+    "time": "1時間",
+    "point": "地元民がピクニックを楽しむ開放的な公園",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "風頭公園",
+    "activity": "龍馬像と景色を撮影する",
+    "time": "2時間",
+    "point": "坂本龍馬像越しに長崎港を一望できる",
+    "season": "春",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "浜町アーケード",
+    "activity": "地元商店街で買い物する",
+    "time": "2時間",
+    "point": "長崎最大の繁華街で活気がある",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "長崎県立美術館",
+    "activity": "運河沿いの建築とアート",
+    "time": "2時間",
+    "point": "隈研吾氏設計の美しい水辺の美術館",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "立山公園",
+    "activity": "桜並木の下でお花見する",
+    "time": "2時間",
+    "point": "春には約700本の桜が咲き誇る名所",
+    "season": "春",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "i+Land nagasaki",
+    "activity": "温泉とアクティビティ",
+    "time": "1日",
+    "point": "伊王島でリゾート気分を味わえる施設",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "長崎ランタンフェスティバル",
+    "activity": "幻想的な光の街を歩く",
+    "time": "3時間",
+    "point": "1万5千個のランタンが街を彩る冬の祭典",
+    "season": "2月",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "長崎くんち",
+    "activity": "迫力ある奉納踊りを観る",
+    "time": "半日",
+    "point": "豪華絢爛で異国情緒あふれる長崎最大の祭",
+    "season": "10月",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "四海樓",
+    "activity": "元祖ちゃんぽんを味わう",
+    "time": "1時間",
+    "point": "ちゃんぽん発祥の地とされる超有名店",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "吉宗 本店",
+    "activity": "名物の茶碗蒸しを食べる",
+    "time": "1時間",
+    "point": "江戸時代から続く伝統の味と巨大茶碗蒸し",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "ツル茶ん",
+    "activity": "食べるミルクセーキを体験",
+    "time": "1時間",
+    "point": "九州最古の喫茶店で味わう長崎名物",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "文明堂総本店",
+    "activity": "老舗のカステラを買う",
+    "time": "1時間",
+    "point": "格式高い店構えの歴史あるカステラ店",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "思案橋ラーメン",
+    "activity": "飲んだ後の〆を堪能する",
+    "time": "1時間",
+    "point": "福山雅治さんも通うことで知られる名店",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "佐世保バーガーショップヒカリ",
+    "activity": "本場の佐世保バーガーを食す",
+    "time": "1時間",
+    "point": "注文を受けてから作る圧倒的な満足感",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "魚荘（諫早）",
+    "activity": "伝統の楽焼うなぎを頂く",
+    "time": "1時間",
+    "point": "二重底の器で蒸されるトロける食感の鰻",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "五島うどん 専門店",
+    "activity": "椿油の香るうどんを啜る",
+    "time": "1時間",
+    "point": "日本三大うどんの一つ、地獄炊きが絶品",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "外海・出津教会堂",
+    "activity": "世界遺産の教会を静かに巡る",
+    "time": "1時間",
+    "point": "潜伏キリシタンの歴史が息づく海辺の教会",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "遠藤周作文学館",
+    "activity": "小説「沈黙」の世界に浸る",
+    "time": "1時間",
+    "point": "角力灘の絶景と文学が融合する静謐な場所",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "九十九島パールシーリゾート",
+    "activity": "遊覧船で多島海を巡る",
+    "time": "2時間",
+    "point": "208の島々が織りなす圧倒的な自然美",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "田平天主堂",
+    "activity": "赤レンガの美しい建築を愛でる",
+    "time": "1時間",
+    "point": "重厚なレンガ造りとステンドグラスが秀逸",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "和多都美神社",
+    "activity": "海に沈む鳥居を拝む",
+    "time": "1時間",
+    "point": "対馬の神秘的な竜宮伝説が残るパワースポット",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "壱岐・猿岩",
+    "activity": "巨大な猿の奇岩と写真を撮る",
+    "time": "1時間",
+    "point": "自然が造り出した驚きのフォルムの巨大岩",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "野崎島（旧野首教会）",
+    "activity": "無人島の廃村集落を歩く",
+    "time": "1日",
+    "point": "人のいない島にポツンと建つ壮麗な教会",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "小島貝塚",
+    "activity": "古代の歴史に触れる",
+    "time": "1時間",
+    "point": "弥生時代の生活が垣間見える貴重な遺跡",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "有家 蔵めぐり",
+    "activity": "酒造りの街を散策する",
+    "time": "2時間",
+    "point": "明治・大正の蔵が立ち並ぶノスタルジックな街",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "七ツ釜鍾乳洞",
+    "activity": "神秘的な洞窟を探検する",
+    "time": "1時間",
+    "point": "大自然が造り出した美しい岩の造形美",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "大野の棚田",
+    "activity": "棚田の幾何学模様を見る",
+    "time": "1時間",
+    "point": "日本の棚田百選に選ばれた角力灘を望む絶景",
+    "season": "5月",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "眼鏡橋",
+    "activity": "ハートのストーンを探す",
+    "time": "1時間",
+    "point": "日本最古の石造りアーチ橋で記念撮影",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "崇福寺",
+    "activity": "唐寺の豪華な建築を観る",
+    "time": "1時間",
+    "point": "中国様式の美しい国宝・三門が印象的",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "日本二十六聖人記念館",
+    "activity": "殉教の歴史を学ぶ",
+    "time": "1時間",
+    "point": "西坂の丘に建つ深い信仰と歴史の地",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "稲佐山スロープカー",
+    "activity": "最新デザインの車両で登る",
+    "time": "1時間",
+    "point": "フェラーリ等のデザイナーが手掛けた車両",
+    "season": "通年",
+    "people": "2人"
+  },
+  {
+    "location": "長崎",
+    "place": "黒島天主堂",
+    "activity": "世界遺産の島で教会を巡る",
+    "time": "1日",
+    "point": "煉瓦造りの荘厳な教会が残る静かな島",
+    "season": "通年",
+    "people": "1人"
+  },
+  {
+    "location": "長崎",
+    "place": "PEACE STADIUM Connected by SoftBank",
+    "activity": "V・ファーレン長崎の試合観戦",
+    "time": "3時間",
+    "point": "2024年開業、日本一ピッチに近いスタジアム",
+    "season": "通年",
+    "people": "グループ"
+  },
+  {
+    "location": "長崎",
+    "place": "HAPPINESS ARENA",
+    "activity": "長崎ヴェルカの試合で熱狂する",
+    "time": "2時間",
+    "point": "最新鋭の演出でバスケの迫力を体感できる",
+    "season": "通年",
+    "people": "グループ"
   }
 ]
