@@ -436,6 +436,7 @@
         .tag:nth-child(1) { --tag-delay: 0s; }
         .tag:nth-child(2) { --tag-delay: 0.1s; }
         .tag:nth-child(3) { --tag-delay: 0.2s; }
+        .tag:nth-child(4) { --tag-delay: 0.3s; }
 
         @keyframes popIn {
             0% {
@@ -709,6 +710,7 @@
             <div class="card" id="main-card">
                 <!-- Front Face -->
                 <div class="card-face card-front">
+                    <!-- 1. 場所 -->
                     <div class="filter-group">
                         <label class="filter-label">場所</label>
                         <select id="location-filter">
@@ -763,6 +765,21 @@
                         </select>
                     </div>
 
+                    <!-- 2. カテゴリ -->
+                    <div class="filter-group">
+                        <label class="filter-label">カテゴリ</label>
+                        <select id="category-filter">
+                            <option value="">指定なし</option>
+                            <option value="自然">自然</option>
+                            <option value="歴史・文化">歴史・文化</option>
+                            <option value="スポーツ・レクリエーション">スポーツ・レクリエーション</option>
+                            <option value="アミューズメント">アミューズメント</option>
+                            <option value="宿泊・温泉">宿泊・温泉</option>
+                            <option value="グルメ">グルメ</option>
+                        </select>
+                    </div>
+
+                    <!-- 3. 時間 -->
                     <div class="filter-group">
                         <label class="filter-label">時間</label>
                         <select id="time-filter">
@@ -775,6 +792,7 @@
                         </select>
                     </div>
 
+                    <!-- 4. 人数 -->
                     <div class="filter-group">
                         <label class="filter-label">人数</label>
                         <select id="people-filter">
@@ -785,11 +803,11 @@
                         </select>
                     </div>
 
+                    <!-- 5. 季節 -->
                     <div class="filter-group">
                         <label class="filter-label">季節</label>
                         <select id="season-filter">
                             <option value="">指定なし</option>
-                            <option value="年始">年始</option>
                             <option value="春">春</option>
                             <option value="夏">夏</option>
                             <option value="秋">秋</option>
@@ -843,27 +861,27 @@
 
         // デフォルトデータ（JSONファイルが読み込めない場合のフォールバック）
         const defaultActivities = [
-            { location: "東京", place: "皇居東御苑", activity: "江戸城の歴史を感じながら散策", time: "2時間", point: "無料で入れる日本庭園の美しさ", season: "通年", people: "1人" },
-            { location: "東京", place: "代々木公園", activity: "ピクニック", time: "半日", point: "都会のオアシスで自然を満喫", season: "春", people: "2人" },
-            { location: "神奈川", place: "鎌倉", activity: "寺社巡り", time: "1日", point: "歴史と自然が融合した古都", season: "通年", people: "2人" },
-            { location: "東京", place: "浅草", activity: "雷門から仲見世通りを散策", time: "2時間", point: "下町の風情と伝統工芸品", season: "通年", people: "2人" },
-            { location: "神奈川", place: "江ノ島", activity: "海を見ながらカフェでのんびり", time: "半日", point: "湘南の海風を感じる癒しスポット", season: "夏", people: "2人" },
-            { location: "東京", place: "上野公園", activity: "美術館巡り", time: "半日", point: "多彩な文化施設が集まるエリア", season: "通年", people: "1人" },
-            { location: "千葉", place: "谷津干潟", activity: "バードウォッチング", time: "2時間", point: "都会の近くで野鳥観察", season: "春", people: "1人" },
-            { location: "埼玉", place: "川越", activity: "蔵造りの街並み散策", time: "半日", point: "小江戸の雰囲気を楽しむ", season: "通年", people: "2人" },
-            { location: "東京", place: "お台場", activity: "海浜公園で夕日鑑賞", time: "2時間", point: "東京湾の美しい夕景", season: "通年", people: "2人" },
-            { location: "神奈川", place: "横浜赤レンガ倉庫", activity: "ショッピングとグルメ", time: "半日", point: "歴史的建造物でおしゃれな時間", season: "通年", people: "2人" },
-            { location: "東京", place: "明治神宮", activity: "神社参拝と森林浴", time: "1時間", point: "都心の静寂なパワースポット", season: "通年", people: "1人" },
-            { location: "千葉", place: "房総半島", activity: "海岸ドライブ", time: "1日", point: "太平洋の絶景を楽しむ", season: "夏", people: "2人" },
-            { location: "埼玉", place: "秩父", activity: "温泉とグルメ", time: "1日", point: "自然豊かな癒しの温泉地", season: "冬", people: "2人" },
-            { location: "東京", place: "東京タワー", activity: "展望台から夜景鑑賞", time: "2時間", point: "東京の象徴から見る絶景", season: "通年", people: "2人" },
-            { location: "神奈川", place: "箱根", activity: "美術館巡りと温泉", time: "1日", point: "アートと自然の融合", season: "通年", people: "2人" },
-            { location: "愛知", place: "名古屋城", activity: "金のシャチホコと天守閣見学", time: "2時間", point: "名古屋のシンボル的存在", season: "通年", people: "2人" },
-            { location: "愛知", place: "熱田神宮", activity: "三種の神器を祀る神社参拝", time: "1時間", point: "伊勢神宮に次ぐ格式高い神社", season: "通年", people: "2人" },
-            { location: "大阪", place: "大阪城", activity: "天守閣と歴史博物館見学", time: "2時間", point: "豊臣秀吉ゆかりの名城", season: "通年", people: "2人" },
-            { location: "大阪", place: "道頓堀", activity: "たこ焼き・お好み焼き食べ歩き", time: "2時間", point: "大阪のグルメとネオンの街", season: "通年", people: "グループ" },
-            { location: "福岡", place: "太宰府天満宮", activity: "学問の神様に参拝", time: "2時間", point: "菅原道真公を祀る由緒ある神社", season: "通年", people: "2人" },
-            { location: "福岡", place: "福岡タワー", activity: "展望台から博多湾を一望", time: "1時間", point: "高さ234mの海浜タワー", season: "通年", people: "2人" }
+            { location: "東京", place: "皇居東御苑", activity: "江戸城の歴史を感じながら散策", time: "2時間", point: "無料で入れる日本庭園の美しさ", season: "通年", people: "1人", category: "歴史・文化" },
+            { location: "東京", place: "代々木公園", activity: "ピクニック", time: "半日", point: "都会のオアシスで自然を満喫", season: "春", people: "2人", category: "自然" },
+            { location: "神奈川", place: "鎌倉", activity: "寺社巡り", time: "1日", point: "歴史と自然が融合した古都", season: "通年", people: "2人", category: "歴史・文化" },
+            { location: "東京", place: "浅草", activity: "雷門から仲見世通りを散策", time: "2時間", point: "下町の風情と伝統工芸品", season: "通年", people: "2人", category: "歴史・文化" },
+            { location: "神奈川", place: "江ノ島", activity: "海を見ながらカフェでのんびり", time: "半日", point: "湘南の海風を感じる癒しスポット", season: "夏", people: "2人", category: "自然" },
+            { location: "東京", place: "上野公園", activity: "美術館巡り", time: "半日", point: "多彩な文化施設が集まるエリア", season: "通年", people: "1人", category: "歴史・文化" },
+            { location: "千葉", place: "谷津干潟", activity: "バードウォッチング", time: "2時間", point: "都会の近くで野鳥観察", season: "春", people: "1人", category: "自然" },
+            { location: "埼玉", place: "川越", activity: "蔵造りの街並み散策", time: "半日", point: "小江戸の雰囲気を楽しむ", season: "通年", people: "2人", category: "歴史・文化" },
+            { location: "東京", place: "お台場", activity: "海浜公園で夕日鑑賞", time: "2時間", point: "東京湾の美しい夕景", season: "通年", people: "2人", category: "アミューズメント" },
+            { location: "神奈川", place: "横浜赤レンガ倉庫", activity: "ショッピングとグルメ", time: "半日", point: "歴史的建造物でおしゃれな時間", season: "通年", people: "2人", category: "グルメ" },
+            { location: "東京", place: "明治神宮", activity: "神社参拝と森林浴", time: "1時間", point: "都心の静寂なパワースポット", season: "通年", people: "1人", category: "歴史・文化" },
+            { location: "千葉", place: "房総半島", activity: "海岸ドライブ", time: "1日", point: "太平洋の絶景を楽しむ", season: "夏", people: "2人", category: "自然" },
+            { location: "埼玉", place: "秩父", activity: "温泉とグルメ", time: "1日", point: "自然豊かな癒しの温泉地", season: "冬", people: "2人", category: "宿泊・温泉" },
+            { location: "東京", place: "東京タワー", activity: "展望台から夜景鑑賞", time: "2時間", point: "東京の象徴から見る絶景", season: "通年", people: "2人", category: "アミューズメント" },
+            { location: "神奈川", place: "箱根", activity: "美術館巡りと温泉", time: "1日", point: "アートと自然の融合", season: "通年", people: "2人", category: "宿泊・温泉" },
+            { location: "愛知", place: "名古屋城", activity: "金のシャチホコと天守閣見学", time: "2時間", point: "名古屋のシンボル的存在", season: "通年", people: "2人", category: "歴史・文化" },
+            { location: "愛知", place: "熱田神宮", activity: "三種の神器を祀る神社参拝", time: "1時間", point: "伊勢神宮に次ぐ格式高い神社", season: "通年", people: "2人", category: "歴史・文化" },
+            { location: "大阪", place: "大阪城", activity: "天守閣と歴史博物館見学", time: "2時間", point: "豊臣秀吉ゆかりの名城", season: "通年", people: "2人", category: "歴史・文化" },
+            { location: "大阪", place: "道頓堀", activity: "たこ焼き・お好み焼き食べ歩き", time: "2時間", point: "大阪のグルメとネオンの街", season: "通年", people: "グループ", category: "グルメ" },
+            { location: "福岡", place: "太宰府天満宮", activity: "学問の神様に参拝", time: "2時間", point: "菅原道真公を祀る由緒ある神社", season: "通年", people: "2人", category: "歴史・文化" },
+            { location: "福岡", place: "福岡タワー", activity: "展望台から博多湾を一望", time: "1時間", point: "高さ234mの海浜タワー", season: "通年", people: "2人", category: "アミューズメント" }
         ];
 
         // データ読み込み関数
@@ -892,9 +910,10 @@
         const aiSearchBtn = document.getElementById('ai-search-btn');
         const loadingScreen = document.getElementById('loading-screen');
 
+        const locationFilter = document.getElementById('location-filter');
+        const categoryFilter = document.getElementById('category-filter');
         const timeFilter = document.getElementById('time-filter');
         const peopleFilter = document.getElementById('people-filter');
-        const locationFilter = document.getElementById('location-filter');
         const seasonFilter = document.getElementById('season-filter');
 
         const resultTitle = document.getElementById('result-title');
@@ -951,71 +970,77 @@
             window.open(perplexityUrl, '_blank');
         });
 
-        // 季節マッチング関数（年始は特別扱い）
+        // 季節マッチング関数
         const matchesSeason = (activitySeason, filterSeason) => {
             if (!filterSeason) return true; // 指定なしの場合は全てマッチ
-            
-            // 年始を選択した場合は、年始のみマッチ（通年を含めない）
-            if (filterSeason === '年始') {
-                return activitySeason === '年始';
-            }
-            
-            // その他の季節の場合は、通年も含める
             return activitySeason === filterSeason || activitySeason === '通年';
         };
 
         // 決めるボタン
         decideBtn.addEventListener('click', () => {
             const filters = {
+                location: locationFilter.value,
+                category: categoryFilter.value,
                 time: timeFilter.value,
                 people: peopleFilter.value,
-                location: locationFilter.value,
                 season: seasonFilter.value
             };
 
             // GA4イベント: 検索実行
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'search_activity', {
+                    location_filter: filters.location || '指定なし',
+                    category_filter: filters.category || '指定なし',
                     time_filter: filters.time || '指定なし',
                     people_filter: filters.people || '指定なし',
-                    location_filter: filters.location || '指定なし',
                     season_filter: filters.season || '指定なし'
                 });
             }
 
-            // ステップ1: すべての条件で完全一致（場所 + 時間 + 季節 + 人数）
+            // ステップ1: すべての条件で完全一致（場所 + カテゴリ + 時間 + 人数 + 季節）
             let filtered = activities.filter(activity => {
                 return (!filters.location || activity.location === filters.location) &&
+                       (!filters.category || activity.category === filters.category) &&
                        (!filters.time || activity.time === filters.time) &&
-                       matchesSeason(activity.season, filters.season) &&
-                       (!filters.people || activity.people === filters.people);
+                       (!filters.people || activity.people === filters.people) &&
+                       matchesSeason(activity.season, filters.season);
             });
 
-            // ステップ2: 場所 + 時間 + 季節（人数を除外）
+            // ステップ2: 場所 + カテゴリ + 時間 + 季節（人数を除外）
             if (filtered.length === 0 && filters.people) {
                 filtered = activities.filter(activity => {
                     return (!filters.location || activity.location === filters.location) &&
+                           (!filters.category || activity.category === filters.category) &&
                            (!filters.time || activity.time === filters.time) &&
                            matchesSeason(activity.season, filters.season);
                 });
             }
 
-            // ステップ3: 場所 + 時間（季節を除外）
+            // ステップ3: 場所 + カテゴリ + 時間（季節を除外）
             if (filtered.length === 0 && filters.season) {
                 filtered = activities.filter(activity => {
                     return (!filters.location || activity.location === filters.location) &&
+                           (!filters.category || activity.category === filters.category) &&
                            (!filters.time || activity.time === filters.time);
                 });
             }
 
-            // ステップ4: 場所のみ（時間を除外）
+            // ステップ4: 場所 + カテゴリ（時間を除外）
             if (filtered.length === 0 && filters.time) {
+                filtered = activities.filter(activity => {
+                    return (!filters.location || activity.location === filters.location) &&
+                           (!filters.category || activity.category === filters.category);
+                });
+            }
+
+            // ステップ5: 場所のみ（カテゴリを除外）
+            if (filtered.length === 0 && filters.category) {
                 filtered = activities.filter(activity => 
                     !filters.location || activity.location === filters.location
                 );
             }
 
-            // ステップ5: すべてから選択
+            // ステップ6: すべてから選択
             if (filtered.length === 0) {
                 filtered = activities;
             }
@@ -1028,6 +1053,7 @@
                 gtag('event', 'spot_selected', {
                     spot_name: selected.place,
                     location: selected.location,
+                    category: selected.category,
                     activity: selected.activity,
                     time: selected.time,
                     people: selected.people,
@@ -1051,6 +1077,19 @@
             }, 600);
         });
 
+        // カテゴリアイコンを取得する関数
+        function getCategoryIcon(category) {
+            const icons = {
+                '自然': '🌿',
+                '歴史・文化': '🏛️',
+                'スポーツ・レクリエーション': '⚽',
+                'アミューズメント': '🎡',
+                '宿泊・温泉': '♨️',
+                'グルメ': '🍴'
+            };
+            return icons[category] || '📍';
+        }
+
         // 結果表示
         function displayResult(activity) {
             currentResult = activity;
@@ -1064,6 +1103,7 @@
                 <span class="tag">⏱️ ${activity.time}</span>
                 <span class="tag">👥 ${activity.people}</span>
                 <span class="tag">🌸 ${activity.season}</span>
+                <span class="tag">${getCategoryIcon(activity.category)} ${activity.category}</span>
             `;
         }
 
