@@ -933,26 +933,6 @@
 
         let currentResult = null;
 
-        // メタタグを動的に更新
-        function updateMetaTags(spot) {
-            if (!spot) return;
-            
-            // タイトル更新
-            document.title = `${spot.place}（${spot.location}）- 今日なにする？`;
-            
-            // description更新
-            const description = `${spot.location}の${spot.place}で「${spot.activity}」。${spot.point}。所要時間：${spot.time}、人数：${spot.people}、季節：${spot.season}、カテゴリ：${spot.category}`;
-            document.querySelector('meta[name="description"]')?.setAttribute('content', description);
-            
-            // OGタグ更新
-            document.querySelector('meta[property="og:title"]')?.setAttribute('content', `${spot.place}（${spot.location}）- 今日なにする？`);
-            document.querySelector('meta[property="og:description"]')?.setAttribute('content', description);
-            document.querySelector('meta[property="og:url"]')?.setAttribute('content', `https://seisaily.com/s/${encodeURIComponent(spot.place)}`);
-            
-            // canonical更新
-            document.querySelector('link[rel="canonical"]')?.setAttribute('href', `https://seisaily.com/s/${encodeURIComponent(spot.place)}`);
-        }
-
         // カードの高さを動的に調整
         function updateCardHeight() {
             const card = document.getElementById('main-card');
@@ -973,60 +953,8 @@
             await loadActivities();
             loadingScreen.classList.add('hidden');
             
-            // URLパスからスポット情報を取得
-            const path = window.location.pathname;
-            
-            // /s/ 単独の場合を先にチェック
-            if (path === '/s' || path === '/s/') {
-                // おまかせ機能（ランダムスポット）
-                const randomSpot = activities[Math.floor(Math.random() * activities.length)];
-                currentResult = randomSpot;
-                displayResult(randomSpot);
-                
-                // おまかせ用のメタタグ
-                document.title = 'おまかせでおすすめ - 今日なにする？';
-                document.querySelector('meta[name="description"]')?.setAttribute('content', `ランダムに選んだおすすめスポット「${randomSpot.place}」。新しい発見があるかも！`);
-                document.querySelector('meta[property="og:title"]')?.setAttribute('content', 'おまかせでおすすめ - 今日なにする？');
-                document.querySelector('meta[property="og:description"]')?.setAttribute('content', `ランダムに選んだおすすめスポット。新しい発見があるかも！`);
-                document.querySelector('meta[property="og:url"]')?.setAttribute('content', 'https://seisaily.com/s/');
-                document.querySelector('link[rel="canonical"]')?.setAttribute('href', 'https://seisaily.com/s/');
-                
-                mainCard.classList.add('flipped');
-                
-                // 初期カード高さを設定（フリップ後）
-                setTimeout(() => {
-                    updateCardHeight();
-                }, 100);
-            } else {
-                // /s/浅草 のようなURL
-                const match = path.match(/^\/s\/(.+)$/);
-                
-                if (match) {
-                    const spotName = decodeURIComponent(match[1]);
-                    const spot = activities.find(a => a.place === spotName);
-                    
-                    if (spot) {
-                        // スポットが見つかった場合
-                        currentResult = spot;
-                        displayResult(spot);
-                        updateMetaTags(spot);
-                        mainCard.classList.add('flipped');
-                        
-                        // 初期カード高さを設定（フリップ後）
-                        setTimeout(() => {
-                            updateCardHeight();
-                        }, 100);
-                    } else {
-                        // スポットが見つからない場合はトップページへ
-                        history.replaceState(null, null, '/');
-                        updateCardHeight();
-                    }
-                } else {
-                    // 通常のトップページ
-                    // 初期カード高さを設定
-                    updateCardHeight();
-                }
-            }
+            // 初期カード高さを設定
+            updateCardHeight();
             
             // ウィンドウリサイズ時も高さを再計算
             window.addEventListener('resize', updateCardHeight);
@@ -1181,13 +1109,6 @@ aiSearchBtn.addEventListener('click', () => {
                 decideBtn.disabled = false;
                 decideBtn.textContent = '決める';
                 
-                // URLを変更（/s/スポット名）
-                const newUrl = `/s/${encodeURIComponent(selected.place)}`;
-                window.history.pushState({ spot: selected.place }, '', newUrl);
-                
-                // メタタグを更新
-                updateMetaTags(selected);
-                
                 // カード高さを更新
                 setTimeout(updateCardHeight, 50);
             }, 600);
@@ -1234,75 +1155,12 @@ aiSearchBtn.addEventListener('click', () => {
             
             mainCard.classList.remove('flipped');
             
-            // URLをトップページに戻す
-            window.history.pushState(null, '', '/');
-            
-            // メタタグをデフォルトに戻す
-            document.title = '今日なにする？|悩まず予定が決まる！';
-            document.querySelector('meta[name="description"]')?.setAttribute('content', '今日暇で何するかが決まらないあなたへ。時間・気分・場所を入力するだけで、今できる予定やお出かけプランを即提案する無料サービス。');
-            document.querySelector('meta[property="og:title"]')?.setAttribute('content', '今日なにする？ | 悩まず予定が決まる！');
-            document.querySelector('meta[property="og:description"]')?.setAttribute('content', '今日暇で何するかが決まらないあなたへ。時間・気分・場所を入力するだけで、今できるお出かけプランを即提案する無料サービス。');
-            document.querySelector('meta[property="og:url"]')?.setAttribute('content', 'https://seisaily.com/');
-            document.querySelector('link[rel="canonical"]')?.setAttribute('href', 'https://seisaily.com/');
-            
             // カード高さを更新
             setTimeout(updateCardHeight, 50);
         });
 
         // 初期化実行
         initialize();
-
-        // ブラウザの戻る/進むボタン対応
-        window.addEventListener('popstate', async function(event) {
-            const path = window.location.pathname;
-            
-            // /s/ 単独の場合を先にチェック
-            if (path === '/s' || path === '/s/') {
-                // おまかせ機能（ランダムスポット）
-                const randomSpot = activities[Math.floor(Math.random() * activities.length)];
-                currentResult = randomSpot;
-                displayResult(randomSpot);
-                
-                // おまかせ用のメタタグ
-                document.title = 'おまかせでおすすめ - 今日なにする？';
-                document.querySelector('meta[name="description"]')?.setAttribute('content', `ランダムに選んだおすすめスポット「${randomSpot.place}」。新しい発見があるかも！`);
-                
-                if (!mainCard.classList.contains('flipped')) {
-                    mainCard.classList.add('flipped');
-                    setTimeout(updateCardHeight, 50);
-                }
-            } else {
-                // /s/浅草 のようなURL
-                const match = path.match(/^\/s\/(.+)$/);
-                
-                if (match) {
-                    const spotName = decodeURIComponent(match[1]);
-                    const spot = activities.find(a => a.place === spotName);
-                    
-                    if (spot) {
-                        currentResult = spot;
-                        displayResult(spot);
-                        updateMetaTags(spot);
-                        if (!mainCard.classList.contains('flipped')) {
-                            mainCard.classList.add('flipped');
-                            setTimeout(updateCardHeight, 50);
-                        }
-                    }
-                } else {
-                    // トップページに戻った
-                    if (mainCard.classList.contains('flipped')) {
-                        mainCard.classList.remove('flipped');
-                        setTimeout(updateCardHeight, 50);
-                    }
-                    
-                    // メタタグをデフォルトに戻す
-                    document.title = '今日なにする？|悩まず予定が決まる！';
-                    document.querySelector('meta[name="description"]')?.setAttribute('content', '今日暇で何するかが決まらないあなたへ。時間・気分・場所を入力するだけで、今できる予定やお出かけプランを即提案する無料サービス。');
-                    document.querySelector('meta[property="og:url"]')?.setAttribute('content', 'https://seisaily.com/');
-                    document.querySelector('link[rel="canonical"]')?.setAttribute('href', 'https://seisaily.com/');
-                }
-            }
-        });
     </script>
 </body>
 </html>
