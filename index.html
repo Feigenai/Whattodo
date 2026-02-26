@@ -50,7 +50,7 @@
             color: #1A1A1A;
         }
 
-        /* Ad Banner - 絶対に変更されない固定表示 */
+        /* Ad Banner */
         .ad-banner {
             position: fixed !important;
             top: 0 !important;
@@ -189,7 +189,6 @@
             transform: rotateY(180deg);
         }
 
-        /* パーティクルエフェクト */
         .card.flipped::before,
         .card.flipped::after {
             content: '';
@@ -210,17 +209,9 @@
         }
 
         @keyframes particle {
-            0% {
-                opacity: 1;
-                transform: translate(-50%, -50%) scale(0);
-            }
-            50% {
-                opacity: 1;
-            }
-            100% {
-                opacity: 0;
-                transform: translate(calc(-50% + 100px), calc(-50% - 100px)) scale(3);
-            }
+            0% { opacity: 1; transform: translate(-50%, -50%) scale(0); }
+            50% { opacity: 1; }
+            100% { opacity: 0; transform: translate(calc(-50% + 100px), calc(-50% - 100px)) scale(3); }
         }
 
         .card-face {
@@ -323,17 +314,9 @@
         }
 
         @keyframes titleReveal {
-            0% {
-                opacity: 0;
-                transform: scale(0.3) rotate(-15deg);
-            }
-            50% {
-                transform: scale(1.1) rotate(5deg);
-            }
-            100% {
-                opacity: 1;
-                transform: scale(1) rotate(0deg);
-            }
+            0% { opacity: 0; transform: scale(0.3) rotate(-15deg); }
+            50% { transform: scale(1.1) rotate(5deg); }
+            100% { opacity: 1; transform: scale(1) rotate(0deg); }
         }
 
         .result-location {
@@ -346,14 +329,8 @@
         }
 
         @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
         }
 
         .result-section {
@@ -366,23 +343,12 @@
             animation-delay: calc(0.5s + var(--delay, 0s));
         }
 
-        .result-section:nth-of-type(1) {
-            --delay: 0s;
-        }
-
-        .result-section:nth-of-type(2) {
-            --delay: 0.15s;
-        }
+        .result-section:nth-of-type(1) { --delay: 0s; }
+        .result-section:nth-of-type(2) { --delay: 0.15s; }
 
         @keyframes slideInLeft {
-            from {
-                opacity: 0;
-                transform: translateX(-50px) scale(0.9);
-            }
-            to {
-                opacity: 1;
-                transform: translateX(0) scale(1);
-            }
+            from { opacity: 0; transform: translateX(-50px) scale(0.9); }
+            to { opacity: 1; transform: translateX(0) scale(1); }
         }
 
         .result-section-title {
@@ -395,12 +361,8 @@
         }
 
         @keyframes fadeIn {
-            from {
-                opacity: 0;
-            }
-            to {
-                opacity: 1;
-            }
+            from { opacity: 0; }
+            to { opacity: 1; }
         }
 
         .result-section-content {
@@ -439,17 +401,9 @@
         .tag:nth-child(4) { --tag-delay: 0.3s; }
 
         @keyframes popIn {
-            0% {
-                opacity: 0;
-                transform: scale(0) rotate(-180deg);
-            }
-            50% {
-                transform: scale(1.2) rotate(10deg);
-            }
-            100% {
-                opacity: 1;
-                transform: scale(1) rotate(0deg);
-            }
+            0% { opacity: 0; transform: scale(0) rotate(-180deg); }
+            50% { transform: scale(1.2) rotate(10deg); }
+            100% { opacity: 1; transform: scale(1) rotate(0deg); }
         }
 
         .tag:hover {
@@ -494,20 +448,10 @@
         }
 
         @keyframes bounceIn {
-            0% {
-                opacity: 0;
-                transform: scale(0.3) translateY(50px);
-            }
-            50% {
-                transform: scale(1.05) translateY(-10px);
-            }
-            70% {
-                transform: scale(0.95) translateY(5px);
-            }
-            100% {
-                opacity: 1;
-                transform: scale(1) translateY(0);
-            }
+            0% { opacity: 0; transform: scale(0.3) translateY(50px); }
+            50% { transform: scale(1.05) translateY(-10px); }
+            70% { transform: scale(0.95) translateY(5px); }
+            100% { opacity: 1; transform: scale(1) translateY(0); }
         }
 
         .ai-search-button:hover {
@@ -524,9 +468,7 @@
             margin: 0 auto;
         }
 
-        .footer-links {
-            margin-bottom: 12px;
-        }
+        .footer-links { margin-bottom: 12px; }
 
         .footer-links a {
             color: white;
@@ -547,136 +489,211 @@
             font-weight: 500;
         }
 
+        /* =====================================================
+           アプリ訴求ポップアップ
+           ===================================================== */
+        .app-promo-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.55);
+            z-index: 2000;
+            display: flex;
+            align-items: flex-end; /* 画面下から出現 */
+            justify-content: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
+
+        .app-promo-overlay.visible {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .app-promo-sheet {
+            width: 100%;
+            max-width: 480px;
+            background: #F5F0EB;
+            border-radius: 28px 28px 0 0;
+            padding: 8px 24px 40px 24px;
+            transform: translateY(100%);
+            transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+            box-shadow: 0 -8px 40px rgba(0, 0, 0, 0.15);
+        }
+
+        .app-promo-overlay.visible .app-promo-sheet {
+            transform: translateY(0);
+        }
+
+        /* ドラッグハンドル */
+        .app-promo-handle {
+            width: 40px;
+            height: 4px;
+            background: #D4C4B4;
+            border-radius: 2px;
+            margin: 0 auto 20px auto;
+        }
+
+        /* バッジ行 */
+        .app-promo-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: #FFF3EF;
+            border: 1.5px solid #F0927E;
+            border-radius: 20px;
+            padding: 4px 12px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            color: #E88B77;
+            margin-bottom: 14px;
+        }
+
+        /* タイトル */
+        .app-promo-title {
+            font-size: 1.375rem;
+            font-weight: 900;
+            color: #1A1A1A;
+            line-height: 1.4;
+            margin-bottom: 6px;
+        }
+
+        .app-promo-title span {
+            color: #E88B77;
+        }
+
+        /* サブテキスト */
+        .app-promo-sub {
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: #666;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        /* メリットリスト */
+        .app-promo-features {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 24px;
+        }
+
+        .app-promo-feature {
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            background: white;
+            border-radius: 14px;
+            padding: 12px 14px;
+            border: 1.5px solid #EFE4DC;
+        }
+
+        .app-promo-feature-icon {
+            font-size: 1.375rem;
+            line-height: 1;
+            flex-shrink: 0;
+            margin-top: 1px;
+        }
+
+        .app-promo-feature-text {
+            flex: 1;
+        }
+
+        .app-promo-feature-title {
+            font-size: 0.9375rem;
+            font-weight: 700;
+            color: #1A1A1A;
+            margin-bottom: 2px;
+        }
+
+        .app-promo-feature-desc {
+            font-size: 0.8125rem;
+            font-weight: 500;
+            color: #888;
+            line-height: 1.5;
+        }
+
+        /* ボタン群 */
+        .app-promo-cta {
+            width: 100%;
+            padding: 15px;
+            border: none;
+            border-radius: 20px;
+            background: #F0927E;
+            color: white;
+            font-size: 1.0625rem;
+            font-weight: 800;
+            font-family: 'Noto Sans JP', sans-serif;
+            cursor: pointer;
+            box-shadow: 0 6px 20px rgba(240, 146, 126, 0.45);
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            margin-bottom: 10px;
+        }
+
+        .app-promo-cta:hover {
+            background: #E88B77;
+            transform: translateY(-2px);
+        }
+
+        .app-promo-skip {
+            width: 100%;
+            padding: 12px;
+            border: none;
+            background: transparent;
+            font-size: 0.9375rem;
+            font-weight: 600;
+            font-family: 'Noto Sans JP', sans-serif;
+            color: #AAA;
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+
+        .app-promo-skip:hover {
+            color: #888;
+        }
+
         /* Responsive */
         @media (max-width: 420px) {
-            .title-text,
-            .title-highlight {
-                font-size: 1.75rem;
-            }
-
-            .subtitle {
-                font-size: 0.8125rem;
-            }
-            
-            .card-face {
-                padding: 20px 18px 24px 18px;
-            }
-            
-            .result-title {
-                font-size: 2rem;
-            }
-
-            .filter-group {
-                margin-bottom: 10px;
-            }
-
-            .filter-label {
-                font-size: 0.9375rem;
-                margin-bottom: 5px;
-            }
-
-            select {
-                padding: 9px 16px;
-                font-size: 0.875rem;
-            }
-
-            .decide-button {
-                padding: 11px;
-                font-size: 1.0625rem;
-            }
-
-            .container {
-                padding-top: 80px !important;
-                padding-left: 16px;
-                padding-right: 16px;
-                padding-bottom: 0;
-            }
-
-            header {
-                margin-bottom: 16px;
-            }
-
-            .title-container {
-                margin-bottom: 10px;
-            }
-
-            footer {
-                padding: 16px 16px 32px 16px;
-            }
-
-            .footer-links a {
-                font-size: 0.8125rem;
-            }
-
-            .footer-copyright {
-                font-size: 0.75rem;
-            }
+            .title-text, .title-highlight { font-size: 1.75rem; }
+            .subtitle { font-size: 0.8125rem; }
+            .card-face { padding: 20px 18px 24px 18px; }
+            .result-title { font-size: 2rem; }
+            .filter-group { margin-bottom: 10px; }
+            .filter-label { font-size: 0.9375rem; margin-bottom: 5px; }
+            select { padding: 9px 16px; font-size: 0.875rem; }
+            .decide-button { padding: 11px; font-size: 1.0625rem; }
+            .container { padding-top: 80px !important; padding-left: 16px; padding-right: 16px; padding-bottom: 0; }
+            header { margin-bottom: 16px; }
+            .title-container { margin-bottom: 10px; }
+            footer { padding: 16px 16px 32px 16px; }
+            .footer-links a { font-size: 0.8125rem; }
+            .footer-copyright { font-size: 0.75rem; }
+            .app-promo-sheet { padding: 8px 20px 32px 20px; }
         }
 
         @media (max-height: 700px) {
-            .filter-group {
-                margin-bottom: 10px;
-            }
-
-            .filter-label {
-                font-size: 0.9375rem;
-                margin-bottom: 5px;
-            }
-
-            select {
-                padding: 9px 16px;
-            }
-
-            .decide-button {
-                padding: 11px;
-                margin-top: 6px;
-            }
-
-            header {
-                margin-bottom: 16px;
-            }
-
-            .card-face {
-                padding: 20px 18px 24px 18px;
-            }
+            .filter-group { margin-bottom: 10px; }
+            .filter-label { font-size: 0.9375rem; margin-bottom: 5px; }
+            select { padding: 9px 16px; }
+            .decide-button { padding: 11px; margin-top: 6px; }
+            header { margin-bottom: 16px; }
+            .card-face { padding: 20px 18px 24px 18px; }
         }
 
         @media (max-height: 650px) {
-            .title-text,
-            .title-highlight {
-                font-size: 1.75rem;
-            }
-
-            .subtitle {
-                font-size: 0.8125rem;
-            }
-
-            .filter-group {
-                margin-bottom: 8px;
-            }
-
-            .filter-label {
-                font-size: 0.875rem;
-                margin-bottom: 4px;
-            }
-
-            select {
-                padding: 8px 14px;
-                font-size: 0.875rem;
-            }
-
-            .decide-button {
-                padding: 10px;
-                font-size: 1rem;
-            }
-
-            header {
-                margin-bottom: 12px;
-            }
-
-            .card-face {
-                padding: 18px 16px 20px 16px;
-            }
+            .title-text, .title-highlight { font-size: 1.75rem; }
+            .subtitle { font-size: 0.8125rem; }
+            .filter-group { margin-bottom: 8px; }
+            .filter-label { font-size: 0.875rem; margin-bottom: 4px; }
+            select { padding: 8px 14px; font-size: 0.875rem; }
+            .decide-button { padding: 10px; font-size: 1rem; }
+            header { margin-bottom: 12px; }
+            .card-face { padding: 18px 16px 20px 16px; }
         }
     </style>
 </head>
@@ -688,7 +705,7 @@
         <div class="loading-subtext">アクティビティデータを準備しています</div>
     </div>
 
-    <!-- 👇 AdSense バナー広告エリア（絶対に変更されない固定表示） -->
+    <!-- AdSense バナー広告 -->
     <div class="ad-banner">
         <ins class="adsbygoogle"
              style="display:inline-block;width:320px;height:50px"
@@ -710,7 +727,6 @@
             <div class="card" id="main-card">
                 <!-- Front Face -->
                 <div class="card-face card-front">
-                    <!-- 1. 場所 -->
                     <div class="filter-group">
                         <label class="filter-label">場所</label>
                         <select id="location-filter">
@@ -765,7 +781,6 @@
                         </select>
                     </div>
 
-                    <!-- 2. カテゴリ -->
                     <div class="filter-group">
                         <label class="filter-label">カテゴリ</label>
                         <select id="category-filter">
@@ -779,7 +794,6 @@
                         </select>
                     </div>
 
-                    <!-- 3. 時間 -->
                     <div class="filter-group">
                         <label class="filter-label">時間</label>
                         <select id="time-filter">
@@ -792,7 +806,6 @@
                         </select>
                     </div>
 
-                    <!-- 4. 人数 -->
                     <div class="filter-group">
                         <label class="filter-label">人数</label>
                         <select id="people-filter">
@@ -803,7 +816,6 @@
                         </select>
                     </div>
 
-                    <!-- 5. 季節 -->
                     <div class="filter-group">
                         <label class="filter-label">季節</label>
                         <select id="season-filter">
@@ -845,12 +857,60 @@
 
     <footer>
         <div class="footer-links">
+            <a href="terms-of-service.html">利用規約</a><br>
             <a href="privacy-policy.html">プライバシーポリシー</a>
         </div>
         <div class="footer-copyright">
             © seisaily.com
         </div>
     </footer>
+
+    <!-- =====================================================
+         アプリ訴求ポップアップ（Androidブラウザ専用）
+         ===================================================== -->
+    <div class="app-promo-overlay" id="app-promo-overlay" role="dialog" aria-modal="true" aria-label="アプリのご案内">
+        <div class="app-promo-sheet" id="app-promo-sheet">
+            <div class="app-promo-handle"></div>
+
+            <div class="app-promo-badge">
+                <span>🗺️</span>
+                <span>Google マップ連携</span>
+            </div>
+
+            <h2 class="app-promo-title">アプリならもっと<span>スムーズ</span>に<br>お出かけできる！</h2>
+            <p class="app-promo-sub">スポットが決まったら、ワンタップで<br>Google マップに移動できます。</p>
+
+            <div class="app-promo-features">
+                <div class="app-promo-feature">
+                    <div class="app-promo-feature-icon">📍</div>
+                    <div class="app-promo-feature-text">
+                        <div class="app-promo-feature-title">Google マップに即ジャンプ</div>
+                        <div class="app-promo-feature-desc">ルート・営業時間・口コミをすぐ確認。アプリ切り替え不要。</div>
+                    </div>
+                </div>
+                <div class="app-promo-feature">
+                    <div class="app-promo-feature-icon">⚡</div>
+                    <div class="app-promo-feature-text">
+                        <div class="app-promo-feature-title">サクサク動作</div>
+                        <div class="app-promo-feature-desc">ネイティブアプリで読み込みが速い。外出先でもストレスなし。</div>
+                    </div>
+                </div>
+                <div class="app-promo-feature">
+                    <div class="app-promo-feature-icon">📱</div>
+                    <div class="app-promo-feature-text">
+                        <div class="app-promo-feature-title">ホーム画面からすぐ起動</div>
+                        <div class="app-promo-feature-desc">「今日暇！」と思ったらワンタップで開ける。</div>
+                    </div>
+                </div>
+            </div>
+
+            <button class="app-promo-cta" id="app-promo-cta-btn">
+                <span>📲</span>
+                <span>無料アプリをインストール</span>
+            </button>
+            <button class="app-promo-skip" id="app-promo-skip-btn">このままブラウザで続ける</button>
+        </div>
+    </div>
 
     <script>
         // AdSense広告の初期化
@@ -865,10 +925,84 @@
             }
         })();
 
-        // アクティビティデータベース（非同期読み込み）
+        // =====================================================
+        // アプリ訴求ポップアップ制御
+        // =====================================================
+        const AppPromo = (() => {
+            const STORAGE_KEY = 'app_promo_shown_count';
+            const MAX_SHOW_COUNT = 3; // 合計3回まで表示
+
+            // Android判定（WebViewは除く、Instagram内ブラウザは含む）
+            function isAndroidBrowser() {
+                const ua = navigator.userAgent;
+                const isAndroid = /Android/i.test(ua);
+                if (!isAndroid) return false;
+
+                // 純粋なWebViewのみ除外（wv フラグ、かつInstagramでない）
+                const isInstagram = /Instagram/i.test(ua);
+                const isNativeWebView = /wv\b/.test(ua) && !isInstagram;
+
+                return !isNativeWebView;
+            }
+
+            function getShowCount() {
+                return parseInt(localStorage.getItem(STORAGE_KEY) || '0', 10);
+            }
+
+            function incrementShowCount() {
+                localStorage.setItem(STORAGE_KEY, String(getShowCount() + 1));
+            }
+
+            function shouldShow() {
+                return isAndroidBrowser() && getShowCount() < MAX_SHOW_COUNT;
+            }
+
+            const overlay = document.getElementById('app-promo-overlay');
+
+            function show() {
+                if (!shouldShow()) return;
+                // 次フレームで表示してCSSトランジションを効かせる
+                requestAnimationFrame(() => {
+                    overlay.classList.add('visible');
+                });
+                incrementShowCount();
+
+                // GA4イベント
+                if (typeof gtag !== 'undefined') {
+                    gtag('event', 'app_promo_shown', {
+                        show_count: getShowCount()
+                    });
+                }
+            }
+
+            function hide() {
+                overlay.classList.remove('visible');
+            }
+
+            // オーバーレイ背景タップで閉じる
+            overlay.addEventListener('click', (e) => {
+                if (e.target === overlay) hide();
+            });
+
+            // スワイプダウンで閉じる
+            let touchStartY = 0;
+            const sheet = document.getElementById('app-promo-sheet');
+            sheet.addEventListener('touchstart', (e) => {
+                touchStartY = e.touches[0].clientY;
+            }, { passive: true });
+            sheet.addEventListener('touchend', (e) => {
+                const diff = e.changedTouches[0].clientY - touchStartY;
+                if (diff > 60) hide(); // 60px以上下にスワイプで閉じる
+            }, { passive: true });
+
+            return { show, hide };
+        })();
+
+        // =====================================================
+        // アクティビティデータベース
+        // =====================================================
         let activities = [];
 
-        // デフォルトデータ（JSONファイルが読み込めない場合のフォールバック）
         const defaultActivities = [
             { location: "東京", place: "皇居東御苑", activity: "江戸城の歴史を感じながら散策", time: "2時間", point: "無料で入れる日本庭園の美しさ", season: "通年", people: "1人", category: "歴史・文化" },
             { location: "東京", place: "代々木公園", activity: "ピクニック", time: "半日", point: "都会のオアシスで自然を満喫", season: "春", people: "2人", category: "自然" },
@@ -893,12 +1027,9 @@
             { location: "福岡", place: "福岡タワー", activity: "展望台から博多湾を一望", time: "1時間", point: "高さ234mの海浜タワー", season: "通年", people: "2人", category: "アミューズメント" }
         ];
 
-        // データ読み込み関数
         async function loadActivities() {
             try {
                 const response = await fetch('./activities.json');
-                
-                // 304もOKとして扱う
                 if (response.ok || response.status === 304) {
                     const data = await response.json();
                     activities = data;
@@ -933,87 +1064,65 @@
 
         let currentResult = null;
 
-        // カードの高さを動的に調整
         function updateCardHeight() {
             const card = document.getElementById('main-card');
             const frontFace = card.querySelector('.card-front');
             const backFace = card.querySelector('.card-back');
-            
             if (card.classList.contains('flipped')) {
-                // 裏面の高さを取得
                 card.style.height = backFace.offsetHeight + 'px';
             } else {
-                // 表面の高さを取得
                 card.style.height = frontFace.offsetHeight + 'px';
             }
         }
 
-        // 初期化
         async function initialize() {
             await loadActivities();
             loadingScreen.classList.add('hidden');
-            
-            // 初期カード高さを設定
             updateCardHeight();
-            
-            // ウィンドウリサイズ時も高さを再計算
             window.addEventListener('resize', updateCardHeight);
         }
 
         // アプリ内かWebかを判定
-const isInApp = /wv|WebView/i.test(navigator.userAgent);
+        const isInApp = /wv|WebView/i.test(navigator.userAgent);
 
-// ボタンのテキストを変更
-if (isInApp) {
-    aiSearchBtn.textContent = 'Google Mapで開く';
-} else {
-    aiSearchBtn.textContent = 'AIで詳しく調べる';
-}
-
-// ボタンクリック時の処理
-aiSearchBtn.addEventListener('click', () => {
-    if (!currentResult) return;
-
-    if (isInApp) {
-        // アプリ内：Google Map で開く
-        const mapQuery = encodeURIComponent(`${currentResult.place} ${currentResult.location}`);
-        const mapUrl = `https://www.google.com/maps/search/?api=1&query=${mapQuery}`;
-        
-        // GA4イベント: Google Map クリック
-        if (typeof gtag !== 'undefined') {
-            gtag('event', 'google_map_click', {
-                spot_name: currentResult.place,
-                location: currentResult.location
-            });
+        if (isInApp) {
+            aiSearchBtn.textContent = 'Google Mapで開く';
+        } else {
+            aiSearchBtn.textContent = 'AIで詳しく調べる';
         }
-        
-        // 外部アプリとして開く
-        window.location.href = mapUrl;
-    } else {
-        // Web：Perplexity で検索
-        const searchQuery = `${currentResult.place}（${currentResult.location}）のアクセス方法とおすすめポイント`;
-        const perplexityUrl = `https://www.perplexity.ai/search?q=${encodeURIComponent(searchQuery)}`;
-        
-        // GA4イベント: AI検索クリック
-        if (typeof gtag !== 'undefined') {
-            gtag('event', 'ai_search_click', {
-                spot_name: currentResult.place,
-                location: currentResult.location,
-                search_query: searchQuery
-            });
-        }
-        
-        window.open(perplexityUrl, '_blank');
-    }
-});
 
-        // 季節マッチング関数
+        aiSearchBtn.addEventListener('click', () => {
+            if (!currentResult) return;
+
+            if (isInApp) {
+                const mapQuery = encodeURIComponent(`${currentResult.place} ${currentResult.location}`);
+                const mapUrl = `https://www.google.com/maps/search/?api=1&query=${mapQuery}`;
+                if (typeof gtag !== 'undefined') {
+                    gtag('event', 'google_map_click', {
+                        spot_name: currentResult.place,
+                        location: currentResult.location
+                    });
+                }
+                window.location.href = mapUrl;
+            } else {
+                const searchQuery = `${currentResult.place}（${currentResult.location}）のアクセス方法とおすすめポイント`;
+                const perplexityUrl = `https://www.perplexity.ai/search?q=${encodeURIComponent(searchQuery)}`;
+                if (typeof gtag !== 'undefined') {
+                    gtag('event', 'ai_search_click', {
+                        spot_name: currentResult.place,
+                        location: currentResult.location,
+                        search_query: searchQuery
+                    });
+                }
+                window.open(perplexityUrl, '_blank');
+            }
+        });
+
         const matchesSeason = (activitySeason, filterSeason) => {
-            if (!filterSeason) return true; // 指定なしの場合は全てマッチ
+            if (!filterSeason) return true;
             return activitySeason === filterSeason || activitySeason === '通年';
         };
 
-        // 決めるボタン
         decideBtn.addEventListener('click', () => {
             const filters = {
                 location: locationFilter.value,
@@ -1023,7 +1132,6 @@ aiSearchBtn.addEventListener('click', () => {
                 season: seasonFilter.value
             };
 
-            // GA4イベント: 検索実行
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'search_activity', {
                     location_filter: filters.location || '指定なし',
@@ -1034,108 +1142,71 @@ aiSearchBtn.addEventListener('click', () => {
                 });
             }
 
-            // ステップ1: すべての条件で完全一致（場所 + カテゴリ + 時間 + 人数 + 季節）
-            let filtered = activities.filter(activity => {
-                return (!filters.location || activity.location === filters.location) &&
-                       (!filters.category || activity.category === filters.category) &&
-                       (!filters.time || activity.time === filters.time) &&
-                       (!filters.people || activity.people === filters.people) &&
-                       matchesSeason(activity.season, filters.season);
-            });
-
-            // ステップ2: 場所 + カテゴリ + 時間 + 季節（人数を除外）
-            if (filtered.length === 0 && filters.people) {
-                filtered = activities.filter(activity => {
-                    return (!filters.location || activity.location === filters.location) &&
-                           (!filters.category || activity.category === filters.category) &&
-                           (!filters.time || activity.time === filters.time) &&
-                           matchesSeason(activity.season, filters.season);
-                });
-            }
-
-            // ステップ3: 場所 + カテゴリ + 時間（季節を除外）
-            if (filtered.length === 0 && filters.season) {
-                filtered = activities.filter(activity => {
-                    return (!filters.location || activity.location === filters.location) &&
-                           (!filters.category || activity.category === filters.category) &&
-                           (!filters.time || activity.time === filters.time);
-                });
-            }
-
-            // ステップ4: 場所 + カテゴリ（時間を除外）
-            if (filtered.length === 0 && filters.time) {
-                filtered = activities.filter(activity => {
-                    return (!filters.location || activity.location === filters.location) &&
-                           (!filters.category || activity.category === filters.category);
-                });
-            }
-
-            // ステップ5: 場所のみ（カテゴリを除外）
-            if (filtered.length === 0 && filters.category) {
-                filtered = activities.filter(activity => 
-                    !filters.location || activity.location === filters.location
+            let filtered = activities.filter(a =>
+                (!filters.location || a.location === filters.location) &&
+                (!filters.category || a.category === filters.category) &&
+                (!filters.time || a.time === filters.time) &&
+                (!filters.people || a.people === filters.people) &&
+                matchesSeason(a.season, filters.season)
+            );
+            if (filtered.length === 0 && filters.people)
+                filtered = activities.filter(a =>
+                    (!filters.location || a.location === filters.location) &&
+                    (!filters.category || a.category === filters.category) &&
+                    (!filters.time || a.time === filters.time) &&
+                    matchesSeason(a.season, filters.season)
                 );
-            }
-
-            // ステップ6: すべてから選択
-            if (filtered.length === 0) {
+            if (filtered.length === 0 && filters.season)
+                filtered = activities.filter(a =>
+                    (!filters.location || a.location === filters.location) &&
+                    (!filters.category || a.category === filters.category) &&
+                    (!filters.time || a.time === filters.time)
+                );
+            if (filtered.length === 0 && filters.time)
+                filtered = activities.filter(a =>
+                    (!filters.location || a.location === filters.location) &&
+                    (!filters.category || a.category === filters.category)
+                );
+            if (filtered.length === 0 && filters.category)
+                filtered = activities.filter(a => !filters.location || a.location === filters.location);
+            if (filtered.length === 0)
                 filtered = activities;
-            }
 
-            // ランダム選択
             const selected = filtered[Math.floor(Math.random() * filtered.length)];
-            
-            // GA4イベント: スポット選択
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'spot_selected', {
                     spot_name: selected.place,
                     location: selected.location,
-                    category: selected.category,
-                    activity: selected.activity,
-                    time: selected.time,
-                    people: selected.people,
-                    season: selected.season
+                    category: selected.category
                 });
             }
-            
             displayResult(selected);
 
-            // カードフリップ
             decideBtn.disabled = true;
             decideBtn.textContent = '決定中...';
-
             setTimeout(() => {
                 mainCard.classList.add('flipped');
                 decideBtn.disabled = false;
                 decideBtn.textContent = '決める';
-                
-                // カード高さを更新
                 setTimeout(updateCardHeight, 50);
             }, 600);
         });
 
-        // カテゴリアイコンを取得する関数
         function getCategoryIcon(category) {
             const icons = {
-                '自然': '🌿',
-                '歴史・文化': '🏛️',
-                'スポーツ・レクリエーション': '⚽',
-                'アミューズメント': '🎡',
-                '宿泊・温泉': '♨️',
-                'グルメ': '🍴'
+                '自然': '🌿', '歴史・文化': '🏛️',
+                'スポーツ・レクリエーション': '⚽', 'アミューズメント': '🎡',
+                '宿泊・温泉': '♨️', 'グルメ': '🍴'
             };
             return icons[category] || '📍';
         }
 
-        // 結果表示
         function displayResult(activity) {
             currentResult = activity;
-            
             resultTitle.textContent = activity.place;
             resultLocation.textContent = `📍 ${activity.location}`;
             resultActivity.textContent = activity.activity;
             resultPoint.textContent = activity.point;
-
             resultTags.innerHTML = `
                 <span class="tag">⏱️ ${activity.time}</span>
                 <span class="tag">👥 ${activity.people}</span>
@@ -1144,22 +1215,45 @@ aiSearchBtn.addEventListener('click', () => {
             `;
         }
 
-        // リセット
+        // =====================================================
+        // もう一度選ぶ ボタン — Androidならポップアップ挟む
+        // =====================================================
         resetBtn.addEventListener('click', () => {
-            // GA4イベント: もう一度選ぶ
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'reset_click', {
                     previous_spot: currentResult ? currentResult.place : 'unknown'
                 });
             }
-            
+
+            // Androidブラウザ且つ表示上限未達なら訴求を挟む
+            AppPromo.show();
+
             mainCard.classList.remove('flipped');
-            
-            // カード高さを更新
             setTimeout(updateCardHeight, 50);
         });
 
-        // 初期化実行
+        // ポップアップのCTAボタン（実際のストアURLに変更してください）
+        document.getElementById('app-promo-cta-btn').addEventListener('click', () => {
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'app_promo_cta_click', {
+                    platform: 'android'
+                });
+            }
+            // ▼ Google Play ストアのURLに変更してください
+            window.open('https://play.google.com/store/apps/details?id=com.seisaily.app', '_blank');
+            AppPromo.hide();
+        });
+
+        // スキップボタン
+        document.getElementById('app-promo-skip-btn').addEventListener('click', () => {
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'app_promo_skip', {
+                    platform: 'android'
+                });
+            }
+            AppPromo.hide();
+        });
+
         initialize();
     </script>
 </body>
